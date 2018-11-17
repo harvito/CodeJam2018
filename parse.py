@@ -25,18 +25,25 @@ with open('lifestyle_drunk.csv') as csv_file:
 		commentID[i] = line[4]
 
 		words = word_tokenize(comments[i])
-		#
+
+		#stopwords filter
 		for w in words:
 			if w not in stop_words:
 					filtered_comment.append(w)
 
-		fdist = FreqDist(filtered_comment)
+		#generate the word frequency distribution for each comment
+		#fdist = FreqDist(filtered_comment)
 
-		print(filtered_comment)
-		print(fdist.most_common(len(fdist)))
+		#with open('test.csv', 'w', newline='') as f:
+			#thewriter = csv.writer(f)
+			#thewriter.writerow(fdist)
+
+		
 
 		i=i+1
 
-		filtered_comment = []
-
-#get the frequency distribution of words for each comment.
+		#filtered_comment = []
+#print(filtered_comment)
+fdist = FreqDist(filtered_comment)
+print(fdist.most_common(len(fdist)))
+print(len(fdist))
