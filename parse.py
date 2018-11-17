@@ -31,19 +31,21 @@ with open('lifestyle_drunk.csv') as csv_file:
 			if w not in stop_words:
 					filtered_comment.append(w)
 
-		#generate the word frequency distribution for each comment
-		#fdist = FreqDist(filtered_comment)
-
-		#with open('test.csv', 'w', newline='') as f:
-			#thewriter = csv.writer(f)
-			#thewriter.writerow(fdist)
-
-		
-
 		i=i+1
 
-		#filtered_comment = []
-#print(filtered_comment)
+
 fdist = FreqDist(filtered_comment)
 print(fdist.most_common(len(fdist)))
 print(len(fdist))
+
+cdist = fdist.most_common(len(fdist))
+
+for f in fdist:
+	print(f)
+
+
+with open('test.csv', 'w+', newline='') as f:
+			thewriter = csv.writer(f)
+			for g in fdist:
+				thewriter.writerow(cdist)
+				break
