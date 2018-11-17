@@ -50,43 +50,35 @@ counter=0
 commentFreq = []
 
 with open('test.csv', 'w+', newline='') as f:
-			thewriter = csv.writer(f)
-			for g in fdist:
-				thewriter.writerow(fdist)
-				break
+	thewriter = csv.writer(f)
+	for g in fdist:
+		thewriter.writerow(fdist)
+		break
 
-			with open('circlejerk.csv') as csv_file:
-				csv_reader = csv.reader(csv_file)
+	with open('circlejerk.csv') as csv_file:
+		csv_reader = csv.reader(csv_file)
 
-				for line in csv_reader:
+		for line in csv_reader:
 
-					comments[i] = line[0]
-					upvotes[i] = line[6]
-					commentID[i] = line[4]
+			comments[i] = line[0]
+			upvotes[i] = line[6]
+			commentID[i] = line[4]
 
-					words = word_tokenize(comments[i])
+			words = word_tokenize(comments[i])
 
-					print(words)
-					for f in fdist:
-						for w in words:
-							#print(w + " " +f)
-							if(w==f):
-								counter=counter+1
-								#print(counter)
+			print(words)
+			for f in fdist:
+				for w in words:
+					#print(w + " " +f)
+					if(w==f):
+						counter=counter+1
+						#print(counter)
 
-						commentFreq.append(counter)
-						counter=0
-					commentFreq.append(upvotes[i])
-					print(commentFreq)
-					thewriter.writerow(commentFreq)
-					commentFreq=[]
+				commentFreq.append(counter)
+				counter=0
 
-					
-
-
-					
-
-
-
-
-
+			commentFreq.append(upvotes[i])
+			commentFreq.append(commentID[i])
+			print(commentFreq)
+			thewriter.writerow(commentFreq)
+			commentFreq=[]
