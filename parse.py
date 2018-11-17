@@ -76,6 +76,7 @@ with open('test.csv', 'w+', newline='') as f:
 
 						commentFreq.append(counter)
 						counter=0
+					commentFreq.append(upvotes[i])
 					print(commentFreq)
 					thewriter.writerow(commentFreq)
 					commentFreq=[]
