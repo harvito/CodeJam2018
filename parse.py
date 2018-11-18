@@ -1,5 +1,5 @@
 from nltk.tokenize import word_tokenize
-from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktLanguageVars
+# from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktLanguageVars
 from nltk.probability import FreqDist
 from nltk.corpus import stopwords
 import csv
@@ -7,9 +7,10 @@ import os
 
 spath = r"/Users/daesun/Documents/GitHub/CodeJam2018/NoBlanksNoRepeats"
 
-filenames = os.listdir(spath)
+filenames = os.listdir("./NoBlanksNoRepeats/NoBlanksNoRepeats")
+# print "filenames: ", filenames
 
-os.chdir("/Users/daesun/Documents/GitHub/CodeJam2018/NoBlanksNoRepeats")
+# os.chdir("/Users/daesun/Documents/GitHub/CodeJam2018/NoBlanksNoRepeats")
 
 
 newfiles = {}
@@ -27,7 +28,7 @@ loop_counter = 0
 
 #initialize array of comments and upvotes.
 for current_file in filenames:
-	print(current_file)
+	# print(current_file)
 	comments = {}
 	upvotes = {}
 	commentID = {}
@@ -36,24 +37,26 @@ for current_file in filenames:
 	#set stopwords
 	stop_words = set(stopwords.words("english"))
 
+	print "z"
 	#Open up the csv file and extract the comments and # of upvotes.
 	try:
-		csv_file = open(filenames[loop_counter])
+		csv_file = open("./NoBlanksNoRepeats/NoBlanksNoRepeats/"+current_file)
 	except:
-		print(filenames[loop_counter])
+		print current_file
+		continue
 
 	csv_reader = csv.reader(csv_file)
 
 	i=0
-	
+	print "a"
+    # extract unique words in file
 	for line in csv_reader:
-		print(i+1)
+		# print(i+1)
 		comments[i] = line[0]
 		upvotes[i] = line[6]
 		commentID[i] = line[4]
 
-		words = word_tokenize(comments[i])
-
+		words = comments[i].split()
 		#stopwords filter
 		for w in words:
 			if w not in stop_words:
@@ -69,16 +72,19 @@ for current_file in filenames:
 	i=0
 	j=0
 	counter=0
+	print "marker"
 
 	commentFreq = []
-
-	with open(newfiles[loop_counter], 'w+', newline='') as file:
+    # extract info and write
+	with open("newfile.csv", 'w+') as file:
+		print("opened", file)
 		thewriter = csv.writer(file)
-		for g in fdist:
-			thewriter.writerow(fdist)
-			break
+		#for g in fdist:
+		#	print "<", g, ">"
+		thewriter.writerow(fdist.items())
+		#	break
 
-		with open(filenames[loop_counter]) as csv_file:
+		with open("./NoBlanksNoRepeats/NoBlanksNoRepeats/"+current_file) as csv_file:
 			csv_reader = csv.reader(csv_file)
 
 			for line in csv_reader:
@@ -87,7 +93,7 @@ for current_file in filenames:
 				upvotes[i] = line[6]
 				commentID[i] = line[4]
 
-				words = word_tokenize(comments[i])
+				words = comments[i].split()
 
 				for f in fdist:
 					for w in words:
