@@ -1,1 +1,1 @@
-<?php header( 'Location: /Website/redditkarmapredictor/Client/index.html' ) ;  ?>
+<?php header( 'Location: /Website/redditkarmapredictor/Client/index.html/' ) ;  ?>
