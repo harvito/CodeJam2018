@@ -1,4776 +1,4776 @@
-Word, Frequency, Comment Frequency, Net Score
-one, 60, 37, 5309
-time, 56, 37, 5282
-even, 31, 25, 5195
-much, 29, 23, 4791
-century, 30, 17, 4698
-fuck, 8, 4, 4629
-said, 12, 11, 4565
-probably, 14, 10, 4514
-likely, 17, 10, 4496
-would, 85, 48, 4393
-modern, 21, 17, 4385
-use, 26, 18, 4378
-old, 11, 8, 4337
-least, 10, 10, 4310
-exactly, 10, 5, 4283
-written, 16, 11, 4184
-course, 23, 18, 4181
-already, 11, 10, 4121
-otherwise, 4, 4, 4063
-example, 12, 12, 4056
-famous, 8, 6, 4049
-first, 26, 17, 4009
-means, 7, 6, 3974
-20th, 2, 2, 3963
-english, 16, 10, 3942
-earliest, 5, 4, 3874
-back, 16, 14, 3870
-three, 13, 9, 3869
-case, 17, 11, 3845
-men, 13, 8, 3829
-fact, 10, 8, 3823
-later, 19, 14, 3815
-words, 17, 9, 3813
-wrote, 2, 2, 3775
-shit, 6, 2, 3775
-profanity, 2, 2, 3775
-dictionary, 2, 2, 3775
-anyone, 15, 15, 3684
-amp, 6, 4, 3672
-mind, 11, 9, 3668
-considered, 7, 6, 3663
-oxford, 2, 2, 3661
-army, 13, 8, 3656
-sources, 18, 11, 3652
-subject, 9, 8, 3645
-legal, 7, 4, 3633
-16th, 3, 3, 3628
-word, 6, 4, 3593
-verb, 3, 2, 3580
-congressional, 2, 2, 3561
-keep, 6, 4, 3538
-called, 6, 6, 3529
-text, 8, 6, 3518
-meaning, 3, 3, 3514
-revenant, 2, 2, 3500
-events, 2, 2, 3495
-sense, 7, 5, 3494
-documented, 3, 3, 3491
-appear, 5, 4, 3490
-1865, 2, 2, 3489
-literal, 2, 2, 3487
-similarly, 3, 3, 3486
-rarely, 2, 2, 3486
-oldest, 3, 2, 3486
-dates, 2, 2, 3486
-speakers, 2, 2, 3484
-taboo, 2, 2, 3483
-official, 2, 2, 3483
-yfele, 1, 1, 3482
-wi, 1, 1, 3482
-w, 1, 1, 3482
-venerable, 1, 1, 3482
-untela, 1, 1, 3482
-unreadable, 1, 1, 3482
-unprintable, 1, 1, 3482
-ulysses, 1, 1, 3482
-tan, 1, 1, 3482
-swears, 1, 1, 3482
-scittan, 1, 1, 3482
-required, 1, 1, 3482
-reproduce, 1, 1, 3482
-quotations, 1, 1, 3482
-proceedings, 1, 1, 3482
-printing, 1, 1, 3482
-printed, 1, 1, 3482
-oed, 1, 1, 3482
-obscenity, 1, 1, 3482
-ninthcentury, 1, 1, 3482
-mete, 1, 1, 3482
-melte, 1, 1, 3482
-leechbook, 1, 1, 3482
-joyce, 1, 1, 3482
-interjection, 2, 1, 3482
-hand, 1, 1, 3482
-gecirre, 1, 1, 3482
-entry, 1, 1, 3482
-e, 1, 1, 3482
-cow, 1, 1, 3482
-bald, 1, 1, 3482
-1929, 1, 1, 3482
-people, 58, 33, 2003
-also, 54, 37, 1912
-https, 50, 27, 1884
-going, 14, 9, 1776
-question, 36, 29, 1711
-1, 11, 9, 1696
-know, 33, 28, 1683
-rather, 22, 19, 1670
-say, 21, 15, 1665
-using, 9, 9, 1461
-http, 29, 24, 1437
-ca, 12, 10, 1414
-like, 43, 31, 1320
-could, 40, 31, 1256
-around, 17, 14, 1243
-notice, 3, 3, 1237
-get, 24, 21, 1237
-many, 33, 24, 1213
-response, 4, 4, 1199
-getting, 6, 6, 1148
-poor, 4, 4, 1105
-maybe, 8, 7, 1086
-see, 20, 14, 1081
-little, 17, 14, 1078
-thing, 9, 9, 1070
-used, 23, 19, 1058
-good, 18, 14, 1055
-swear, 3, 3, 1050
-things, 23, 16, 1037
-way, 42, 26, 1029
-difficult, 7, 5, 1027
-deal, 8, 8, 984
-times, 9, 9, 978
-tell, 6, 6, 971
-history, 32, 25, 933
-well, 25, 19, 928
-material, 5, 5, 909
-believe, 11, 10, 898
-read, 16, 14, 896
-far, 14, 12, 886
-ancient, 16, 11, 882
-new, 11, 9, 860
-went, 12, 8, 858
-set, 7, 6, 858
-made, 21, 16, 857
-general, 14, 11, 853
-want, 15, 12, 852
-became, 11, 10, 848
-think, 17, 14, 846
-best, 9, 8, 845
-god, 4, 4, 842
-really, 24, 21, 840
-since, 13, 11, 836
-less, 11, 9, 833
-damnit, 2, 2, 829
-among, 14, 9, 820
-wrong, 6, 6, 813
-sub, 4, 3, 790
-though, 9, 6, 789
-ages, 4, 4, 788
-rule, 16, 7, 785
-women, 11, 7, 781
-thread, 9, 8, 781
-compare, 3, 3, 778
-attempt, 3, 3, 778
-published, 2, 2, 774
-commenters, 5, 5, 773
-personal, 4, 4, 767
-seeing, 3, 3, 766
-another, 12, 12, 765
-tolerated, 3, 2, 761
-different, 27, 16, 760
-wiki_civility, 2, 2, 757
-civility, 2, 2, 757
-shitposting, 1, 1, 756
-pointlessly, 1, 1, 756
-officially, 1, 1, 756
-needs, 1, 1, 756
-na, 1, 1, 756
-mom, 1, 1, 756
-maturely, 1, 1, 756
-literally, 1, 1, 756
-insults, 1, 1, 756
-insult, 1, 1, 756
-instaban, 1, 1, 756
-inbox, 1, 1, 756
-humour, 1, 1, 756
-gon, 1, 1, 756
-excuse, 1, 1, 756
-ban, 1, 1, 756
-whole, 12, 8, 752
-close, 4, 3, 744
-due, 6, 6, 742
-particularly, 11, 9, 730
-middle, 11, 10, 730
-often, 11, 10, 729
-era, 15, 11, 728
-period, 27, 17, 711
-america, 11, 10, 711
-part, 16, 12, 695
-strong, 6, 5, 692
-addition, 4, 4, 690
-making, 11, 9, 685
-context, 6, 5, 680
-understanding, 9, 9, 678
-particular, 9, 7, 677
-population, 9, 6, 673
-origins, 7, 4, 673
-language, 9, 4, 672
-come, 8, 8, 672
-recent, 7, 5, 671
-age, 20, 7, 669
-third, 4, 4, 668
-point, 15, 12, 667
-beyond, 3, 3, 664
-perhaps, 7, 7, 663
-easy, 3, 2, 660
-argues, 2, 2, 660
-compared, 5, 5, 654
-might, 15, 14, 653
-came, 10, 7, 653
-white, 12, 7, 652
-results, 3, 3, 651
-2, 7, 7, 646
-long, 11, 9, 644
-within, 5, 5, 643
-note, 5, 3, 642
-year, 15, 7, 638
-sure, 8, 6, 634
-americans, 3, 3, 631
-day, 14, 10, 630
-may, 28, 22, 629
-released, 3, 3, 625
-race, 4, 3, 625
-happens, 3, 3, 624
-tremendously, 2, 2, 620
-9, 3, 2, 620
-line, 8, 5, 616
-answer, 32, 22, 616
-based, 9, 8, 614
-interesting, 12, 10, 611
-trade, 18, 7, 606
-evidence, 11, 9, 606
-looking, 6, 6, 588
-term, 9, 7, 583
-understand, 8, 8, 579
-seem, 5, 5, 573
-got, 9, 9, 567
-salt, 22, 6, 566
-today, 16, 10, 561
-specific, 13, 11, 559
-terms, 13, 10, 555
-allowed, 7, 6, 555
-quite, 12, 12, 554
-look, 8, 7, 552
-find, 17, 17, 550
-us, 17, 13, 548
-second, 11, 9, 548
-add, 7, 6, 545
-take, 10, 10, 541
-norway, 9, 4, 540
-miners, 5, 3, 539
-short, 9, 6, 534
-began, 6, 5, 534
-change, 9, 3, 533
-similar, 10, 10, 532
-party, 3, 3, 532
-country, 11, 9, 530
-gave, 6, 6, 529
-live, 3, 3, 528
-home, 5, 5, 527
-effect, 3, 3, 527
-barely, 2, 2, 527
-asking, 7, 7, 526
-important, 9, 7, 525
-beat, 3, 3, 523
-end, 10, 9, 522
-company, 12, 5, 517
-hard, 7, 6, 516
-always, 11, 9, 514
-according, 3, 3, 514
-whether, 7, 6, 513
-told, 4, 3, 513
-make, 11, 11, 513
-level, 6, 5, 513
-start, 7, 6, 512
-rich, 5, 4, 511
-go, 13, 10, 511
-random, 3, 2, 510
-fish, 3, 2, 506
-curing, 2, 2, 506
-certainly, 10, 8, 505
-left, 4, 4, 503
-theory, 9, 6, 500
-without, 4, 4, 498
-model, 12, 4, 498
-high, 9, 7, 498
-blacks, 4, 2, 496
-1940, 2, 2, 496
-shows, 8, 5, 494
-feel, 5, 5, 494
-birth, 2, 2, 494
-yes, 4, 4, 493
-last, 4, 4, 493
-clearly, 4, 4, 493
-able, 6, 5, 493
-pay, 4, 4, 492
-show, 6, 6, 491
-complex, 3, 3, 490
-right, 11, 11, 489
-group, 5, 4, 489
-vote, 9, 2, 488
-discussing, 3, 3, 488
-data, 7, 3, 488
-changes, 3, 3, 488
-valleys, 2, 2, 487
-trends, 3, 3, 487
-roughly, 3, 3, 487
-higher, 4, 3, 487
-center, 2, 2, 487
-18, 2, 2, 487
-10, 4, 4, 487
-0, 2, 2, 487
-york, 6, 2, 486
-presidency, 2, 2, 486
-popular, 4, 3, 486
-attention, 2, 2, 486
-affects, 2, 2, 486
-proxy, 2, 2, 485
-movements, 2, 2, 485
-increasingly, 6, 4, 485
-50, 2, 2, 485
-young, 4, 3, 484
-trend, 2, 2, 484
-nature, 4, 4, 484
-moved, 2, 2, 484
-harder, 2, 2, 484
-confusing, 2, 2, 484
-born, 2, 2, 484
-al, 2, 2, 484
-measure, 2, 2, 483
-half, 2, 2, 483
-effected, 3, 2, 483
-presidential, 4, 2, 482
-distinct, 2, 2, 482
-continuing, 2, 2, 482
-comparing, 2, 2, 482
-candidates, 2, 2, 482
-2000, 3, 2, 482
-20, 2, 2, 482
-youth, 2, 1, 481
-younger, 1, 1, 481
-win, 1, 1, 481
-voting, 6, 1, 481
-voters, 4, 1, 481
-voter, 1, 1, 481
-voted, 2, 1, 481
-urban, 4, 4, 481
-truman, 1, 1, 481
-triumphant, 1, 1, 481
-threeman, 1, 1, 481
-thatdukkakis, 1, 1, 481
-tendency, 1, 1, 481
-telephone, 1, 1, 481
-surveys, 1, 1, 481
-support, 1, 1, 481
-success, 1, 1, 481
-subgroups, 2, 1, 481
-subgroup, 1, 1, 481
-strongly, 1, 1, 481
-statistical, 2, 1, 481
-splits, 1, 1, 481
-southerners, 1, 1, 481
-slightly, 4, 1, 481
-simulated, 1, 1, 481
-ross, 1, 1, 481
-roper, 1, 1, 481
-republicans, 1, 1, 481
-republican, 6, 2, 481
-reagan, 2, 1, 481
-ratings, 1, 1, 481
-proved, 1, 1, 481
-preferences, 3, 1, 481
-polling, 3, 1, 481
-poll, 1, 1, 481
-perot, 1, 1, 481
-permanently, 1, 1, 481
-peaks, 1, 1, 481
-partisanship, 1, 1, 481
-olds, 3, 1, 481
-numbers, 1, 1, 481
-models, 1, 1, 481
-malleable, 1, 1, 481
-interpret, 1, 1, 481
-interactive, 1, 1, 481
-inference, 1, 1, 481
-ideologybut, 1, 1, 481
-ideological, 1, 1, 481
-hispanics, 5, 1, 481
-hispanic, 1, 1, 481
-happen, 1, 1, 481
-gotten, 1, 1, 481
-gore, 1, 1, 481
-glancejust, 1, 1, 481
-gallup, 1, 1, 481
-fully, 1, 1, 481
-ford, 1, 1, 481
-foldif, 1, 1, 481
-fluctuations, 1, 1, 481
-fewer, 1, 1, 481
-expressed, 1, 1, 481
-explains, 1, 1, 481
-elections, 1, 1, 481
-election, 7, 1, 481
-eisenhower, 1, 1, 481
-dissipated, 1, 1, 481
-dip, 1, 1, 481
-digit, 1, 1, 481
-dialing, 1, 1, 481
-dial, 1, 1, 481
-dewey, 1, 1, 481
-demographic, 1, 1, 481
-democrat, 1, 1, 481
-defeats, 1, 1, 481
-decent, 1, 1, 481
-consistently, 1, 1, 481
-confusingly, 1, 1, 481
-collected, 1, 1, 481
-collect, 1, 1, 481
-cohorts, 4, 1, 481
-cohort, 3, 1, 481
-clinton, 2, 1, 481
-chilled, 1, 1, 481
-chart, 1, 1, 481
-carter, 2, 1, 481
-candidate, 1, 1, 481
-bush, 2, 1, 481
-asians, 1, 1, 481
-approval, 1, 1, 481
-americanborn, 1, 1, 481
-activists, 1, 1, 481
-_r, 1, 1, 481
-73, 1, 1, 481
-7, 1, 1, 481
-65, 1, 1, 481
-55, 1, 1, 481
-52, 1, 1, 481
-5064, 1, 1, 481
-48, 2, 1, 481
-4559, 1, 1, 481
-42, 1, 1, 481
-40, 2, 1, 481
-3049, 1, 1, 481
-2529, 1, 1, 481
-1996, 1, 1, 481
-1992, 1, 1, 481
-1976, 2, 1, 481
-1974, 1, 1, 481
-1970, 2, 1, 481
-1960, 1, 1, 481
-1950, 1, 1, 481
-1948, 1, 1, 481
-1824, 1, 1, 481
-1424, 1, 1, 481
-historically, 4, 4, 479
-try, 8, 8, 476
-poem, 6, 2, 474
-others, 6, 6, 471
-ever, 9, 9, 467
-talking, 6, 4, 466
-usually, 8, 8, 457
-months, 4, 3, 454
-matter, 8, 6, 454
-19th, 10, 6, 446
-spanish, 6, 4, 441
-merely, 3, 3, 437
-form, 10, 6, 436
-definitely, 3, 3, 435
-reference, 3, 3, 433
-sentences, 4, 2, 432
-forms, 3, 2, 432
-gt, 28, 10, 427
-obviously, 5, 5, 426
-found, 9, 9, 412
-power, 25, 12, 407
-latin, 6, 5, 407
-works, 2, 2, 403
-however, 13, 10, 403
-greeks, 3, 3, 401
-greek, 5, 4, 401
-french, 13, 9, 400
-american, 17, 12, 400
-depict, 3, 2, 398
-beauty, 2, 2, 398
-imagine, 8, 7, 397
-q, 3, 3, 396
-reddit, 4, 4, 394
-writing, 5, 5, 393
-answering, 3, 3, 392
-vulgar, 5, 2, 391
-mine, 3, 3, 391
-f, 2, 2, 391
-italian, 12, 4, 389
-epic, 2, 2, 387
-current, 7, 6, 387
-woman, 3, 3, 386
-wearing, 6, 4, 385
-limited, 3, 3, 385
-b, 5, 3, 385
-13th, 3, 2, 385
-keeping, 2, 2, 384
-poland, 8, 4, 382
-successful, 2, 2, 381
-record, 5, 2, 381
-possibly, 2, 2, 381
-standards, 2, 2, 380
-exposed, 2, 2, 380
-despite, 2, 2, 380
-bc, 3, 2, 380
-types, 2, 2, 378
-revolve, 2, 2, 378
-depicted, 3, 2, 378
-news, 2, 2, 377
-life, 8, 8, 377
-writings, 1, 1, 376
-tied, 1, 1, 376
-script, 3, 1, 376
-scribes, 1, 1, 376
-reporting, 1, 1, 376
-peplos, 1, 1, 376
-painted, 1, 1, 376
-mycenaeans, 2, 1, 376
-mycenaean, 2, 1, 376
-mycenae, 1, 1, 376
-makeup, 1, 1, 376
-literary, 1, 1, 376
-linear, 3, 1, 376
-large, 13, 10, 376
-iliad, 1, 1, 376
-frescoes, 1, 1, 376
-face, 1, 1, 376
-experiencetraining, 1, 1, 376
-encoding, 1, 1, 376
-employment, 1, 1, 376
-dresses, 1, 1, 376
-colorful, 1, 1, 376
-chiton, 1, 1, 376
-c3, 2, 1, 376
-breasts, 1, 1, 376
-bet, 1, 1, 376
-beautiful, 1, 1, 376
-artifacts, 1, 1, 376
-art, 3, 2, 376
-acropolis, 1, 1, 376
-a8nes, 2, 1, 376
-2c_frescojpg, 1, 1, 376
-war, 34, 15, 371
-traditional, 3, 3, 366
-amount, 5, 5, 365
-process, 16, 6, 364
-early, 11, 9, 364
-book, 11, 10, 361
-wealthy, 5, 4, 360
-northern, 4, 4, 360
-visiting, 2, 2, 358
-worth, 4, 4, 355
-talk, 6, 4, 353
-england, 14, 10, 353
-happened, 9, 8, 352
-outside, 7, 6, 351
-simply, 7, 6, 346
-valiuable, 1, 1, 343
-mean, 8, 8, 343
-kilos, 2, 1, 343
-handfull, 2, 1, 343
-fishers, 1, 1, 343
-brine, 1, 1, 343
-accessible, 2, 2, 342
-boston, 2, 2, 339
-small, 7, 7, 335
-treated, 6, 6, 334
-gives, 6, 5, 334
-guess, 4, 4, 333
-roman, 12, 9, 332
-along, 9, 7, 332
-leading, 4, 4, 331
-eventually, 6, 5, 328
-somewhat, 3, 3, 327
-actually, 17, 15, 327
-bit, 4, 4, 325
-bigger, 3, 3, 325
-thus, 8, 7, 323
-gained, 4, 4, 323
-still, 10, 9, 322
-fairly, 7, 7, 321
-etc, 11, 9, 320
-put, 6, 5, 319
-stand, 2, 2, 318
-collection, 2, 2, 318
-wants, 2, 2, 317
-top, 3, 3, 317
-shakespeare, 2, 2, 315
-human, 3, 2, 315
-although, 7, 7, 315
-past, 9, 7, 314
-kind, 8, 8, 314
-better, 7, 6, 313
-situation, 3, 3, 312
-referring, 3, 3, 311
-man, 4, 3, 311
-mother, 3, 3, 310
-class, 5, 4, 310
-image, 3, 3, 309
-clear, 5, 5, 309
-check, 6, 6, 309
-lower, 3, 3, 308
-truly, 3, 3, 307
-saying, 4, 4, 307
-author, 2, 2, 306
-almost, 10, 10, 306
-de, 4, 4, 305
-mystery, 2, 2, 304
-linked, 3, 3, 304
-four, 3, 3, 304
-anachronistic, 4, 2, 304
-focus, 2, 2, 302
-circumstances, 2, 2, 302
-appears, 4, 4, 302
-eg, 5, 4, 301
-years, 11, 9, 300
-protestant, 2, 2, 300
-portuguese, 4, 2, 300
-invaded, 2, 2, 300
-front, 3, 3, 300
-civil, 3, 3, 300
-church, 5, 4, 300
-nowadays, 3, 3, 299
-wealth, 4, 3, 298
-rough, 2, 2, 298
-noble, 2, 2, 298
-europe, 22, 16, 298
-saxons, 2, 2, 297
-questions, 16, 12, 297
-goes, 2, 2, 297
-sex, 4, 3, 296
-internet, 2, 2, 296
-guards, 12, 3, 296
-san, 2, 2, 295
-piece, 2, 2, 295
-languages, 4, 2, 295
-favorite, 2, 2, 295
-entered, 2, 2, 295
-actual, 2, 2, 295
-remove, 2, 2, 294
-writers, 1, 1, 293
-whores, 1, 1, 293
-watchword, 1, 1, 293
-utterances, 1, 1, 293
-twelfth, 1, 1, 293
-tremendous, 1, 1, 293
-traite, 1, 1, 293
-ten, 1, 1, 293
-swore, 8, 1, 293
-swearwords, 1, 1, 293
-sons, 1, 1, 293
-select, 1, 1, 293
-scheisse, 1, 1, 293
-sailors, 1, 1, 293
-rumanian, 1, 1, 293
-round, 1, 1, 293
-rooster, 1, 1, 293
-romance, 1, 1, 293
-reviewers, 2, 1, 293
-respectively, 1, 1, 293
-remote, 1, 1, 293
-regularity, 1, 1, 293
-reformation, 1, 1, 293
-refined, 1, 1, 293
-rahat, 1, 1, 293
-pute, 1, 1, 293
-pull, 1, 1, 293
-proseunfortunately, 1, 1, 293
-powered, 1, 1, 293
-plus, 1, 1, 293
-pitchers, 1, 1, 293
-penned, 1, 1, 293
-obscenely, 1, 1, 293
-obscene, 4, 1, 293
-objects, 1, 1, 293
-novels, 1, 1, 293
-novel, 5, 1, 293
-nonobscene, 1, 1, 293
-naughty, 1, 1, 293
-mixed, 1, 1, 293
-mierda, 1, 1, 293
-methodically, 1, 1, 293
-merde, 1, 1, 293
-merda, 3, 1, 293
-meaningsif, 1, 1, 293
-meanings, 3, 1, 293
-likewise, 1, 1, 293
-lexicon, 1, 1, 293
-le, 1, 1, 293
-k, 1, 1, 293
-jugs, 1, 1, 293
-habitually, 1, 1, 293
-genitals, 1, 1, 293
-gasp, 1, 1, 293
-gage, 1, 1, 293
-fresco, 2, 1, 293
-foul, 1, 1, 293
-forums, 1, 1, 293
-formalized, 1, 1, 293
-fili, 1, 1, 293
-fiction, 1, 1, 293
-ficken, 1, 1, 293
-favorites, 1, 1, 293
-essay, 2, 1, 293
-cussing, 1, 1, 293
-cursed, 1, 1, 293
-cur, 1, 1, 293
-culum, 1, 1, 293
-culo, 2, 1, 293
-cul, 1, 1, 293
-cu, 1, 1, 293
-crap, 1, 1, 293
-conventional, 1, 1, 293
-contexts, 1, 1, 293
-complaints, 2, 1, 293
-complained, 1, 1, 293
-cock, 1, 1, 293
-clemente, 1, 1, 293
-censorship, 2, 1, 293
-censored, 1, 1, 293
-catabolism, 1, 1, 293
-bowdlerization, 1, 1, 293
-bits, 1, 1, 293
-bitch, 1, 1, 293
-beings, 1, 1, 293
-behind, 1, 1, 293
-basilica, 1, 1, 293
-banned, 1, 1, 293
-balls, 1, 1, 293
-ass, 1, 1, 293
-anglosaxonsjust, 1, 1, 293
-angles, 1, 1, 293
-anarchist, 1, 1, 293
-anachronisms, 1, 1, 293
-allegedly, 1, 1, 293
-adventure, 1, 1, 293
-city, 5, 4, 289
-sort, 11, 11, 288
-seems, 25, 19, 284
-world, 17, 13, 279
-mentioned, 2, 2, 277
-id, 6, 2, 277
-hl, 3, 2, 277
-enamp, 3, 2, 277
-booksgooglecombooks, 6, 2, 277
-southern, 7, 7, 276
-culture, 7, 7, 275
-work, 11, 6, 274
-great, 22, 14, 272
-establish, 4, 3, 270
-picked, 2, 2, 269
-earlier, 5, 5, 253
-societies, 9, 5, 251
-two, 19, 14, 245
-east, 14, 9, 243
-anything, 12, 10, 243
-source, 7, 7, 239
-target, 2, 2, 237
-letter, 3, 2, 237
-states, 20, 11, 233
-place, 11, 9, 230
-congress, 6, 4, 230
-never, 11, 10, 229
-market, 3, 3, 226
-india, 13, 4, 225
-dissolved, 2, 2, 225
-absorbed, 2, 2, 225
-true, 15, 9, 224
-either, 7, 6, 224
-executive, 3, 3, 223
-native, 6, 5, 221
-related, 7, 7, 218
-silver, 3, 3, 217
-locals, 2, 2, 217
-quick, 4, 4, 216
-given, 3, 3, 213
-tea, 5, 2, 212
-site, 5, 3, 212
-movie, 2, 2, 212
-cahokia, 19, 4, 212
-upon, 3, 3, 210
-medieval, 16, 12, 209
-else, 9, 8, 208
-removed, 14, 14, 207
-west, 14, 11, 205
-opposite, 4, 4, 205
-account, 4, 2, 205
-military, 18, 8, 203
-various, 7, 5, 202
-political, 8, 7, 202
-cities, 2, 2, 202
-personally, 4, 4, 201
-community, 4, 4, 199
-tried, 5, 5, 198
-reasons, 5, 4, 198
-recommend, 4, 4, 197
-historical, 14, 8, 197
-mines, 3, 2, 196
-interaction, 2, 2, 196
-areas, 6, 5, 195
-move, 3, 3, 194
-towards, 8, 6, 193
-indeed, 3, 3, 192
-central, 6, 6, 192
-area, 5, 5, 192
-across, 4, 4, 190
-special, 6, 5, 189
-rise, 5, 3, 189
-peoples, 4, 3, 189
-historian, 4, 4, 188
-article, 5, 5, 188
-believed, 2, 2, 187
-initially, 3, 3, 186
-heard, 6, 6, 186
-becomes, 3, 3, 186
-act, 4, 3, 186
-distant, 2, 2, 185
-closely, 5, 3, 185
-thomas, 2, 2, 184
-space, 2, 2, 184
-lived, 3, 2, 184
-immigrants, 3, 2, 184
-dominant, 3, 2, 184
-ancestors, 3, 2, 183
-core, 2, 2, 182
-archaeology, 2, 2, 182
-archaeologists, 3, 2, 182
-nations, 4, 3, 181
-interested, 14, 14, 181
-edition, 2, 2, 181
-diverse, 4, 2, 181
-western, 11, 6, 180
-suggests, 2, 2, 180
-possibility, 2, 2, 180
-five, 2, 2, 180
-conditions, 6, 5, 180
-ybta4mgrzdcc, 1, 1, 179
-wanes, 1, 1, 179
-wabash, 1, 1, 179
-towns, 1, 1, 179
-timothy, 1, 1, 179
-technical, 1, 1, 179
-studying, 1, 1, 179
-skeptical, 1, 1, 179
-sites, 2, 1, 179
-siphoned, 1, 1, 179
-shop, 1, 1, 179
-r0ez6e9jhv8c, 1, 1, 179
-quapaw, 1, 1, 179
-prominent, 1, 1, 179
-principles, 1, 1, 179
-ponca, 1, 1, 179
-pauketat, 1, 1, 179
-outlying, 1, 1, 179
-osage, 1, 1, 179
-omaha, 1, 1, 179
-named, 1, 1, 179
-multilingual, 1, 1, 179
-multiethnic, 1, 1, 179
-mouth, 1, 1, 179
-mississippians, 1, 1, 179
-mississippian, 3, 1, 179
-mississippi, 1, 1, 179
-midcontinent, 1, 1, 179
-mergers, 1, 1, 179
-maintain, 1, 1, 179
-lr, 2, 1, 179
-kansa, 1, 1, 179
-indiana, 1, 1, 179
-inability, 1, 1, 179
-illinois, 1, 1, 179
-hte, 1, 1, 179
-historic, 2, 1, 179
-handbook, 1, 1, 179
-gzm4awaaqbaj, 1, 1, 179
-generations, 1, 1, 179
-gcehcwaaqbaj, 1, 1, 179
-forming, 1, 1, 179
-force, 1, 1, 179
-explain, 1, 1, 179
-expanding, 1, 1, 179
-ethnogenesis, 1, 1, 179
-emerson, 4, 1, 179
-divergences, 1, 1, 179
-dissolution, 1, 1, 179
-dhegiha, 3, 1, 179
-creation, 1, 1, 179
-crash, 1, 1, 179
-connection, 1, 1, 179
-confederacy, 2, 1, 179
-communities, 1, 1, 179
-collapse, 1, 1, 179
-checking, 1, 1, 179
-chapter, 1, 1, 179
-bullet, 1, 1, 179
-bottoms, 1, 1, 179
-audience, 1, 1, 179
-assimilated, 1, 1, 179
-angel, 3, 1, 179
-ancestral, 1, 1, 179
-algonquianspeaking, 1, 1, 179
-access, 4, 4, 179
-abruptly, 1, 1, 179
-9y_fohyllmec, 1, 1, 179
-1450, 1, 1, 179
-possible, 10, 8, 178
-mention, 5, 4, 178
-help, 9, 8, 177
-transport, 4, 3, 176
-duties, 2, 2, 176
-let, 6, 6, 175
-known, 10, 6, 175
-thinking, 4, 4, 174
-hopefully, 5, 5, 174
-trading, 4, 3, 173
-order, 9, 6, 173
-destroyed, 2, 2, 173
-viking, 19, 3, 172
-instance, 4, 4, 172
-gone, 2, 2, 172
-coast, 2, 2, 172
-food, 2, 2, 170
-deliberately, 3, 2, 170
-board, 3, 2, 170
-huge, 2, 2, 169
-practices, 2, 2, 168
-items, 2, 2, 168
-effort, 2, 2, 168
-scarce, 2, 2, 167
-officers, 7, 3, 167
-mainly, 2, 2, 167
-valueable, 2, 1, 166
-surely, 1, 1, 166
-spices, 1, 1, 166
-serve, 3, 2, 166
-riches, 1, 1, 166
-inflation, 1, 1, 166
-economic, 3, 3, 166
-comment, 5, 5, 166
-assests, 1, 1, 166
-adjusted, 1, 1, 166
-troops, 5, 4, 165
-5, 4, 3, 165
-informed, 3, 3, 164
-ceremonial, 3, 3, 164
-treating, 1, 1, 163
-treat, 1, 1, 163
-stockfish, 4, 1, 163
-rrfisk, 1, 1, 163
-polish, 1, 1, 163
-perfect, 1, 1, 163
-operated, 1, 1, 163
-norwegians, 1, 1, 163
-norwegian, 2, 1, 163
-lye, 1, 1, 163
-lutefisk, 1, 1, 163
-lucrative, 1, 1, 163
-hansa, 1, 1, 163
-fishmongers, 1, 1, 163
-fisherman, 1, 1, 163
-dried, 1, 1, 163
-coolair, 1, 1, 163
-birch, 1, 1, 163
-bergen, 1, 1, 163
-ash, 1, 1, 163
-previous, 4, 4, 162
-portion, 2, 2, 162
-entire, 5, 5, 161
-law, 8, 4, 160
-exclusion, 5, 4, 158
-useful, 4, 4, 157
-regiments, 5, 2, 157
-practice, 4, 3, 157
-perform, 3, 3, 157
-every, 7, 7, 157
-demand, 2, 2, 157
-wanted, 8, 5, 155
-primary, 4, 4, 155
-number, 3, 3, 155
-involved, 5, 4, 154
-guard, 3, 3, 154
-resistance, 9, 5, 153
-internal, 3, 3, 153
-cases, 5, 4, 153
-provided, 3, 3, 152
-light, 4, 4, 152
-business, 2, 2, 152
-japanese, 6, 5, 150
-trial, 4, 2, 149
-treatment, 3, 3, 149
-takes, 4, 4, 149
-andor, 4, 4, 149
-seek, 2, 2, 148
-public, 4, 2, 148
-persons, 3, 2, 148
-occasions, 3, 3, 148
-judge, 3, 2, 148
-gets, 3, 3, 148
-fight, 3, 3, 148
-draws, 2, 2, 148
-depending, 3, 3, 148
-become, 4, 4, 148
-arrived, 3, 3, 148
-staff, 4, 3, 147
-mostly, 4, 4, 147
-done, 5, 4, 147
-differences, 5, 4, 147
-command, 3, 3, 147
-authority, 4, 3, 147
-whose, 3, 3, 146
-town, 2, 2, 146
-road, 2, 2, 146
-march, 4, 3, 146
-justice, 4, 2, 146
-iron, 3, 2, 146
-saved, 3, 3, 145
-excluded, 8, 3, 145
-absolutely, 3, 3, 145
-zones, 3, 2, 144
-zone, 2, 2, 144
-trying, 5, 3, 144
-signs, 3, 2, 144
-restrictions, 2, 2, 144
-removing, 2, 2, 144
-remarkably, 2, 2, 144
-refused, 2, 2, 144
-pm, 2, 2, 144
-ordinary, 2, 2, 144
-moral, 3, 3, 144
-giving, 2, 2, 144
-fascinating, 2, 2, 144
-excellent, 2, 2, 144
-ends, 7, 2, 144
-en, 2, 2, 144
-trip, 2, 2, 143
-remained, 2, 2, 143
-head, 3, 2, 143
-direct, 11, 11, 143
-date, 3, 3, 143
-100, 2, 2, 143
-served, 3, 2, 142
-section, 2, 2, 142
-peter, 4, 3, 142
-name, 14, 9, 142
-japaneseamericans, 5, 2, 142
-internment, 6, 2, 142
-gordon, 16, 2, 142
-claimed, 2, 2, 142
-camps, 4, 2, 142
-admit, 2, 2, 142
-acts, 2, 2, 142
-wound, 3, 2, 141
-removal, 2, 2, 141
-purely, 3, 3, 141
-police, 5, 2, 141
-hated, 2, 2, 141
-explained, 2, 2, 141
-department, 5, 2, 141
-court, 5, 3, 141
-conflicts, 2, 2, 141
-8, 3, 2, 141
-passed, 3, 2, 140
-orders, 4, 2, 140
-officer, 3, 2, 140
-nother, 2, 2, 140
-money, 3, 3, 140
-leisurely, 2, 2, 140
-island, 2, 2, 140
-colonies, 8, 4, 140
-badly, 2, 2, 140
-1942, 4, 2, 140
-yearlong, 1, 1, 139
-yasuigordon, 1, 1, 139
-yasui, 7, 1, 139
-worthwhile, 1, 1, 139
-wonderfully, 1, 1, 139
-winds, 2, 1, 139
-willingness, 1, 1, 139
-walking, 1, 1, 139
-visit, 1, 1, 139
-violation, 2, 1, 139
-violating, 1, 1, 139
-utah, 1, 1, 139
-upheld, 1, 1, 139
-uninvolved, 1, 1, 139
-turns, 1, 1, 139
-tucson, 4, 1, 139
-totally, 1, 1, 139
-topaz, 1, 1, 139
-test, 3, 1, 139
-techniques, 1, 1, 139
-surgery, 1, 1, 139
-supreme, 2, 1, 139
-strike, 1, 1, 139
-street, 1, 1, 139
-strategies, 1, 1, 139
-stopping, 1, 1, 139
-staying, 1, 1, 139
-station, 1, 1, 139
-spends, 1, 1, 139
-spend, 3, 1, 139
-specifics, 1, 1, 139
-somehow, 1, 1, 139
-somebody, 1, 1, 139
-slow, 1, 1, 139
-sitting, 1, 1, 139
-signing, 1, 1, 139
-shipped, 2, 1, 139
-serving, 1, 1, 139
-separate, 2, 1, 139
-sentencing, 1, 1, 139
-sentenced, 1, 1, 139
-sentence, 7, 1, 139
-seattle, 2, 1, 139
-scotus, 1, 1, 139
-sarah, 1, 1, 139
-ryo, 1, 1, 139
-route, 1, 1, 139
-resistors, 2, 1, 139
-resisted, 1, 1, 139
-requiring, 1, 1, 139
-relocation, 1, 1, 139
-refuses, 3, 1, 139
-reducing, 1, 1, 139
-reduced, 1, 1, 139
-recognized, 1, 1, 139
-ready, 1, 1, 139
-readable, 1, 1, 139
-rationale, 2, 1, 139
-radical, 2, 2, 139
-racial, 1, 1, 139
-questionone, 1, 1, 139
-quaker, 2, 1, 139
-puzzled, 1, 1, 139
-punitive, 1, 1, 139
-punishable, 1, 1, 139
-prompting, 1, 1, 139
-program, 1, 1, 139
-proclamations, 3, 1, 139
-proceeds, 1, 1, 139
-probation, 1, 1, 139
-prison, 8, 1, 139
-principled, 1, 1, 139
-prescribe, 1, 1, 139
-poston, 1, 1, 139
-posthumous, 1, 1, 139
-portland, 1, 1, 139
-plastic, 1, 1, 139
-piecemeal, 2, 1, 139
-philosophical, 1, 1, 139
-persuaded, 1, 1, 139
-persuade, 1, 1, 139
-penitentiary, 1, 1, 139
-passiveaggressive, 1, 1, 139
-pass, 1, 1, 139
-paragraph, 1, 1, 139
-paperwork, 2, 1, 139
-pacifist, 1, 1, 139
-oversaw, 1, 1, 139
-outraged, 1, 1, 139
-original, 2, 1, 139
-oregon, 1, 1, 139
-ofhe, 1, 1, 139
-offers, 1, 1, 139
-occasion, 2, 2, 139
-oakland, 1, 1, 139
-nose, 1, 1, 139
-noncompliance, 1, 1, 139
-nephew, 1, 1, 139
-neccessity, 1, 1, 139
-mitsuye, 1, 1, 139
-minoru, 3, 1, 139
-minidoka, 1, 1, 139
-measureshirabayashi, 1, 1, 139
-mcneill, 1, 1, 139
-maximums, 1, 1, 139
-maximum, 1, 1, 139
-manifesto, 1, 1, 139
-management, 1, 1, 139
-losing, 1, 1, 139
-loses, 1, 1, 139
-levels, 1, 1, 139
-leave, 1, 1, 139
-languished, 1, 1, 139
-lane, 1, 1, 139
-korematsu, 4, 1, 139
-jury, 1, 1, 139
-judiciary, 1, 1, 139
-japaneseamerican, 1, 1, 139
-jail, 3, 1, 139
-itching, 1, 1, 139
-issuing, 1, 1, 139
-intensely, 1, 1, 139
-intended, 1, 1, 139
-insisted, 1, 1, 139
-indicted, 1, 1, 139
-imprisoning, 1, 1, 139
-idaho, 2, 1, 139
-honor, 1, 1, 139
-hitchiking, 1, 1, 139
-hitchhike, 1, 1, 139
-hirabayashi, 6, 1, 139
-heritage, 1, 1, 139
-hawaiian, 1, 1, 139
-happy, 2, 1, 139
-grants, 1, 1, 139
-grand, 1, 1, 139
-geared, 1, 1, 139
-frustrated, 2, 1, 139
-friends, 1, 1, 139
-fred, 2, 1, 139
-folks, 1, 1, 139
-fining, 1, 1, 139
-fines, 2, 1, 139
-finagling, 1, 1, 139
-fiancee, 1, 1, 139
-fee, 2, 1, 139
-federal, 7, 1, 139
-february, 1, 1, 139
-fdr, 2, 1, 139
-fbi, 2, 1, 139
-eyes, 1, 1, 139
-explaining, 2, 1, 139
-exclude, 1, 1, 139
-escalated, 1, 1, 139
-eo, 3, 1, 139
-enroll, 1, 1, 139
-enlist, 1, 1, 139
-enforcing, 1, 1, 139
-enforcement, 1, 1, 139
-endo, 1, 1, 139
-enamored, 1, 1, 139
-elaborate, 1, 1, 139
-duty, 1, 1, 139
-drafts, 1, 1, 139
-drafted, 1, 1, 139
-draft, 2, 1, 139
-documents, 1, 1, 139
-disobeyed, 1, 1, 139
-dismantling, 1, 1, 139
-dinner, 1, 1, 139
-dewitt, 1, 1, 139
-desired, 1, 1, 139
-descent, 2, 1, 139
-denied, 1, 1, 139
-defense, 1, 1, 139
-deeply, 2, 1, 139
-declare, 2, 1, 139
-decision, 2, 2, 139
-da, 2, 1, 139
-curfews, 2, 1, 139
-curfew, 3, 1, 139
-crime, 1, 1, 139
-coupled, 1, 1, 139
-conviction, 1, 1, 139
-convicted, 2, 1, 139
-constitutionality, 1, 1, 139
-consider, 5, 4, 139
-concurrent, 1, 1, 139
-comprehensive, 1, 1, 139
-comply, 3, 1, 139
-completed, 1, 1, 139
-compiling, 1, 1, 139
-compiled, 1, 1, 139
-comparatively, 1, 1, 139
-clyde, 1, 1, 139
-catalina, 1, 1, 139
-camp, 14, 1, 139
-broke, 2, 1, 139
-bounces, 1, 1, 139
-biography, 1, 1, 139
-behavior, 1, 1, 139
-begin, 1, 1, 139
-bail, 1, 1, 139
-authorities, 2, 1, 139
-assumed, 1, 1, 139
-arrested, 1, 1, 139
-arrest, 1, 1, 139
-arizona, 1, 1, 139
-approached, 1, 1, 139
-appeals, 4, 1, 139
-anybody, 1, 1, 139
-anthropologist, 1, 1, 139
-announcing, 1, 1, 139
-amusingly, 1, 1, 139
-amusing, 1, 1, 139
-alias, 1, 1, 139
-admitted, 2, 1, 139
-9066, 3, 1, 139
-90, 2, 1, 139
-503, 3, 1, 139
-5000, 2, 1, 139
-4page, 1, 1, 139
-30th, 1, 1, 139
-28th, 1, 1, 139
-north, 12, 5, 138
-especially, 11, 8, 138
-replace, 2, 2, 136
-normal, 3, 3, 136
-rest, 5, 5, 135
-prior, 5, 4, 134
-united, 6, 5, 130
-thereabouts, 1, 1, 130
-recruits, 1, 1, 130
-integrated, 1, 1, 130
-coldstream, 1, 1, 130
-beginning, 3, 3, 129
-wars, 5, 5, 128
-lot, 19, 11, 127
-africa, 12, 5, 127
-potus, 2, 2, 125
-constitution, 2, 2, 125
-portugal, 5, 3, 124
-following, 6, 6, 122
-independence, 2, 2, 121
-declaration, 1, 1, 120
-yet, 4, 4, 117
-post, 10, 9, 113
-c, 4, 3, 108
-near, 3, 3, 107
-fair, 4, 4, 107
-countries, 10, 6, 107
-immediately, 4, 4, 106
-simple, 3, 3, 105
-translated, 2, 2, 104
-fear, 2, 2, 103
-v, 3, 3, 102
-natives, 2, 2, 102
-reading, 15, 14, 101
-leader, 2, 2, 101
-state, 8, 6, 100
-real, 6, 6, 100
-nearby, 2, 2, 99
-xxkxzt, 2, 1, 98
-xamp, 1, 1, 98
-wonderful, 1, 1, 98
-wives, 1, 1, 98
-vvivys, 1, 1, 98
-ved, 1, 1, 98
-transparent, 1, 1, 98
-translates, 1, 1, 98
-technique, 1, 1, 98
-tbvmaaaacaajamp, 1, 1, 98
-svnt, 2, 1, 98
-substitution, 1, 1, 98
-sterisman, 2, 1, 98
-steersman, 1, 1, 98
-sa, 1, 1, 98
-regular, 1, 1, 98
-reads, 1, 1, 98
-quia, 3, 1, 98
-presented, 1, 1, 98
-pg, 3, 1, 98
-pa91amp, 1, 1, 98
-onepageamp, 1, 1, 98
-omnes, 1, 1, 98
-non, 3, 1, 98
-li, 2, 1, 98
-latinization, 1, 1, 98
-ifmk, 2, 1, 98
-heli, 1, 1, 98
-heaven, 1, 1, 98
-halflatin, 1, 1, 98
-halfenglish, 1, 1, 98
-habuerunt, 1, 1, 98
-gxddbovamp, 1, 1, 98
-gxddbov, 2, 1, 98
-fvccare, 1, 1, 98
-fvccant, 1, 1, 98
-friars, 3, 1, 98
-flyys, 1, 1, 98
-flen, 1, 1, 98
-fifteenthcentury, 1, 1, 98
-false, 1, 1, 98
-ely, 1, 1, 98
-drowned, 1, 1, 98
-drencherunt, 1, 1, 98
-drenched, 1, 1, 98
-dq, 1, 1, 98
-crucial, 1, 1, 98
-cipher, 2, 1, 98
-carmelite, 1, 1, 98
-cambridge, 1, 1, 98
-alphabet, 1, 1, 98
-accusation, 1, 1, 98
-position, 6, 5, 97
-twitter, 6, 2, 95
-tweet, 2, 2, 95
-reason, 4, 4, 95
-bot, 3, 2, 95
-body, 13, 8, 95
-italy, 10, 3, 92
-british, 9, 6, 92
-unification, 4, 2, 91
-proximity, 2, 2, 91
-occupied, 2, 2, 91
-colony, 2, 2, 91
-1866, 2, 2, 91
-seen, 7, 6, 90
-forces, 13, 8, 90
-sweden, 2, 2, 87
-system, 11, 7, 86
-strange, 2, 2, 86
-smaller, 2, 2, 86
-grant, 3, 2, 86
-goods, 4, 4, 86
-lack, 3, 3, 85
-irish, 9, 5, 85
-sought, 2, 2, 84
-society, 15, 10, 84
-protectorate, 1, 1, 84
-posts, 7, 6, 84
-massawa, 1, 1, 84
-king, 14, 8, 84
-importance, 2, 2, 84
-forced, 6, 6, 84
-denmark, 2, 2, 84
-considering, 1, 1, 84
-annexed, 1, 1, 84
-president, 4, 3, 83
-impression, 3, 2, 83
-tolerance, 4, 3, 82
-piety, 3, 2, 82
-late, 14, 10, 82
-adding, 3, 3, 81
-presided, 1, 1, 79
-positions, 1, 1, 79
-instead, 9, 8, 79
-fill, 1, 1, 79
-explicitly, 1, 1, 79
-continental, 1, 1, 79
-chief, 1, 1, 79
-ceremonially, 1, 1, 79
-aspirations, 1, 1, 79
-speak, 2, 2, 78
-somewhere, 4, 4, 77
-something, 13, 10, 77
-specifically, 10, 8, 76
-raised, 3, 3, 76
-must, 3, 3, 76
-askhistorians, 4, 3, 76
-tribes, 5, 4, 75
-government, 9, 6, 75
-characters, 3, 2, 75
-vulgarity, 1, 1, 73
-traders, 1, 1, 73
-pelt, 1, 1, 73
-led, 2, 2, 73
-discourage, 1, 1, 73
-dakotamontana, 1, 1, 73
-americansenglishmen, 1, 1, 73
-acceptable, 1, 1, 73
-answers, 2, 2, 71
-originally, 3, 3, 69
-ask, 6, 6, 69
-relations, 6, 5, 68
-places, 4, 4, 68
-britain, 5, 4, 68
-thank, 3, 3, 66
-scottish, 3, 3, 66
-royal, 3, 3, 66
-prioritises, 1, 1, 66
-miss, 1, 1, 66
-local, 7, 5, 66
-eastern, 9, 8, 66
-decides, 1, 1, 66
-compliment, 1, 1, 66
-aside, 1, 1, 66
-anymore, 1, 1, 66
-started, 5, 4, 64
-3, 5, 5, 64
-value, 4, 4, 63
-gun, 2, 2, 63
-google, 2, 2, 62
-romans, 8, 6, 61
-extra, 3, 3, 61
-comes, 3, 3, 60
-paid, 4, 4, 59
-certain, 5, 4, 59
-media, 2, 2, 58
-everything, 5, 4, 58
-common, 12, 9, 58
-battle, 4, 4, 58
-south, 8, 7, 57
-result, 6, 6, 57
-eic, 6, 2, 57
-away, 4, 4, 56
-working, 5, 5, 55
-vast, 4, 4, 55
-open, 5, 5, 55
-comments, 15, 7, 55
-nonwestern, 3, 3, 54
-depictions, 3, 3, 54
-stock, 3, 2, 53
-resulting, 3, 2, 53
-ideas, 6, 5, 53
-free, 6, 6, 53
-expensive, 4, 3, 53
-view, 7, 6, 52
-social, 11, 6, 52
-family, 5, 5, 52
-stripped, 2, 2, 51
-policy, 5, 5, 51
-internally, 2, 2, 51
-gender, 4, 3, 51
-financial, 2, 2, 51
-days, 10, 6, 51
-continued, 2, 2, 51
-china, 4, 3, 51
-topic, 9, 8, 50
-taxes, 3, 2, 50
-revenue, 2, 2, 50
-opium, 2, 2, 50
-groups, 4, 3, 50
-therefore, 3, 3, 49
-pretty, 13, 10, 49
-mining, 3, 3, 49
-issues, 2, 2, 49
-historians, 9, 8, 49
-everyone, 5, 5, 49
-burned, 5, 3, 49
-straight, 2, 2, 48
-european, 17, 11, 48
-assistance, 2, 2, 48
-story, 3, 3, 47
-privilege, 2, 2, 47
-longer, 2, 2, 47
-exist, 2, 2, 47
-crowd, 3, 3, 47
-ago, 8, 6, 47
-weaponry, 3, 3, 46
-troubles, 1, 1, 46
-tensions, 1, 1, 46
-struck, 1, 1, 46
-strain, 1, 1, 46
-spiked, 1, 1, 46
-smuggling, 1, 1, 46
-shut, 1, 1, 46
-shares, 1, 1, 46
-secret, 1, 1, 46
-rolling, 1, 1, 46
-repeated, 1, 1, 46
-redemption, 2, 1, 46
-recover, 1, 1, 46
-rebellion, 1, 1, 46
-parliament, 1, 1, 46
-offering, 1, 1, 46
-network, 1, 1, 46
-middleman, 1, 1, 46
-managed, 1, 1, 46
-largest, 1, 1, 46
-isbn, 1, 1, 46
-intervening, 1, 1, 46
-interactions, 1, 1, 46
-granted, 2, 2, 46
-focusing, 1, 1, 46
-float, 1, 1, 46
-finally, 3, 1, 46
-exports, 1, 1, 46
-exporting, 1, 1, 46
-expenditures, 1, 1, 46
-drought, 1, 1, 46
-downhill, 1, 1, 46
-dividend, 2, 1, 46
-difficulty, 1, 1, 46
-decrease, 1, 1, 46
-cutting, 1, 1, 46
-credit, 1, 1, 46
-confident, 1, 1, 46
-commerce, 1, 1, 46
-combined, 1, 1, 46
-bibliography, 1, 1, 46
-bengal, 1, 1, 46
-belly, 1, 1, 46
-bailout, 1, 1, 46
-aware, 2, 2, 46
-assets, 1, 1, 46
-9780712357784, 1, 1, 46
-1874, 1, 1, 46
-1873, 1, 1, 46
-1857, 1, 1, 46
-1773, 1, 1, 46
-1772, 1, 1, 46
-1769, 1, 1, 46
-via, 3, 3, 45
-discussion, 7, 4, 45
-nothing, 2, 2, 44
-france, 7, 7, 44
-fit, 5, 4, 44
-character, 3, 3, 44
-buy, 4, 4, 44
-toward, 3, 3, 43
-thanks, 6, 6, 43
-role, 6, 4, 43
-natural, 2, 2, 43
-develop, 2, 2, 43
-terminology, 1, 1, 42
-sometimes, 3, 3, 42
-parts, 6, 5, 42
-origin, 1, 1, 42
-offer, 5, 5, 42
-jews, 13, 7, 42
-issue, 1, 1, 42
-imposing, 1, 1, 42
-examples, 5, 4, 42
-vary, 1, 1, 41
-respond, 1, 1, 41
-play, 3, 3, 41
-guns, 1, 1, 41
-extension, 1, 1, 41
-disability, 34, 4, 41
-details, 4, 4, 41
-accurate, 5, 5, 41
-muslims, 8, 4, 40
-looks, 3, 3, 40
-elites, 3, 2, 40
-surrounding, 3, 3, 39
-side, 5, 4, 39
-loss, 4, 4, 39
-factors, 6, 4, 39
-coastal, 3, 3, 39
-wholesale, 1, 1, 38
-unfortunately, 3, 3, 38
-tribesmen, 1, 1, 38
-tended, 3, 2, 38
-sharing, 2, 2, 38
-overland, 2, 2, 38
-older, 3, 2, 38
-networks, 2, 2, 38
-invasion, 2, 2, 38
-integrate, 1, 1, 38
-inherited, 3, 3, 38
-hungary, 2, 2, 38
-courthouses, 3, 2, 38
-confederate, 3, 2, 38
-commoners, 2, 1, 38
-caste, 1, 1, 38
-campaign, 4, 4, 38
-atlantic, 2, 2, 38
-viewed, 5, 3, 37
-records, 2, 2, 37
-basically, 6, 6, 37
-welcome, 4, 3, 36
-team, 2, 2, 36
-someone, 4, 4, 36
-slavery, 4, 2, 36
-single, 2, 2, 36
-rights, 4, 3, 36
-moves, 2, 2, 36
-lost, 2, 2, 36
-invaders, 2, 2, 36
-germany, 4, 4, 36
-generally, 12, 10, 36
-effectively, 2, 2, 36
-dozens, 3, 3, 36
-dangerous, 2, 2, 36
-battles, 5, 3, 36
-week, 4, 3, 35
-serfs, 2, 2, 35
-originates, 2, 2, 35
-frame, 2, 2, 35
-bulk, 3, 3, 35
-brutal, 2, 2, 35
-browsing, 2, 2, 35
-stuff, 4, 2, 34
-recognize, 2, 2, 34
-peasants, 2, 2, 34
-knowledge, 2, 2, 34
-interest, 2, 2, 34
-held, 2, 2, 34
-exclusively, 2, 2, 34
-equivalent, 3, 3, 34
-additionally, 4, 4, 34
-workers, 1, 1, 33
-wage, 1, 1, 33
-unpleasant, 1, 1, 33
-tribe, 2, 2, 33
-transportation, 1, 1, 33
-suspect, 1, 1, 33
-supplied, 1, 1, 33
-soldier, 4, 2, 33
-segregated, 1, 1, 33
-romania, 1, 1, 33
-rock, 1, 1, 33
-rivers, 1, 1, 33
-ran, 2, 2, 33
-prevailing, 1, 1, 33
-patterns, 1, 1, 33
-oceans, 1, 1, 33
-monopoply, 1, 1, 33
-misunderstood, 1, 1, 33
-metro, 1, 1, 33
-medival, 1, 1, 33
-markets, 1, 1, 33
-krakow, 1, 1, 33
-ireland, 7, 4, 33
-inland, 1, 1, 33
-ie, 2, 2, 33
-grozy, 1, 1, 33
-grams, 1, 1, 33
-fun, 2, 2, 33
-fishermen, 1, 1, 33
-explanation, 1, 1, 33
-eras, 1, 1, 33
-economics, 1, 1, 33
-ealry, 1, 1, 33
-compensation, 1, 1, 33
-commercial, 1, 1, 33
-becuase, 1, 1, 33
-45, 1, 1, 33
-1300s1700s, 1, 1, 33
-ways, 9, 6, 32
-scholars, 4, 3, 32
-putting, 2, 2, 32
-definition, 2, 2, 32
-damaged, 2, 2, 32
-choice, 4, 4, 32
-wiry, 4, 2, 31
-thought, 5, 5, 31
-surname, 1, 1, 31
-suggest, 1, 1, 31
-somerset, 2, 1, 31
-showed, 1, 1, 31
-settling, 1, 1, 31
-relating, 1, 1, 31
-profession, 1, 1, 31
-physical, 3, 2, 31
-originate, 1, 1, 31
-normans, 1, 1, 31
-lurker, 1, 1, 31
-linking, 1, 1, 31
-invasions, 1, 1, 31
-invading, 1, 1, 31
-friend, 1, 1, 31
-extraordinarily, 1, 1, 31
-empire, 12, 7, 31
-durotriges, 4, 1, 31
-disabilities, 2, 2, 31
-differ, 2, 2, 31
-destroy, 1, 1, 31
-deliberate, 1, 1, 31
-definitive, 1, 1, 31
-celtic, 3, 1, 31
-c2000bc400bc, 1, 1, 31
-brtain, 1, 1, 31
-belgae, 1, 1, 31
-anglosaxons, 1, 1, 31
-400bc, 1, 1, 31
-3rd, 2, 2, 31
-2000bc, 1, 1, 31
-powers, 10, 7, 30
-picture, 8, 7, 30
-pace, 2, 2, 30
-john, 8, 4, 30
-jesus, 18, 5, 30
-ideal, 8, 3, 30
-content, 2, 2, 30
-wondering, 6, 6, 29
-winter, 4, 3, 29
-warhitlerromans, 1, 1, 29
-underseen, 1, 1, 29
-ucaffarelli, 3, 3, 29
-topics, 2, 1, 29
-tm, 1, 1, 29
-tends, 1, 1, 29
-tall, 1, 1, 29
-subreddit, 1, 1, 29
-spy, 1, 1, 29
-slower, 1, 1, 29
-shown, 1, 1, 29
-senior, 2, 2, 29
-semisecret, 1, 1, 29
-selection, 1, 1, 29
-selected, 1, 1, 29
-sample, 1, 1, 29
-relation, 2, 2, 29
-professional, 2, 2, 29
-producing, 1, 1, 29
-pop, 1, 1, 29
-played, 2, 2, 29
-page, 1, 1, 29
-outreach, 1, 1, 29
-nonmilitary, 1, 1, 29
-naturally, 1, 1, 29
-mods, 1, 1, 29
-love, 2, 2, 29
-lean, 1, 1, 29
-kinda, 1, 1, 29
-hot, 1, 1, 29
-highlights, 1, 1, 29
-height, 1, 1, 29
-grown, 5, 3, 29
-growing, 3, 2, 29
-glad, 1, 1, 29
-feed, 1, 1, 29
-extremely, 4, 4, 29
-establishment, 1, 1, 29
-environmental, 1, 1, 29
-dropped, 1, 1, 29
-dizzying, 1, 1, 29
-decontextualized, 1, 1, 29
-confused, 1, 1, 29
-composition, 1, 1, 29
-cold, 9, 3, 29
-caliphate, 9, 6, 29
-browse, 1, 1, 29
-bodybuilders, 1, 1, 29
-bodies, 5, 3, 29
-appeal, 1, 1, 29
-allhuman, 1, 1, 29
-algorithms, 1, 1, 29
-academically, 1, 1, 29
-34, 1, 1, 29
-napoleonic, 2, 2, 28
-mid, 2, 2, 28
-literature, 3, 3, 28
-infantry, 3, 2, 28
-idea, 9, 6, 28
-ground, 3, 3, 28
-give, 8, 5, 28
-climate, 2, 2, 28
-xxx, 1, 1, 27
-wintertime, 2, 2, 27
-waterloo, 1, 1, 27
-unconvential, 1, 1, 27
-tasked, 1, 1, 27
-survival, 2, 2, 27
-successes, 1, 1, 27
-subalternaeity, 2, 2, 27
-skill, 1, 1, 27
-season, 3, 3, 27
-sas, 1, 1, 27
-rice, 22, 2, 27
-relieve, 1, 1, 27
-regimental, 2, 1, 27
-recruitment, 1, 1, 27
-recruiting, 1, 1, 27
-protectors, 1, 1, 27
-proportion, 2, 2, 27
-prevalent, 1, 1, 27
-practise, 1, 1, 27
-percieved, 1, 1, 27
-pensinsular, 1, 1, 27
-operation, 1, 1, 27
-numerous, 2, 2, 27
-normandy, 1, 1, 27
-nonetheless, 1, 1, 27
-monarch, 1, 1, 27
-mallinson, 1, 1, 27
-lrdg, 1, 1, 27
-liberation, 1, 1, 27
-liberated, 1, 1, 27
-intrigues, 1, 1, 27
-internationally, 1, 1, 27
-innovative, 1, 1, 27
-household, 1, 1, 27
-holland, 1, 1, 27
-holding, 1, 1, 27
-garden, 1, 1, 27
-former, 2, 2, 27
-fighting, 1, 1, 27
-fame, 1, 1, 27
-exponential, 1, 1, 27
-expansion, 4, 4, 27
-existed, 4, 4, 27
-essential, 2, 2, 27
-elsewhere, 2, 2, 27
-dutch, 4, 3, 27
-division, 4, 1, 27
-dishes, 3, 2, 27
-differently, 2, 2, 27
-deems, 1, 1, 27
-dead, 2, 2, 27
-crown, 1, 1, 27
-criticism, 3, 2, 27
-corps, 1, 1, 27
-controlled, 1, 1, 27
-contemporary, 4, 3, 27
-commandos, 1, 1, 27
-colours, 1, 1, 27
-coldsteam, 1, 1, 27
-christians, 9, 3, 27
-capability, 1, 1, 27
-brussels, 1, 1, 27
-brigade, 1, 1, 27
-battalion, 3, 1, 27
-authors, 1, 1, 27
-attributing, 1, 1, 27
-attitudes, 4, 4, 27
-armoured, 2, 1, 27
-arab, 6, 2, 27
-aptitude, 1, 1, 27
-alleigance, 1, 1, 27
-allan, 1, 1, 27
-airborne, 1, 1, 27
-active, 1, 1, 27
-abled, 2, 2, 27
-1990, 1, 1, 27
-1968, 1, 1, 27
-1944, 1, 1, 27
-warm, 2, 2, 26
-subjects, 2, 2, 26
-representation, 3, 3, 26
-cultures, 2, 2, 26
-concepts, 3, 2, 26
-concept, 2, 2, 26
-applied, 5, 5, 26
-volunteer, 2, 2, 25
-saw, 6, 5, 25
-reality, 4, 4, 25
-japan, 10, 7, 25
-excavated, 2, 2, 25
-warn, 1, 1, 24
-wales, 2, 2, 24
-vague, 3, 3, 24
-truth, 2, 2, 24
-summers, 1, 1, 24
-struggle, 3, 3, 24
-sessions, 1, 1, 24
-person, 6, 4, 24
-perceived, 4, 4, 24
-p, 1, 1, 24
-masculinity, 2, 2, 24
-jewish, 9, 5, 24
-imperial, 4, 4, 24
-garments, 5, 4, 24
-entirely, 5, 5, 24
-edit, 5, 5, 24
-description, 2, 2, 24
-colonial, 4, 4, 24
-unsuitable, 1, 1, 23
-settled, 2, 2, 23
-scots, 2, 2, 23
-presumably, 1, 1, 23
-ingredient, 1, 1, 23
-industry, 3, 3, 23
-impressive, 1, 1, 23
-ignorant, 1, 1, 23
-domination, 5, 2, 23
-death, 4, 3, 23
-african, 4, 4, 23
-whistlepigs, 1, 1, 22
-weeks, 1, 1, 22
-warts, 1, 1, 22
-upcoming, 1, 1, 22
-uhenry_fords_ghost, 1, 1, 22
-tuesday, 2, 1, 22
-trivias, 1, 1, 22
-trivia, 2, 1, 22
-transcribed, 1, 1, 22
-theme, 2, 1, 22
-tales, 1, 1, 22
-suggesting, 1, 1, 22
-squirrels, 1, 1, 22
-soldiers, 7, 5, 22
-snow, 1, 1, 22
-seamless, 7, 3, 22
-sculpture, 1, 1, 22
-schedule, 1, 1, 22
-ruler, 1, 1, 22
-rites, 1, 1, 22
-rifling, 1, 1, 22
-richard, 1, 1, 22
-repeat, 1, 1, 22
-religious, 8, 5, 22
-reaches, 1, 1, 22
-proposed, 1, 1, 22
-prologue, 1, 1, 22
-preferring, 1, 1, 22
-portraiture, 1, 1, 22
-points, 1, 1, 22
-offended, 1, 1, 22
-object, 2, 1, 22
-notre, 1, 1, 22
-notions, 1, 1, 22
-next, 2, 1, 22
-mirrors, 1, 1, 22
-makes, 4, 4, 22
-mail, 1, 1, 22
-johnny, 1, 1, 22
-joe, 1, 1, 22
-isles, 2, 2, 22
-introduce, 1, 1, 22
-interacted, 1, 1, 22
-interact, 1, 1, 22
-intent, 1, 1, 22
-insulting, 1, 1, 22
-insensitive, 1, 1, 22
-injury, 2, 1, 22
-impossible, 4, 4, 22
-iii, 1, 1, 22
-hunchback, 1, 1, 22
-handsome, 1, 1, 22
-garment, 5, 3, 22
-game, 1, 1, 22
-femininity, 1, 1, 22
-faults, 1, 1, 22
-falling, 1, 1, 22
-egypt, 6, 5, 22
-divine, 1, 1, 22
-distinctions, 1, 1, 22
-disfavored, 1, 1, 22
-dichotomy, 1, 1, 22
-deviations, 1, 1, 22
-deformity, 1, 1, 22
-dealing, 2, 1, 22
-dame, 1, 1, 22
-correspondence, 1, 1, 22
-corollary, 1, 1, 22
-coopedupboredom, 1, 1, 22
-congenital, 1, 1, 22
-complete, 1, 1, 22
-climates, 1, 1, 22
-cleaning, 1, 1, 22
-charismatic, 1, 1, 22
-bonham, 1, 1, 22
-arts, 1, 1, 22
-apologize, 1, 1, 22
-actions, 1, 1, 22
-unity, 2, 2, 21
-took, 2, 2, 21
-revolution, 3, 3, 21
-premodern, 3, 3, 21
-meant, 4, 4, 21
-mark, 3, 3, 21
-land, 8, 6, 21
-extent, 3, 3, 21
-existing, 3, 3, 21
-coming, 3, 3, 21
-values, 4, 3, 20
-typically, 3, 2, 20
-technology, 2, 2, 20
-sorry, 4, 4, 20
-religions, 4, 2, 20
-pagans, 3, 2, 20
-monotheistic, 2, 2, 20
-institutions, 8, 4, 20
-holy, 3, 3, 20
-greatest, 3, 3, 20
-full, 4, 3, 20
-followup, 5, 5, 20
-enough, 7, 7, 20
-emperor, 6, 3, 20
-describing, 2, 2, 20
-davis, 2, 2, 20
-worn, 6, 4, 19
-trope, 2, 2, 19
-tiein, 2, 2, 19
-passage, 5, 3, 19
-participation, 3, 3, 19
-lending, 2, 2, 19
-kingdoms, 7, 4, 19
-key, 4, 4, 19
-judaism, 2, 2, 19
-essentially, 5, 4, 19
-disabled, 5, 3, 19
-development, 3, 2, 19
-developed, 3, 3, 19
-switch, 2, 2, 18
-structure, 6, 3, 18
-son, 6, 2, 18
-setting, 1, 1, 18
-scalping, 1, 1, 18
-release, 5, 2, 18
-pilate, 8, 2, 18
-phrase, 2, 1, 18
-louis, 4, 2, 18
-knot, 1, 1, 18
-joshua, 6, 2, 18
-innocent, 3, 2, 18
-information, 6, 6, 18
-helpful, 5, 5, 18
-father, 4, 2, 18
-divided, 5, 4, 18
-defeat, 2, 2, 18
-constructed, 2, 2, 18
-caught, 1, 1, 18
-barabbas, 7, 2, 18
-argument, 4, 3, 18
-anachronism, 1, 1, 18
-4, 4, 4, 18
-whatever, 3, 3, 17
-virginia, 1, 1, 17
-username, 4, 4, 17
-turn, 2, 2, 17
-travel, 7, 4, 17
-slowly, 2, 2, 17
-size, 2, 2, 17
-scotia, 1, 1, 17
-resident, 3, 1, 17
-religion, 4, 2, 17
-rank, 3, 2, 17
-provinces, 1, 1, 17
-nova, 1, 1, 17
-motivations, 2, 2, 17
-mentions, 4, 4, 17
-massachusetts, 1, 1, 17
-issuesalliances, 1, 1, 17
-involve, 1, 1, 17
-including, 4, 3, 17
-hundreds, 3, 3, 17
-guy, 3, 3, 17
-foreigners, 1, 1, 17
-features, 3, 3, 17
-eye, 2, 2, 17
-canadian, 1, 1, 17
-books, 4, 4, 17
-animosity, 1, 1, 17
-_, 8, 4, 17
-1763, 1, 1, 17
-wwii, 6, 3, 16
-wider, 1, 1, 16
-venture, 1, 1, 16
-unconducive, 1, 1, 16
-spain, 5, 3, 16
-sea, 7, 4, 16
-recently, 2, 2, 16
-perspectives, 2, 2, 16
-ottoman, 4, 4, 16
-opinion, 4, 3, 16
-occupation, 4, 3, 16
-national, 1, 1, 16
-muslim, 7, 5, 16
-misunderstanding, 3, 2, 16
-limit, 1, 1, 16
-freedom, 3, 3, 16
-faith, 2, 2, 16
-earth, 2, 2, 16
-dynasty, 1, 1, 16
-domestically, 1, 1, 16
-describe, 2, 2, 16
-critical, 3, 3, 16
-criminal, 2, 2, 16
-conversion, 4, 2, 16
-contrast, 5, 4, 16
-black, 7, 2, 16
-belief, 10, 2, 16
-asia, 9, 3, 16
-apparently, 2, 2, 16
-anglonorman, 1, 1, 16
-achieved, 1, 1, 16
-taken, 4, 4, 15
-surprised, 1, 1, 15
-secondclass, 1, 1, 15
-says, 3, 3, 15
-reverence, 1, 1, 15
-respect, 1, 1, 15
-promoted, 1, 1, 15
-problem, 3, 3, 15
-private, 1, 1, 15
-opportunity, 5, 4, 15
-individual, 3, 3, 15
-handsomely, 1, 1, 15
-handful, 1, 1, 15
-empires, 10, 4, 15
-easily, 4, 4, 15
-disrespectful, 1, 1, 15
-disciplined, 1, 1, 15
-demands, 1, 1, 15
-confirm, 1, 1, 15
-coin, 3, 3, 15
-citizens, 1, 1, 15
-centuries, 8, 5, 15
-benjamin, 1, 1, 15
-resources, 4, 4, 14
-populations, 4, 3, 14
-perceptions, 2, 2, 14
-negative, 2, 2, 14
-mass, 2, 2, 14
-islamic, 7, 3, 14
-impairment, 8, 2, 14
-governments, 3, 3, 14
-fashion, 3, 3, 14
-established, 3, 3, 14
-discovered, 2, 2, 14
-diagnosis, 4, 2, 14
-defining, 2, 2, 14
-debate, 3, 3, 14
-cultural, 3, 3, 14
-condition, 10, 2, 14
-brief, 2, 2, 14
-barriers, 2, 2, 14
-2014, 4, 3, 14
-wiki, 2, 2, 13
-weave, 1, 1, 13
-virgin, 1, 1, 13
-til, 1, 1, 13
-supposed, 1, 1, 13
-status, 3, 3, 13
-statements, 1, 1, 13
-singular, 2, 2, 13
-simon, 2, 1, 13
-replies, 2, 2, 13
-relics, 1, 1, 13
-relevant, 2, 2, 13
-refer, 4, 4, 13
-quoted, 1, 1, 13
-presenting, 1, 1, 13
-popularcommon, 1, 1, 13
-onto, 2, 2, 13
-offered, 3, 3, 13
-nation, 3, 2, 13
-mythologies, 1, 1, 13
-mohammed, 1, 1, 13
-knit, 1, 1, 13
-jonas, 1, 1, 13
-invented, 1, 1, 13
-interrelated, 1, 1, 13
-interpretation, 1, 1, 13
-indian, 5, 3, 13
-hoped, 1, 1, 13
-honorifics, 2, 1, 13
-hebrew, 2, 1, 13
-factor, 3, 3, 13
-faced, 2, 2, 13
-exact, 1, 1, 13
-europeans, 2, 2, 13
-einstein, 1, 1, 13
-economy, 4, 3, 13
-distinguish, 1, 1, 13
-detail, 1, 1, 13
-define, 2, 2, 13
-dating, 1, 1, 13
-criminalterrorist, 1, 1, 13
-competition, 2, 2, 13
-civilization, 2, 2, 13
-christ, 3, 3, 13
-centre, 2, 2, 13
-broadly, 2, 2, 13
-beliefs, 3, 2, 13
-barjonas, 1, 1, 13
-bar, 1, 1, 13
-bait, 1, 1, 13
-arguably, 3, 3, 13
-albert, 1, 1, 13
-adopt, 1, 1, 13
-abba, 1, 1, 13
-____, 1, 1, 13
-1st, 1, 1, 13
-wine, 5, 3, 12
-venice, 3, 2, 12
-unlike, 4, 3, 12
-universal, 2, 2, 12
-unclear, 2, 2, 12
-turned, 2, 2, 12
-supported, 2, 2, 12
-several, 3, 2, 12
-restored, 2, 2, 12
-raids, 4, 2, 12
-overview, 2, 2, 12
-op, 2, 2, 12
-observed, 2, 2, 12
-multiple, 3, 3, 12
-mental, 5, 3, 12
-lands, 2, 2, 12
-jerusalem, 3, 3, 12
-independent, 2, 2, 12
-gold, 2, 2, 12
-dividing, 2, 2, 12
-dark, 2, 2, 12
-continent, 2, 2, 12
-confined, 2, 2, 12
-children, 2, 2, 12
-centralized, 1, 1, 12
-catholic, 3, 2, 12
-austria, 2, 2, 12
-articles, 5, 3, 12
-anne, 1, 1, 12
-_why, 2, 2, 12
-2015, 5, 4, 12
-06, 2, 2, 12
-ww2, 2, 2, 11
-woven, 2, 2, 11
-witnesses, 1, 1, 11
-willing, 2, 2, 11
-whenever, 1, 1, 11
-vulnerable, 1, 1, 11
-version, 2, 2, 11
-vatican, 1, 1, 11
-unbridled, 1, 1, 11
-twentyfirst, 1, 1, 11
-twain, 2, 1, 11
-tunic, 9, 3, 11
-torpor, 1, 1, 11
-tooth, 1, 1, 11
-tethered, 1, 1, 11
-systems, 5, 1, 11
-suspend, 1, 1, 11
-supernatural, 1, 1, 11
-sun, 1, 1, 11
-subverted, 1, 1, 11
-subtle, 1, 1, 11
-study, 5, 4, 11
-stop, 2, 1, 11
-standard, 2, 2, 11
-ship, 2, 2, 11
-shaved, 1, 1, 11
-shared, 2, 2, 11
-sexes, 1, 1, 11
-seriously, 2, 2, 11
-scientologists, 1, 1, 11
-savages, 1, 1, 11
-saturnalia, 1, 1, 11
-sandwich, 2, 1, 11
-routes, 3, 2, 11
-roughing, 1, 1, 11
-rigid, 1, 1, 11
-research, 5, 4, 11
-remember, 3, 3, 11
-regarding, 3, 3, 11
-recognizing, 1, 1, 11
-reaction, 2, 1, 11
-radically, 1, 1, 11
-quickly, 3, 2, 11
-provide, 4, 3, 11
-projection, 1, 1, 11
-primacy, 1, 1, 11
-preliterate, 1, 1, 11
-preconversion, 4, 1, 11
-powerful, 3, 2, 11
-plucked, 1, 1, 11
-personage, 1, 1, 11
-patriarchal, 1, 1, 11
-oldfashioned, 1, 1, 11
-nonconverted, 1, 1, 11
-nobles, 5, 2, 11
-nightmare, 1, 1, 11
-needed, 6, 4, 11
-mutilated, 1, 1, 11
-murdered, 1, 1, 11
-mormons, 1, 1, 11
-monumental, 1, 1, 11
-monolithic, 2, 1, 11
-moment, 1, 1, 11
-misunderstandings, 1, 1, 11
-mindset, 1, 1, 11
-maimed, 1, 1, 11
-loosely, 1, 1, 11
-locations, 1, 1, 11
-licentiousness, 1, 1, 11
-lacked, 1, 1, 11
-knocked, 1, 1, 11
-jehovah, 1, 1, 11
-islands, 3, 1, 11
-involves, 1, 1, 11
-institution, 1, 1, 11
-informants, 1, 1, 11
-huts, 1, 1, 11
-humor, 1, 1, 11
-humanity, 1, 1, 11
-hostility, 1, 1, 11
-horror, 1, 1, 11
-historiography, 1, 1, 11
-hideous, 1, 1, 11
-heads, 2, 2, 11
-hawaiians, 1, 1, 11
-hawaii, 2, 1, 11
-hammed, 1, 1, 11
-halfremembered, 1, 1, 11
-grouped, 1, 1, 11
-grounded, 2, 1, 11
-gentle, 1, 1, 11
-generation, 2, 1, 11
-forty, 1, 1, 11
-follows, 1, 1, 11
-folklorists, 1, 1, 11
-focuses, 2, 2, 11
-fluid, 1, 1, 11
-flesh, 1, 1, 11
-flawed, 1, 1, 11
-fairy, 1, 1, 11
-equipped, 2, 2, 11
-entering, 1, 1, 11
-ensued, 1, 1, 11
-emerged, 1, 1, 11
-drunk, 1, 1, 11
-draped, 3, 2, 11
-discuss, 3, 3, 11
-difference, 1, 1, 11
-devoted, 2, 2, 11
-dazed, 1, 1, 11
-cut, 1, 1, 11
-custom, 1, 1, 11
-curiosity, 1, 1, 11
-cults, 1, 1, 11
-creepy, 1, 1, 11
-converts, 1, 1, 11
-contribution, 2, 2, 11
-consistent, 1, 1, 11
-comic, 1, 1, 11
-cloak, 4, 3, 11
-claims, 3, 3, 11
-circumstance, 2, 1, 11
-christianity, 3, 1, 11
-chew, 1, 1, 11
-charge, 2, 2, 11
-challenges, 1, 1, 11
-caprice, 1, 1, 11
-cancer, 1, 1, 11
-bruised, 1, 1, 11
-breaks, 1, 1, 11
-bewildered, 1, 1, 11
-backward, 1, 1, 11
-awe, 1, 1, 11
-applying, 1, 1, 11
-analogy, 2, 1, 11
-analogous, 1, 1, 11
-amorphous, 1, 1, 11
-10th, 3, 3, 11
-uthewinstore, 1, 1, 10
-utayaravaknin, 1, 1, 10
-uses, 3, 3, 10
-uphoenixbasileus, 1, 1, 10
-tribute, 4, 2, 10
-territory, 4, 3, 10
-symbol, 2, 2, 10
-structures, 4, 2, 10
-steering, 1, 1, 10
-societal, 2, 2, 10
-shift, 2, 2, 10
-roles, 2, 2, 10
-rising, 2, 2, 10
-relative, 2, 2, 10
-reflects, 2, 2, 10
-quality, 2, 2, 10
-precisely, 2, 2, 10
-postwar, 1, 1, 10
-planning, 1, 1, 10
-phenomena, 5, 2, 10
-online, 2, 2, 10
-ocean, 2, 2, 10
-methods, 2, 2, 10
-metaphorical, 2, 2, 10
-merchants, 2, 2, 10
-macarthur, 1, 1, 10
-low, 3, 3, 10
-listened, 2, 2, 10
-liberal, 4, 3, 10
-lead, 2, 2, 10
-jan, 1, 1, 10
-hirohito, 2, 1, 10
-greece, 4, 3, 10
-goals, 1, 1, 10
-frequently, 2, 2, 10
-flourishing, 2, 2, 10
-figure, 3, 2, 10
-feb, 1, 1, 10
-famously, 3, 3, 10
-experienced, 2, 2, 10
-enslaved, 2, 2, 10
-elite, 2, 2, 10
-dynasties, 4, 2, 10
-distinguishing, 2, 2, 10
-detailed, 1, 1, 10
-crimes, 2, 1, 10
-correct, 2, 2, 10
-conversely, 2, 2, 10
-construct, 2, 2, 10
-consensus, 2, 2, 10
-completely, 3, 3, 10
-coffers, 2, 2, 10
-cloth, 3, 2, 10
-changed, 6, 5, 10
-byzantium, 2, 2, 10
-branch, 2, 2, 10
-analysis, 1, 1, 10
-allied, 1, 1, 10
-affect, 2, 2, 10
-advance, 2, 2, 10
-adopted, 2, 2, 10
-accounts, 2, 2, 10
-_after, 1, 1, 10
-26, 1, 1, 10
-window, 2, 1, 9
-watch, 1, 1, 9
-walk, 1, 1, 9
-vikings, 4, 2, 9
-variety, 2, 2, 9
-understood, 4, 3, 9
-umayyad, 3, 3, 9
-theorists, 1, 1, 9
-terrific, 1, 1, 9
-stronger, 3, 3, 9
-sin, 1, 1, 9
-sign, 1, 1, 9
-separation, 2, 2, 9
-saxon, 5, 2, 9
-rulers, 3, 2, 9
-room, 1, 1, 9
-robe, 5, 2, 9
-rivals, 2, 2, 9
-reversediagnose, 1, 1, 9
-replaced, 2, 2, 9
-relatively, 2, 2, 9
-refers, 1, 1, 9
-primarily, 3, 2, 9
-priest, 3, 2, 9
-prayer, 1, 1, 9
-possessed, 1, 1, 9
-please, 2, 2, 9
-piggy, 1, 1, 9
-performed, 1, 1, 9
-perceive, 2, 2, 9
-per, 7, 2, 9
-paradigm, 1, 1, 9
-objective, 2, 2, 9
-norm, 1, 1, 9
-monotheists, 1, 1, 9
-moments, 2, 2, 9
-modernday, 1, 1, 9
-marker, 1, 1, 9
-margareta, 1, 1, 9
-margaret, 3, 1, 9
-main, 3, 2, 9
-magdeburg, 2, 1, 9
-link, 5, 4, 9
-lines, 2, 2, 9
-learn, 2, 2, 9
-lay, 1, 1, 9
-lameunable, 1, 1, 9
-judgment, 1, 1, 9
-job, 1, 1, 9
-inquirers, 1, 1, 9
-independently, 2, 2, 9
-impaired, 1, 1, 9
-guidance, 1, 1, 9
-grace, 1, 1, 9
-fundamentally, 2, 2, 9
-formation, 2, 2, 9
-follow, 3, 3, 9
-extremes, 2, 2, 9
-external, 1, 1, 9
-everyday, 2, 2, 9
-enormously, 1, 1, 9
-ended, 2, 2, 9
-enclosed, 1, 1, 9
-egyptian, 2, 2, 9
-dress, 3, 3, 9
-distinction, 1, 1, 9
-devotion, 1, 1, 9
-deviation, 1, 1, 9
-despised, 1, 1, 9
-critics, 1, 1, 9
-count, 1, 1, 9
-control, 3, 2, 9
-contracta, 1, 1, 9
-constitutional, 2, 2, 9
-consolation, 1, 1, 9
-cognitive, 1, 1, 9
-classical, 2, 2, 9
-childhood, 1, 1, 9
-characterized, 2, 2, 9
-anchoress, 2, 1, 9
-alfred, 11, 2, 9
-alexander, 3, 2, 9
-wwi, 2, 2, 8
-uoldworldglory, 1, 1, 8
-unsourced, 1, 1, 8
-treaties, 2, 2, 8
-threat, 4, 2, 8
-supplies, 2, 2, 8
-stability, 1, 1, 8
-ships, 2, 2, 8
-sent, 2, 2, 8
-seemed, 3, 3, 8
-red, 1, 1, 8
-realized, 2, 2, 8
-prove, 3, 3, 8
-ought, 1, 1, 8
-occupiers, 1, 1, 8
-militarism, 1, 1, 8
-mediterranean, 4, 2, 8
-mcarthur, 1, 1, 8
-maps, 2, 2, 8
-major, 3, 3, 8
-lots, 2, 2, 8
-legitimisation, 1, 1, 8
-judea, 3, 2, 8
-instances, 2, 2, 8
-influence, 2, 2, 8
-imperialism, 4, 2, 8
-homework, 2, 2, 8
-herbert, 1, 1, 8
-governor, 2, 2, 8
-function, 2, 2, 8
-feature, 2, 2, 8
-executed, 4, 2, 8
-embracing, 1, 1, 8
-dower, 2, 1, 8
-democratic, 1, 1, 8
-culpability, 1, 1, 8
-create, 2, 2, 8
-contrary, 1, 1, 8
-continue, 3, 3, 8
-coins, 2, 2, 8
-cb, 1, 1, 8
-carry, 3, 2, 8
-capepiece, 1, 1, 8
-canal, 4, 3, 8
-blame, 1, 1, 8
-bix, 1, 1, 8
-big, 4, 4, 8
-belgium, 3, 3, 8
-arms, 1, 1, 8
-armies, 4, 3, 8
-april, 2, 2, 8
-accepting, 1, 1, 8
-abdicate, 1, 1, 8
-20100519171253, 1, 1, 8
-zaragoza, 1, 1, 7
-winik, 1, 1, 7
-wholly, 2, 2, 7
-welsh, 1, 1, 7
-weaker, 1, 1, 7
-wagons, 1, 1, 7
-vocabulary, 1, 1, 7
-vienna, 1, 1, 7
-versailles, 3, 2, 7
-utilizing, 2, 2, 7
-unlikely, 3, 3, 7
-union, 1, 1, 7
-traded, 2, 2, 7
-tordesillas, 1, 1, 7
-together, 2, 2, 7
-targeting, 1, 1, 7
-tapped, 1, 1, 7
-taking, 1, 1, 7
-surrender, 3, 2, 7
-subsequently, 1, 1, 7
-subsequent, 1, 1, 7
-subjugate, 1, 1, 7
-spirit, 1, 1, 7
-sorts, 2, 2, 7
-sheds, 1, 1, 7
-seas, 1, 1, 7
-resourceful, 1, 1, 7
-resistant, 2, 2, 7
-relationship, 3, 2, 7
-reject, 2, 1, 7
-reflect, 3, 3, 7
-reach, 2, 2, 7
-raid, 1, 1, 7
-push, 2, 2, 7
-provisions, 1, 1, 7
-proposition, 1, 1, 7
-properly, 2, 2, 7
-problems, 2, 2, 7
-presume, 1, 1, 7
-preoccupied, 1, 1, 7
-potential, 2, 2, 7
-pope, 1, 1, 7
-perspective, 1, 1, 7
-paul, 2, 2, 7
-pacific, 5, 2, 7
-overthrowing, 1, 1, 7
-oral, 1, 1, 7
-opportunities, 1, 1, 7
-opinions, 2, 1, 7
-northerners, 1, 1, 7
-neither, 2, 2, 7
-need, 3, 3, 7
-navis, 1, 1, 7
-nationalprestige, 1, 1, 7
-napoleon, 1, 1, 7
-mughal, 2, 2, 7
-mr, 1, 1, 7
-motivated, 1, 1, 7
-monopoly, 3, 1, 7
-monday, 1, 1, 7
-monarchy, 2, 2, 7
-mitigate, 1, 1, 7
-meeting, 1, 1, 7
-mcpherson, 1, 1, 7
-maximize, 1, 1, 7
-mamluk, 2, 1, 7
-lose, 1, 1, 7
-llun, 1, 1, 7
-listening, 2, 2, 7
-lincoln, 1, 1, 7
-library, 1, 1, 7
-kearns, 1, 1, 7
-jay, 1, 1, 7
-james, 1, 1, 7
-issued, 2, 1, 7
-intensive, 1, 1, 7
-input, 2, 2, 7
-indicated, 2, 2, 7
-immigration, 1, 1, 7
-idiot, 1, 1, 7
-ideologies, 3, 2, 7
-hugo, 1, 1, 7
-horses, 1, 1, 7
-grotius, 1, 1, 7
-grapes, 4, 2, 7
-goodwin, 1, 1, 7
-gods, 1, 1, 7
-glory, 1, 1, 7
-german, 4, 3, 7
-geography, 1, 1, 7
-frontier, 2, 2, 7
-friendly, 2, 2, 7
-foreign, 4, 1, 7
-field, 2, 2, 7
-familiar, 2, 2, 7
-ending, 1, 1, 7
-dydd, 1, 1, 7
-driven, 1, 1, 7
-doubt, 2, 2, 7
-doublechecking, 1, 1, 7
-doris, 1, 1, 7
-dominating, 2, 1, 7
-discovery, 2, 1, 7
-discoveries, 1, 1, 7
-diffusion, 1, 1, 7
-desire, 1, 1, 7
-deciding, 1, 1, 7
-currently, 3, 3, 7
-cry, 2, 2, 7
-crusading, 1, 1, 7
-creating, 2, 2, 7
-created, 3, 2, 7
-copper, 1, 1, 7
-continuity, 2, 2, 7
-constantly, 2, 2, 7
-conglomerate, 1, 1, 7
-conflict, 3, 3, 7
-comingling, 1, 1, 7
-colonialisation, 1, 1, 7
-circumvent, 1, 1, 7
-chinese, 3, 2, 7
-characteristic, 2, 2, 7
-cavalry, 1, 1, 7
-catton, 1, 1, 7
-capturing, 1, 1, 7
-bruce, 1, 1, 7
-brought, 4, 3, 7
-bronze, 1, 1, 7
-broken, 1, 1, 7
-bottom, 2, 2, 7
-backwater, 1, 1, 7
-austrian, 1, 1, 7
-aristocracy, 2, 2, 7
-argue, 1, 1, 7
-approved, 1, 1, 7
-antimuslim, 1, 1, 7
-alternative, 1, 1, 7
-agriculture, 1, 1, 7
-absence, 3, 1, 7
-1815, 1, 1, 7
-17th, 1, 1, 7
-1796, 1, 1, 7
-1713, 2, 1, 7
-1559, 2, 1, 7
-1494, 1, 1, 7
-zargos, 1, 1, 6
-xiv, 2, 1, 6
-william, 1, 1, 6
-weaving, 1, 1, 6
-virginbirth, 1, 1, 6
-vietnam, 3, 2, 6
-varieties, 3, 2, 6
-unequaled, 1, 1, 6
-understands, 1, 1, 6
-typical, 4, 3, 6
-translation, 1, 1, 6
-translate, 2, 2, 6
-threw, 1, 1, 6
-thereafter, 1, 1, 6
-theodore, 1, 1, 6
-technological, 1, 1, 6
-tear, 1, 1, 6
-tax, 4, 2, 6
-supporters, 1, 1, 6
-suffering, 1, 1, 6
-subjective, 2, 2, 6
-steppe, 1, 1, 6
-stating, 1, 1, 6
-statebuilding, 1, 1, 6
-stateand, 1, 1, 6
-starting, 3, 2, 6
-stake, 2, 2, 6
-spiritual, 1, 1, 6
-spainportugal, 1, 1, 6
-sophisticated, 1, 1, 6
-sometime, 2, 2, 6
-significance, 1, 1, 6
-shifts, 1, 1, 6
-shellshock, 1, 1, 6
-shed, 2, 2, 6
-shaszbotter, 1, 1, 6
-share, 1, 1, 6
-seargent, 1, 1, 6
-searching, 2, 2, 6
-resonance, 1, 1, 6
-remarkable, 2, 2, 6
-reign, 2, 2, 6
-reich, 2, 2, 6
-regions, 2, 2, 6
-recovered, 3, 2, 6
-recognise, 1, 1, 6
-realm, 1, 1, 6
-rate, 2, 2, 6
-rallying, 1, 1, 6
-quote, 2, 2, 6
-quotation, 3, 2, 6
-ptsd, 1, 1, 6
-psalm, 2, 1, 6
-provides, 1, 1, 6
-pronunciation, 2, 2, 6
-privileges, 2, 2, 6
-press, 1, 1, 6
-preference, 1, 1, 6
-ports, 3, 2, 6
-portions, 1, 1, 6
-planlegislature, 1, 1, 6
-perception, 3, 3, 6
-outer, 1, 1, 6
-offices, 1, 1, 6
-notes, 1, 1, 6
-noted, 3, 2, 6
-norms, 2, 2, 6
-nonnoble, 1, 1, 6
-nomadic, 1, 1, 6
-nazi, 2, 2, 6
-names, 2, 2, 6
-namely, 1, 1, 6
-morning, 1, 1, 6
-mopsuestia, 1, 1, 6
-mongols, 1, 1, 6
-momentum, 2, 2, 6
-migrated, 1, 1, 6
-loyal, 1, 1, 6
-london, 3, 2, 6
-links, 2, 2, 6
-leopold, 2, 1, 6
-leftover, 1, 1, 6
-lecture, 1, 1, 6
-knows, 2, 2, 6
-knights, 1, 1, 6
-kicked, 1, 1, 6
-josephus, 1, 1, 6
-join, 3, 2, 6
-italians, 2, 2, 6
-inviting, 1, 1, 6
-interests, 2, 1, 6
-intendants, 1, 1, 6
-insight, 1, 1, 6
-influences, 2, 2, 6
-increased, 2, 2, 6
-ii, 1, 1, 6
-huns, 1, 1, 6
-horsemanship, 1, 1, 6
-hold, 2, 2, 6
-hill, 2, 2, 6
-highpriest, 1, 1, 6
-helped, 1, 1, 6
-hello, 2, 2, 6
-handed, 1, 1, 6
-googling, 1, 1, 6
-gamble, 1, 1, 6
-futile, 1, 1, 6
-fulfilling, 1, 1, 6
-fulfilled, 1, 1, 6
-forever, 1, 1, 6
-finalized, 2, 2, 6
-favors, 1, 1, 6
-failed, 2, 2, 6
-enjoyed, 2, 2, 6
-duc, 2, 1, 6
-dualfulfilment, 1, 1, 6
-distribute, 1, 1, 6
-diaspora, 1, 1, 6
-defacto, 1, 1, 6
-dear, 1, 1, 6
-deadlocked, 1, 1, 6
-david, 2, 2, 6
-danjou, 1, 1, 6
-crucified, 1, 1, 6
-courts, 3, 2, 6
-cordoba, 2, 2, 6
-coopted, 1, 1, 6
-cooler, 1, 1, 6
-congo, 2, 1, 6
-concerning, 2, 1, 6
-commentators, 1, 1, 6
-clover, 1, 1, 6
-clothing, 2, 1, 6
-clothes, 1, 1, 6
-clauses, 1, 1, 6
-classs, 1, 1, 6
-clarify, 2, 2, 6
-christian, 16, 2, 6
-centred, 1, 1, 6
-cast, 1, 1, 6
-call, 2, 2, 6
-bureaucratic, 1, 1, 6
-bureaucracy, 1, 1, 6
-building, 2, 1, 6
-bow, 1, 1, 6
-berry, 2, 1, 6
-belgian, 1, 1, 6
-beik, 1, 1, 6
-behaviour, 5, 2, 6
-avenue, 1, 1, 6
-available, 2, 2, 6
-attire, 2, 2, 6
-assisted, 1, 1, 6
-aristocrats, 1, 1, 6
-argumenttoo, 1, 1, 6
-applicable, 1, 1, 6
-antiquities, 1, 1, 6
-anjou, 1, 1, 6
-alandalus, 7, 2, 6
-aforementioned, 1, 1, 6
-advantage, 1, 1, 6
-administrators, 1, 1, 6
-ad, 2, 2, 6
-absolutism, 1, 1, 6
-9th, 2, 2, 6
-81216, 1, 1, 6
-3161, 1, 1, 6
-24, 1, 1, 6
-2324, 1, 1, 6
-22, 1, 1, 6
-19, 1, 1, 6
-101, 2, 1, 6
-zionist, 1, 1, 5
-zionism, 1, 1, 5
-zealotry, 1, 1, 5
-yugoslavia, 1, 1, 5
-youtube, 1, 1, 5
-write, 1, 1, 5
-worst, 2, 2, 5
-worker, 1, 1, 5
-wolf, 1, 1, 5
-witan, 1, 1, 5
-wish, 1, 1, 5
-winbuy, 1, 1, 5
-widely, 2, 2, 5
-whilst, 1, 1, 5
-whie, 1, 1, 5
-wessex, 1, 1, 5
-welcoming, 1, 1, 5
-weekly, 1, 1, 5
-weary, 1, 1, 5
-warred, 1, 1, 5
-warlords, 1, 1, 5
-warfare, 1, 1, 5
-ward, 1, 1, 5
-votes, 1, 1, 5
-voices, 1, 1, 5
-visions, 1, 1, 5
-vis, 2, 1, 5
-victories, 1, 1, 5
-victor, 1, 1, 5
-victimhood, 1, 1, 5
-veterans, 1, 1, 5
-vesetiges, 1, 1, 5
-varietals, 1, 1, 5
-usunagainstgold, 1, 1, 5
-users, 3, 3, 5
-user, 1, 1, 5
-unquestionably, 1, 1, 5
-unprecedented, 1, 1, 5
-uniformity, 1, 1, 5
-unified, 2, 1, 5
-unelected, 1, 1, 5
-underclass, 1, 1, 5
-umayyads, 4, 1, 5
-u, 1, 1, 5
-turbulent, 1, 1, 5
-tries, 1, 1, 5
-translating, 1, 1, 5
-transitioning, 1, 1, 5
-transformative, 1, 1, 5
-traits, 1, 1, 5
-tragically, 1, 1, 5
-tool, 1, 1, 5
-tomorrow, 1, 1, 5
-toleration, 1, 1, 5
-title, 1, 1, 5
-thrived, 1, 1, 5
-thoughts, 1, 1, 5
-theoretical, 1, 1, 5
-theology, 1, 1, 5
-theologising, 1, 1, 5
-th, 1, 1, 5
-technically, 1, 1, 5
-taste, 1, 1, 5
-talks, 1, 1, 5
-talked, 1, 1, 5
-taifa, 1, 1, 5
-sword, 1, 1, 5
-swathes, 1, 1, 5
-suzerain, 1, 1, 5
-surface, 1, 1, 5
-suppose, 1, 1, 5
-supplanted, 1, 1, 5
-sunday, 1, 1, 5
-summary, 1, 1, 5
-suggestions, 1, 1, 5
-suez, 2, 2, 5
-succesion, 1, 1, 5
-substitutionary, 1, 1, 5
-substantial, 1, 1, 5
-submit, 1, 1, 5
-subjugation, 2, 1, 5
-subalternity, 6, 1, 5
-subaltern, 8, 1, 5
-studies, 2, 1, 5
-studied, 1, 1, 5
-stressed, 1, 1, 5
-standing, 1, 1, 5
-stages, 1, 1, 5
-stage, 1, 1, 5
-spurned, 1, 1, 5
-spivak, 1, 1, 5
-speaking, 1, 1, 5
-sounded, 1, 1, 5
-solid, 3, 2, 5
-socalled, 1, 1, 5
-snobbery, 1, 1, 5
-slavs, 1, 1, 5
-slaves, 1, 1, 5
-sketched, 1, 1, 5
-six, 2, 2, 5
-singing, 1, 1, 5
-silk, 1, 1, 5
-significant, 1, 1, 5
-showing, 2, 2, 5
-severely, 1, 1, 5
-semitism, 1, 1, 5
-semimagical, 1, 1, 5
-semblance, 1, 1, 5
-selfempowerment, 1, 1, 5
-selective, 1, 1, 5
-secondly, 1, 1, 5
-se, 1, 1, 5
-scotland, 1, 1, 5
-scientific, 1, 1, 5
-scholarship, 1, 1, 5
-savagery, 1, 1, 5
-samuel, 1, 1, 5
-russian, 3, 3, 5
-runs, 1, 1, 5
-ruling, 1, 1, 5
-ruled, 1, 1, 5
-roughshod, 1, 1, 5
-rose, 1, 1, 5
-romanbyzantine, 1, 1, 5
-robot, 1, 1, 5
-rival, 1, 1, 5
-ritualistically, 1, 1, 5
-risk, 2, 1, 5
-riding, 1, 1, 5
-revolt, 1, 1, 5
-revival, 1, 1, 5
-retrospect, 1, 1, 5
-restrict_sr, 1, 1, 5
-resembling, 1, 1, 5
-researched, 1, 1, 5
-represents, 1, 1, 5
-reported, 1, 1, 5
-repartitioned, 1, 1, 5
-reoriented, 1, 1, 5
-remie, 1, 1, 5
-releasing, 1, 1, 5
-rejected, 2, 2, 5
-regret, 1, 1, 5
-regard, 2, 2, 5
-reforms, 1, 1, 5
-reflective, 1, 1, 5
-references, 3, 2, 5
-reconquista, 1, 1, 5
-recognised, 1, 1, 5
-recall, 3, 1, 5
-reaching, 1, 1, 5
-ranks, 1, 1, 5
-rampant, 1, 1, 5
-rambling, 1, 1, 5
-raise, 1, 1, 5
-quran, 1, 1, 5
-quo, 1, 1, 5
-quiet, 1, 1, 5
-qualifies, 1, 1, 5
-qualifier, 1, 1, 5
-pushed, 2, 1, 5
-purity, 1, 1, 5
-puppet, 1, 1, 5
-punitively, 1, 1, 5
-punctuated, 1, 1, 5
-property, 1, 1, 5
-proper, 1, 1, 5
-programed, 1, 1, 5
-profitable, 1, 1, 5
-produced, 1, 1, 5
-prisoner, 1, 1, 5
-principalities, 2, 1, 5
-prime, 1, 1, 5
-price, 1, 1, 5
-preworld, 1, 1, 5
-prevented, 1, 1, 5
-preferable, 1, 1, 5
-predilection, 1, 1, 5
-precarity, 1, 1, 5
-postimperialism, 1, 1, 5
-postcolonial, 1, 1, 5
-positive, 1, 1, 5
-pose, 1, 1, 5
-popularity, 1, 1, 5
-populace, 1, 1, 5
-pollard, 2, 1, 5
-politicians, 2, 2, 5
-playing, 1, 1, 5
-plantation, 1, 1, 5
-pisa, 1, 1, 5
-permeates, 1, 1, 5
-percived, 1, 1, 5
-percent, 1, 1, 5
-peninsula, 1, 1, 5
-peace, 1, 1, 5
-payments, 1, 1, 5
-paused, 1, 1, 5
-patronymic, 1, 1, 5
-patients, 1, 1, 5
-patientled, 1, 1, 5
-patient, 2, 1, 5
-passover, 1, 1, 5
-passiveness, 1, 1, 5
-partners, 1, 1, 5
-paper, 1, 1, 5
-pad, 1, 1, 5
-othering, 1, 1, 5
-othered, 1, 1, 5
-organisations, 1, 1, 5
-oppressive, 1, 1, 5
-onamp, 1, 1, 5
-olivia, 1, 1, 5
-olivefriendly, 1, 1, 5
-oct, 2, 2, 5
-occupying, 1, 1, 5
-occupy, 1, 1, 5
-observes, 1, 1, 5
-northumbria, 2, 1, 5
-norsemen, 1, 1, 5
-norman, 2, 1, 5
-normalised, 1, 1, 5
-noblemen, 1, 1, 5
-nine, 1, 1, 5
-nice, 1, 1, 5
-newamp, 1, 1, 5
-neill, 1, 1, 5
-ned, 3, 3, 5
-necessarily, 1, 1, 5
-neartotality, 1, 1, 5
-nearly, 1, 1, 5
-naval, 2, 2, 5
-narrative, 6, 1, 5
-n, 1, 1, 5
-muslimruled, 1, 1, 5
-mozarabs, 1, 1, 5
-movement, 1, 1, 5
-moriscos, 1, 1, 5
-monks, 1, 1, 5
-monasteries, 1, 1, 5
-missed, 1, 1, 5
-misconceptions, 1, 1, 5
-mints, 1, 1, 5
-minting, 1, 1, 5
-minister, 1, 1, 5
-miller, 3, 2, 5
-migraines, 1, 1, 5
-middleeastern, 1, 1, 5
-method, 2, 2, 5
-metalwork, 1, 1, 5
-mercia, 1, 1, 5
-mercenary, 1, 1, 5
-mercenaries, 2, 1, 5
-mentality, 1, 1, 5
-mentalemotional, 1, 1, 5
-members, 1, 1, 5
-medinamecca, 1, 1, 5
-medicalise, 1, 1, 5
-medical, 3, 1, 5
-meaningful, 2, 1, 5
-massacres, 1, 1, 5
-marked, 1, 1, 5
-maritime, 1, 1, 5
-marginality, 1, 1, 5
-marginalised, 1, 1, 5
-manuscripts, 1, 1, 5
-manufacturing, 1, 1, 5
-manufactured, 1, 1, 5
-malaria, 1, 1, 5
-makers, 1, 1, 5
-majority, 3, 3, 5
-luxury, 1, 1, 5
-luke, 4, 1, 5
-lsine, 1, 1, 5
-loyalty, 1, 1, 5
-looted, 1, 1, 5
-living, 1, 1, 5
-limiting, 1, 1, 5
-lies, 1, 1, 5
-levies, 2, 1, 5
-lessthanpious, 1, 1, 5
-lesspious, 1, 1, 5
-lesser, 1, 1, 5
-legitimised, 1, 1, 5
-legitimacy, 1, 1, 5
-legendary, 1, 1, 5
-leads, 1, 1, 5
-laypeople, 1, 1, 5
-kirsten, 1, 1, 5
-kings, 3, 1, 5
-kingdomgs, 1, 1, 5
-kindle, 1, 1, 5
-justin, 2, 1, 5
-joseph, 1, 1, 5
-jokes, 1, 1, 5
-jizya, 1, 1, 5
-israeli, 2, 1, 5
-israel, 1, 1, 5
-isolation, 1, 1, 5
-islesy, 1, 1, 5
-islam, 2, 1, 5
-iraq, 3, 2, 5
-iran, 4, 2, 5
-involvement, 1, 1, 5
-invited, 1, 1, 5
-introduced, 1, 1, 5
-intersection, 1, 1, 5
-interreligious, 1, 1, 5
-international, 1, 1, 5
-intermarriage, 1, 1, 5
-interestingly, 1, 1, 5
-intentionally, 1, 1, 5
-intensity, 1, 1, 5
-intellectual, 1, 1, 5
-insurrection, 2, 1, 5
-inscribe, 1, 1, 5
-inquiry, 1, 1, 5
-injured, 1, 1, 5
-inherently, 3, 1, 5
-inherent, 1, 1, 5
-inevitably, 1, 1, 5
-indicating, 1, 1, 5
-incoherent, 1, 1, 5
-include, 1, 1, 5
-incidents, 2, 1, 5
-improvement, 1, 1, 5
-impose, 2, 1, 5
-imply, 1, 1, 5
-impair, 1, 1, 5
-illustrating, 1, 1, 5
-illness, 2, 1, 5
-ignored, 1, 1, 5
-ideology, 1, 1, 5
-identity, 1, 1, 5
-ideals, 1, 1, 5
-iberians, 1, 1, 5
-iberian, 2, 1, 5
-iberia, 4, 1, 5
-hysteria, 2, 1, 5
-huddled, 1, 1, 5
-htat, 1, 1, 5
-hospital, 1, 1, 5
-horrifying, 1, 1, 5
-honorific, 1, 1, 5
-honestly, 1, 1, 5
-holdouts, 1, 1, 5
-holdings, 1, 1, 5
-hired, 1, 1, 5
-hint, 1, 1, 5
-heroic, 1, 1, 5
-hell, 1, 1, 5
-hegemonic, 1, 1, 5
-heavy, 2, 1, 5
-hear, 2, 1, 5
-healthcare, 2, 1, 5
-health, 1, 1, 5
-harmful, 1, 1, 5
-hanson, 1, 1, 5
-guthrum, 2, 1, 5
-guilty, 1, 1, 5
-grow, 1, 1, 5
-greet, 1, 1, 5
-grandfather, 1, 1, 5
-gramsci, 1, 1, 5
-gradual, 1, 1, 5
-governorship, 1, 1, 5
-golden, 1, 1, 5
-gnawed, 1, 1, 5
-gloom, 1, 1, 5
-glick, 1, 1, 5
-germans, 5, 4, 5
-geographic, 1, 1, 5
-genoa, 1, 1, 5
-generative, 1, 1, 5
-gendered, 2, 1, 5
-gelfhine, 1, 1, 5
-gaels, 1, 1, 5
-gaelic, 2, 1, 5
-funny, 2, 2, 5
-framing, 1, 1, 5
-fractured, 1, 1, 5
-fourth, 3, 2, 5
-founded, 1, 1, 5
-fought, 4, 3, 5
-forcing, 1, 1, 5
-foil, 1, 1, 5
-focused, 1, 1, 5
-fluoxetine, 1, 1, 5
-flip, 1, 1, 5
-fled, 1, 1, 5
-flatten, 1, 1, 5
-fitna, 3, 1, 5
-firstly, 1, 1, 5
-finds, 1, 1, 5
-feudalism, 1, 1, 5
-female, 2, 1, 5
-featured, 1, 1, 5
-favorably, 1, 1, 5
-fascinatingly, 1, 1, 5
-farmer, 1, 1, 5
-extrapolating, 1, 1, 5
-extraordinary, 1, 1, 5
-externally, 1, 1, 5
-experiencing, 1, 1, 5
-exiled, 1, 1, 5
-exerting, 1, 1, 5
-exerted, 1, 1, 5
-exercise, 1, 1, 5
-excluding, 1, 1, 5
-exaggerating, 1, 1, 5
-evacuate, 1, 1, 5
-eunuchs, 7, 1, 5
-eunuch, 2, 1, 5
-establishes, 1, 1, 5
-entity, 1, 1, 5
-emplaced, 1, 1, 5
-el, 2, 2, 5
-egbert, 1, 1, 5
-effecient, 1, 1, 5
-eddington, 1, 1, 5
-economically, 6, 1, 5
-drunkeness, 1, 1, 5
-doom, 1, 1, 5
-documenatry, 1, 1, 5
-doctors, 1, 1, 5
-divide, 1, 1, 5
-disunity, 1, 1, 5
-distorted, 1, 1, 5
-disseminate, 1, 1, 5
-disraeli, 1, 1, 5
-disputing, 1, 1, 5
-displays, 1, 1, 5
-dismissed, 1, 1, 5
-disloyal, 1, 1, 5
-discussed, 1, 1, 5
-discouraged, 1, 1, 5
-disable, 1, 1, 5
-digest, 1, 1, 5
-differentlyabled, 1, 1, 5
-died, 1, 1, 5
-diagnoses, 1, 1, 5
-dhimmis, 1, 1, 5
-deviating, 1, 1, 5
-deviated, 1, 1, 5
-devasting, 1, 1, 5
-devastating, 2, 1, 5
-destructive, 1, 1, 5
-derives, 1, 1, 5
-derbfhine, 1, 1, 5
-depends, 1, 1, 5
-dependent, 1, 1, 5
-demanding, 1, 1, 5
-demanded, 1, 1, 5
-deep, 1, 1, 5
-decisions, 1, 1, 5
-decentralised, 1, 1, 5
-deals, 1, 1, 5
-dea, 1, 1, 5
-damascus, 1, 1, 5
-customlawhabit, 1, 1, 5
-crux, 1, 1, 5
-cruel, 1, 1, 5
-creates, 1, 1, 5
-coup, 1, 1, 5
-countriesempires, 1, 1, 5
-counsellors, 1, 1, 5
-council, 1, 1, 5
-correctly, 2, 1, 5
-corrections, 1, 1, 5
-correction, 1, 1, 5
-corrected, 1, 1, 5
-converting, 3, 1, 5
-converted, 1, 1, 5
-contains, 1, 1, 5
-consumption, 7, 2, 5
-construction, 1, 1, 5
-constantinople, 1, 1, 5
-constable, 1, 1, 5
-consolidation, 1, 1, 5
-confederation, 2, 1, 5
-concerns, 1, 1, 5
-comparison, 1, 1, 5
-commodities, 1, 1, 5
-committed, 1, 1, 5
-commemorating, 1, 1, 5
-coined, 1, 1, 5
-coherent, 1, 1, 5
-closer, 2, 2, 5
-climatological, 1, 1, 5
-clientship, 1, 1, 5
-clergy, 2, 1, 5
-clamped, 1, 1, 5
-claim, 1, 1, 5
-circumspect, 1, 1, 5
-circummediterranean, 1, 1, 5
-chroniclers, 1, 1, 5
-christianjewish, 1, 1, 5
-christiand, 1, 1, 5
-chlamys, 8, 2, 5
-chippenham, 1, 1, 5
-cheesy, 1, 1, 5
-chance, 1, 1, 5
-ch, 1, 1, 5
-cerealgrowing, 1, 1, 5
-centralised, 1, 1, 5
-centers, 1, 1, 5
-celts, 1, 1, 5
-celt, 1, 1, 5
-celebrated, 2, 1, 5
-caused, 1, 1, 5
-cause, 1, 1, 5
-category, 1, 1, 5
-castrations, 1, 1, 5
-castration, 1, 1, 5
-castrati, 1, 1, 5
-castrated, 1, 1, 5
-casting, 1, 1, 5
-carefully, 1, 1, 5
-campaigning, 1, 1, 5
-brus, 1, 1, 5
-bring, 1, 1, 5
-brilliant, 1, 1, 5
-bribe, 1, 1, 5
-brehon, 1, 1, 5
-breaking, 1, 1, 5
-brand, 1, 1, 5
-boster, 1, 1, 5
-border, 1, 1, 5
-boom, 1, 1, 5
-bloody, 1, 1, 5
-bias, 1, 1, 5
-bethesda, 1, 1, 5
-beneficial, 1, 1, 5
-believes, 1, 1, 5
-behest, 1, 1, 5
-begun, 1, 1, 5
-beforehand, 1, 1, 5
-baitandswitch, 1, 1, 5
-bad, 1, 1, 5
-backed, 1, 1, 5
-aug, 2, 2, 5
-attrition, 1, 1, 5
-attempting, 1, 1, 5
-atmosphere, 1, 1, 5
-athelney, 1, 1, 5
-asylums, 1, 1, 5
-astounding, 1, 1, 5
-arrival, 1, 1, 5
-armiesa, 1, 1, 5
-arise, 1, 1, 5
-argued, 1, 1, 5
-arabmuslim, 1, 1, 5
-appropriate, 1, 1, 5
-approaching, 1, 1, 5
-appreciate, 1, 1, 5
-apply, 1, 1, 5
-appease, 1, 1, 5
-apparatuses, 1, 1, 5
-antisemitism, 3, 1, 5
-anti, 1, 1, 5
-antebellum, 2, 1, 5
-anglia, 2, 1, 5
-angle, 1, 1, 5
-andalusi, 4, 1, 5
-anarchic, 1, 1, 5
-ambiguous, 1, 1, 5
-amateur, 1, 1, 5
-alternate, 1, 1, 5
-almoravids, 2, 1, 5
-almoravid, 2, 1, 5
-almohads, 2, 1, 5
-almohad, 2, 1, 5
-alliances, 1, 1, 5
-alike, 1, 1, 5
-algorithmically, 1, 1, 5
-alexandria, 1, 1, 5
-alamein, 2, 2, 5
-aim, 1, 1, 5
-agricultural, 2, 2, 5
-agnatic, 1, 1, 5
-africanbased, 1, 1, 5
-advocating, 1, 1, 5
-advanced, 1, 1, 5
-adopting, 1, 1, 5
-accomplished, 1, 1, 5
-accommodating, 1, 1, 5
-accidental, 1, 1, 5
-academics, 1, 1, 5
-academic, 1, 1, 5
-abroad, 1, 1, 5
-ability, 1, 1, 5
-_what, 3, 2, 5
-877, 1, 1, 5
-815, 1, 1, 5
-3a, 1, 1, 5
-23, 1, 1, 5
-22sundaydigest, 1, 1, 5
-22amp, 1, 1, 5
-1980, 1, 1, 5
-1933, 1, 1, 5
-1860, 1, 1, 5
-1800, 1, 1, 5
-1789, 3, 1, 5
-1781, 1, 1, 5
-16, 2, 2, 5
-1594, 1, 1, 5
-15, 1, 1, 5
-13th15th, 1, 1, 5
-1325, 1, 1, 5
-13151318, 1, 1, 5
-12th13th, 1, 1, 5
-11th13th, 1, 1, 5
-11th, 2, 1, 5
-1000, 1, 1, 5
-witness, 1, 1, 4
-windchill, 1, 1, 4
-widespread, 1, 1, 4
-wheat, 2, 1, 4
-westwards, 1, 1, 4
-weekend, 1, 1, 4
-weapons, 1, 1, 4
-wave, 1, 1, 4
-vessels, 1, 1, 4
-vegetables, 1, 1, 4
-vase, 2, 2, 4
-valley, 1, 1, 4
-utf8amp, 1, 1, 4
-units, 4, 2, 4
-ungodly, 1, 1, 4
-typified, 1, 1, 4
-type, 3, 3, 4
-turkey, 1, 1, 4
-troop, 1, 1, 4
-triangles, 1, 1, 4
-traditions, 1, 1, 4
-tmm_hrd_swatch_0, 1, 1, 4
-throwing, 1, 1, 4
-throughout, 1, 1, 4
-texiles, 1, 1, 4
-syria, 1, 1, 4
-susa, 1, 1, 4
-survived, 1, 1, 4
-supply, 1, 1, 4
-summarizing, 1, 1, 4
-stress, 2, 2, 4
-stove, 1, 1, 4
-storage, 1, 1, 4
-steadily, 1, 1, 4
-staple, 2, 1, 4
-sr, 1, 1, 4
-spread, 7, 1, 4
-spot, 1, 1, 4
-spoiling, 1, 1, 4
-spelling, 1, 1, 4
-species, 1, 1, 4
-southeast, 1, 1, 4
-software, 1, 1, 4
-smashed, 1, 1, 4
-slippers, 1, 1, 4
-signify, 1, 1, 4
-sides, 2, 2, 4
-serious, 1, 1, 4
-sengoku, 1, 1, 4
-seeps, 1, 1, 4
-search, 1, 1, 4
-scholarly, 1, 1, 4
-sativa, 1, 1, 4
-sales, 1, 1, 4
-sailing, 2, 1, 4
-russia, 6, 3, 4
-routeplanning, 1, 1, 4
-rmildlyinteresting, 1, 1, 4
-river, 1, 1, 4
-riceeating, 1, 1, 4
-retroactively, 1, 1, 4
-retinue, 1, 1, 4
-remotely, 1, 1, 4
-raven, 2, 1, 4
-rare, 1, 1, 4
-rachel, 1, 1, 4
-qid, 1, 1, 4
-pulao, 1, 1, 4
-predominantly, 1, 1, 4
-predates, 1, 1, 4
-precolumbian, 1, 1, 4
-port, 1, 1, 4
-porridge, 1, 1, 4
-podcaster, 1, 1, 4
-plans, 1, 1, 4
-pilaf, 1, 1, 4
-persianized, 1, 1, 4
-permitted, 1, 1, 4
-periphery, 1, 1, 4
-pearl, 1, 1, 4
-partial, 1, 1, 4
-papers, 1, 1, 4
-paella, 1, 1, 4
-outdoors, 1, 1, 4
-ottomans, 1, 1, 4
-oryza, 5, 1, 4
-orbisstanfordedu, 1, 1, 4
-orbis, 1, 1, 4
-nuclear, 4, 2, 4
-noting, 1, 1, 4
-noticeably, 1, 1, 4
-noob, 1, 1, 4
-nile, 1, 1, 4
-necessary, 1, 1, 4
-montreal, 1, 1, 4
-millennium, 1, 1, 4
-meat, 1, 1, 4
-marking, 1, 1, 4
-manage, 1, 1, 4
-lord, 1, 1, 4
-loop, 1, 1, 4
-livestock, 1, 1, 4
-lebanon, 1, 1, 4
-laudan, 1, 1, 4
-lady, 1, 1, 4
-kg, 3, 1, 4
-jun, 2, 2, 4
-japonica, 2, 1, 4
-insufficient, 1, 1, 4
-influenced, 2, 1, 4
-indus, 1, 1, 4
-indoors, 1, 1, 4
-indigo, 1, 1, 4
-indica, 4, 1, 4
-increasing, 1, 1, 4
-impossibility, 1, 1, 4
-implements, 1, 1, 4
-identify, 1, 1, 4
-house, 1, 1, 4
-heraldry, 1, 1, 4
-heaters, 1, 1, 4
-heat, 2, 1, 4
-halt, 1, 1, 4
-guessing, 1, 1, 4
-grind, 1, 1, 4
-grave, 1, 1, 4
-granulated, 1, 1, 4
-glaberrima, 3, 1, 4
-genetics, 1, 1, 4
-genetic, 1, 1, 4
-fyrd, 1, 1, 4
-frozen, 1, 1, 4
-froze, 1, 1, 4
-fatimid, 2, 2, 4
-fast, 1, 1, 4
-extreme, 2, 2, 4
-extensive, 1, 1, 4
-exposure, 1, 1, 4
-etymologically, 1, 1, 4
-episode, 1, 1, 4
-engaged, 2, 2, 4
-engage, 1, 1, 4
-electric, 1, 1, 4
-eat, 1, 1, 4
-dude, 1, 1, 4
-door, 1, 1, 4
-dominated, 1, 1, 4
-domesticated, 2, 1, 4
-die, 1, 1, 4
-desert, 2, 2, 4
-derived, 1, 1, 4
-delta, 2, 1, 4
-degree, 2, 2, 4
-deadly, 1, 1, 4
-daylight, 1, 1, 4
-cultivation, 1, 1, 4
-cuisines, 1, 1, 4
-cuisine, 4, 1, 4
-cross, 1, 1, 4
-cracks, 1, 1, 4
-couscous, 1, 1, 4
-cotton, 1, 1, 4
-cool, 1, 1, 4
-cooked, 1, 1, 4
-conquests, 1, 1, 4
-concerned, 2, 2, 4
-combat, 2, 2, 4
-coa, 1, 1, 4
-classic, 5, 2, 4
-clarification, 2, 2, 4
-civilizations, 1, 1, 4
-circles, 1, 1, 4
-cheaper, 1, 1, 4
-care, 2, 2, 4
-capita, 2, 1, 4
-caliphates, 2, 2, 4
-bulghur, 1, 1, 4
-brits, 1, 1, 4
-breakdown, 1, 1, 4
-boiled, 1, 1, 4
-blankets, 1, 1, 4
-beards, 2, 2, 4
-beard, 2, 2, 4
-bay, 1, 1, 4
-barley, 1, 1, 4
-banners, 1, 1, 4
-banner, 2, 1, 4
-average, 1, 1, 4
-attributed, 1, 1, 4
-astronomical, 1, 1, 4
-assume, 1, 1, 4
-asked, 1, 1, 4
-armors, 1, 1, 4
-arabs, 1, 1, 4
-arabic, 1, 1, 4
-apartment, 1, 1, 4
-antagonists, 1, 1, 4
-afghanistan, 2, 1, 4
-added, 1, 1, 4
-adapted, 2, 1, 4
-absolute, 1, 1, 4
-abbasid, 2, 2, 4
-_when, 2, 2, 4
-_encoding, 1, 1, 4
-9000, 1, 1, 4
-60, 1, 1, 4
-4th, 1, 1, 4
-40c, 1, 1, 4
-3500, 1, 1, 4
-2328, 1, 1, 4
-2013, 2, 2, 4
-1971, 2, 2, 4
-1950s, 2, 2, 4
-12, 1, 1, 4
-11, 3, 2, 4
-10000, 1, 1, 4
-wore, 2, 1, 3
-wikipedia, 5, 2, 3
-wheelhouse, 1, 1, 3
-west_, 1, 1, 3
-voyages, 1, 1, 3
-vitriolic, 1, 1, 3
-uxuial, 1, 1, 3
-uthe_alaskan, 1, 1, 3
-usarah_fox, 1, 1, 3
-uranium, 1, 1, 3
-ups, 1, 1, 3
-upheaval, 2, 1, 3
-unoffered, 1, 1, 3
-unit, 3, 2, 3
-treats, 1, 1, 3
-treason, 1, 1, 3
-traumatic, 1, 1, 3
-transition, 1, 1, 3
-trajan, 1, 1, 3
-thousands, 2, 2, 3
-thompson, 3, 1, 3
-thesis, 1, 1, 3
-theological, 2, 1, 3
-testing, 3, 1, 3
-temple, 1, 1, 3
-summer, 1, 1, 3
-suggested, 1, 1, 3
-successor, 1, 1, 3
-style, 3, 2, 3
-stretch, 1, 1, 3
-strategy, 2, 2, 3
-statement, 2, 1, 3
-stands, 1, 1, 3
-stalin, 1, 1, 3
-spring, 1, 1, 3
-sported, 1, 1, 3
-specialists, 1, 1, 3
-sixpart, 2, 2, 3
-silly, 1, 1, 3
-shorter, 1, 1, 3
-shawl, 1, 1, 3
-sexuality, 2, 2, 3
-sexual, 3, 2, 3
-settle, 2, 2, 3
-series, 2, 2, 3
-sept, 1, 1, 3
-secretaryship, 1, 1, 3
-secretary, 2, 1, 3
-seamanship, 1, 1, 3
-sacred, 1, 1, 3
-sabotage, 1, 1, 3
-rutherford, 1, 1, 3
-rules, 2, 2, 3
-risky, 1, 1, 3
-revolutionaries, 1, 1, 3
-resigned, 1, 1, 3
-resignation, 1, 1, 3
-resemble, 1, 1, 3
-represented, 1, 1, 3
-rendition, 1, 1, 3
-renaissance, 1, 1, 3
-recreationally, 1, 1, 3
-reconstructions, 1, 1, 3
-railroad, 1, 1, 3
-rabble, 2, 1, 3
-quit, 1, 1, 3
-pursue, 1, 1, 3
-punishment, 1, 1, 3
-provincial, 1, 1, 3
-province, 1, 1, 3
-proposes, 1, 1, 3
-production, 2, 1, 3
-princeton, 1, 1, 3
-previously, 1, 1, 3
-pressured, 1, 1, 3
-pouring, 1, 1, 3
-postcolonialism, 1, 1, 3
-pius, 1, 1, 3
-pictures, 1, 1, 3
-pictured, 1, 1, 3
-pharisees, 1, 1, 3
-periods, 1, 1, 3
-patricia, 1, 1, 3
-partisan, 1, 1, 3
-paris, 2, 2, 3
-pardon, 1, 1, 3
-panama, 2, 1, 3
-pamphleteer, 1, 1, 3
-paintings, 1, 1, 3
-painting, 1, 1, 3
-overpowered, 1, 1, 3
-overall, 1, 1, 3
-organization, 1, 1, 3
-nov, 2, 1, 3
-normally, 1, 1, 3
-noneuropean, 1, 1, 3
-neolithic, 1, 1, 3
-navy, 2, 1, 3
-nathan, 1, 1, 3
-mussolini, 1, 1, 3
-mongol, 1, 1, 3
-mild, 1, 1, 3
-midwesterner, 1, 1, 3
-maya, 9, 2, 3
-materialism, 4, 1, 3
-match, 3, 3, 3
-marxist, 1, 1, 3
-marxian, 2, 1, 3
-marcus, 1, 1, 3
-magna, 1, 1, 3
-lobbyist, 1, 1, 3
-lionel, 1, 1, 3
-linen, 1, 1, 3
-libation, 1, 1, 3
-lenin, 1, 1, 3
-leadership, 2, 2, 3
-knew, 2, 2, 3
-kingdom, 1, 1, 3
-karenina, 2, 2, 3
-iranian, 1, 1, 3
-investment, 1, 1, 3
-inspiration, 1, 1, 3
-illustrated, 1, 1, 3
-ignoring, 1, 1, 3
-ignorance, 1, 1, 3
-identification, 1, 1, 3
-horrible, 1, 1, 3
-hoplites, 2, 1, 3
-hoplite, 1, 1, 3
-hope, 2, 2, 3
-homes, 1, 1, 3
-hayes, 2, 1, 3
-hadrian, 1, 1, 3
-generate, 1, 1, 3
-frankly, 1, 1, 3
-formed, 2, 2, 3
-flagrant, 1, 1, 3
-finland, 1, 1, 3
-finding, 2, 2, 3
-fastest, 1, 1, 3
-faq, 1, 1, 3
-fanciful, 1, 1, 3
-extending, 1, 1, 3
-experience, 3, 3, 3
-executing, 1, 1, 3
-execute, 1, 1, 3
-enthusiastic, 1, 1, 3
-enabled, 1, 1, 3
-elaborated, 1, 1, 3
-education, 5, 2, 3
-editorial, 1, 1, 3
-easiest, 1, 1, 3
-driving, 1, 1, 3
-disorder, 1, 1, 3
-discusses, 1, 1, 3
-diplomatic, 1, 1, 3
-determined, 2, 2, 3
-determine, 1, 1, 3
-destinations, 1, 1, 3
-defenses, 1, 1, 3
-damn, 1, 1, 3
-cuirass, 1, 1, 3
-crone, 1, 1, 3
-credibility, 1, 1, 3
-craft, 1, 1, 3
-cover, 1, 1, 3
-constantine, 1, 1, 3
-component, 1, 1, 3
-commonly, 1, 1, 3
-committing, 1, 1, 3
-color, 2, 2, 3
-cloaks, 1, 1, 3
-cleanshaven, 1, 1, 3
-choose, 1, 1, 3
-childe, 1, 1, 3
-causing, 1, 1, 3
-casson, 1, 1, 3
-carta, 1, 1, 3
-capone, 1, 1, 3
-cabinet, 1, 1, 3
-businesses, 1, 1, 3
-brother, 2, 2, 3
-broader, 2, 2, 3
-boardwalk, 1, 1, 3
-bible, 1, 1, 3
-barrier, 1, 1, 3
-avowed, 1, 1, 3
-avoiding, 1, 1, 3
-autumn, 1, 1, 3
-aurelius, 1, 1, 3
-attractive, 1, 1, 3
-attitude, 2, 2, 3
-attained, 1, 1, 3
-artfully, 1, 1, 3
-arm, 2, 1, 3
-archaeological, 3, 1, 3
-archaelogy, 1, 1, 3
-appointment, 1, 1, 3
-apparent, 1, 1, 3
-antonius, 1, 1, 3
-anticatholic, 1, 1, 3
-answered, 1, 1, 3
-anna, 2, 2, 3
-allies, 4, 2, 3
-aided, 1, 1, 3
-affected, 1, 1, 3
-adopters, 1, 1, 3
-addresses, 1, 1, 3
-accepted, 1, 1, 3
-_ama, 1, 1, 3
-40s, 1, 1, 3
-39, 1, 1, 3
-1960s, 1, 1, 3
-1930s, 1, 1, 3
-14, 1, 1, 3
-05, 1, 1, 3
-woodlands, 1, 1, 2
-wo, 1, 1, 2
-wild, 1, 1, 2
-wiki_homework, 1, 1, 2
-whatnot, 1, 1, 2
-wes, 1, 1, 2
-weirder, 1, 1, 2
-wari, 1, 1, 2
-waree, 1, 1, 2
-walker, 1, 1, 2
-wa, 1, 1, 2
-vitale, 1, 1, 2
-vines, 3, 1, 2
-vertical, 1, 1, 2
-variations, 1, 1, 2
-valuable, 1, 1, 2
-validate, 1, 1, 2
-vagina, 1, 1, 2
-uwhen_doves_cry, 1, 1, 2
-utterly, 1, 1, 2
-utabascun, 1, 1, 2
-usearocksandtrees, 1, 1, 2
-unscientific, 1, 1, 2
-unable, 2, 2, 2
-uklarok, 1, 1, 2
-ujvlivs, 1, 1, 2
-uiphikrates, 1, 1, 2
-tunics, 1, 1, 2
-trousers, 1, 1, 2
-tricky, 1, 1, 2
-trained, 1, 1, 2
-trail, 1, 1, 2
-toplevel, 1, 1, 2
-tl, 1, 1, 2
-tiwanaku, 1, 1, 2
-tihuanaco, 1, 1, 2
-threats, 1, 1, 2
-thirdearly, 1, 1, 2
-territories, 1, 1, 2
-teewanahkoo, 1, 1, 2
-tears, 1, 1, 2
-taught, 1, 1, 2
-tahlequah, 1, 1, 2
-tactical, 1, 1, 2
-tablia, 1, 1, 2
-sweeping, 1, 1, 2
-swapping, 1, 1, 2
-survey, 1, 1, 2
-supremacy, 1, 1, 2
-styles, 1, 1, 2
-struggling, 1, 1, 2
-strategic, 2, 2, 2
-strains, 2, 1, 2
-stickball, 1, 1, 2
-statesman, 1, 1, 2
-stakes, 1, 1, 2
-square, 1, 1, 2
-spell, 1, 1, 2
-soviets, 5, 2, 2
-solemn, 1, 1, 2
-sleeveless, 1, 1, 2
-shoulder, 1, 1, 2
-shots, 1, 1, 2
-shoes, 1, 1, 2
-shaping, 1, 1, 2
-semicircular, 1, 1, 2
-segments, 1, 1, 2
-seeking, 2, 2, 2
-secure, 1, 1, 2
-ryan, 1, 1, 2
-roots, 2, 1, 2
-riders, 1, 1, 2
-responsible, 1, 1, 2
-respondents, 1, 1, 2
-remind, 1, 1, 2
-remembrance, 1, 1, 2
-reliable, 1, 1, 2
-relationships, 2, 2, 2
-reinforced, 1, 1, 2
-region, 2, 2, 2
-refuted, 1, 1, 2
-reform, 2, 1, 2
-referred, 1, 1, 2
-rectangular, 1, 1, 2
-reconcile, 1, 1, 2
-rebuilding, 1, 1, 2
-ravenna, 1, 1, 2
-raskhistorians_, 1, 1, 2
-quechuaaymara, 1, 1, 2
-pulling, 1, 1, 2
-pros, 1, 1, 2
-proposal, 1, 1, 2
-pronounced, 2, 1, 2
-prone, 1, 1, 2
-project, 1, 1, 2
-procreation, 1, 1, 2
-procession, 1, 1, 2
-preserved, 1, 1, 2
-present, 1, 1, 2
-prefixes, 1, 1, 2
-prefederation, 1, 1, 2
-preface, 1, 1, 2
-preexisting, 1, 1, 2
-precise, 1, 1, 2
-policies, 1, 1, 2
-podcast, 1, 1, 2
-plural, 1, 1, 2
-player, 2, 1, 2
-pilgrim, 1, 1, 2
-phylloxera, 1, 1, 2
-pet, 1, 1, 2
-permit, 1, 1, 2
-penises, 1, 1, 2
-peeve, 1, 1, 2
-patterning, 1, 1, 2
-patterned, 2, 1, 2
-pattern, 1, 1, 2
-pathogen, 1, 1, 2
-patches, 1, 1, 2
-paramilitary, 1, 1, 2
-pair, 1, 1, 2
-pages, 1, 1, 2
-page_id, 1, 1, 2
-outflanked, 1, 1, 2
-onward, 1, 1, 2
-oklahomaindian, 1, 1, 2
-okla, 1, 1, 2
-ok, 1, 1, 2
-officials, 1, 1, 2
-officialdom, 1, 1, 2
-objectively, 1, 1, 2
-nofire, 1, 1, 2
-neoplatonism, 1, 1, 2
-nazis, 3, 2, 2
-narratives, 1, 1, 2
-muscogee, 1, 1, 2
-mosaic, 1, 1, 2
-moreover, 1, 1, 2
-morals, 1, 1, 2
-modernity, 1, 1, 2
-metric, 3, 1, 2
-metal, 1, 1, 2
-meta, 1, 1, 2
-mayan, 2, 1, 2
-maureen, 1, 1, 2
-markers, 1, 1, 2
-manner, 1, 1, 2
-manifest, 1, 1, 2
-macaurther, 1, 1, 2
-lives, 1, 1, 2
-linguistic, 1, 1, 2
-letters, 3, 2, 2
-larger, 1, 1, 2
-largely, 1, 1, 2
-lacrosse, 3, 1, 2
-lacks, 1, 1, 2
-kelly, 1, 1, 2
-justinian, 1, 1, 2
-johnson, 1, 1, 2
-jelly, 1, 1, 2
-intro, 1, 1, 2
-internecine, 1, 1, 2
-interchange, 1, 1, 2
-instruments, 1, 1, 2
-insect, 1, 1, 2
-inkasouth, 1, 1, 2
-influx, 1, 1, 2
-inedible, 1, 1, 2
-indigenous, 1, 1, 2
-incas, 2, 1, 2
-incan, 1, 1, 2
-inca, 3, 1, 2
-images, 1, 1, 2
-iimgurcomrje6iwtjpg, 1, 1, 2
-icon, 1, 1, 2
-hunting, 2, 1, 2
-hugh, 1, 1, 2
-huari, 1, 1, 2
-huagua, 1, 1, 2
-hose, 1, 1, 2
-holocaust, 2, 1, 2
-holiness, 1, 1, 2
-heavyweight, 1, 1, 2
-halfcreek, 1, 1, 2
-guilt, 1, 1, 2
-gregorian, 1, 1, 2
-grape, 4, 1, 2
-grafted, 2, 1, 2
-gnostic, 1, 1, 2
-girlfriend, 1, 1, 2
-galenic, 1, 1, 2
-fractions, 2, 1, 2
-foucault, 2, 1, 2
-footed, 1, 1, 2
-foibles, 1, 1, 2
-flavor, 2, 1, 2
-flaired, 1, 1, 2
-fits, 1, 1, 2
-fine, 2, 2, 2
-films, 1, 1, 2
-figurehead, 1, 1, 2
-fields, 1, 1, 2
-fed, 1, 1, 2
-fathers, 1, 1, 2
-fastened, 1, 1, 2
-ethnic, 2, 1, 2
-episcopal, 1, 1, 2
-entirety, 1, 1, 2
-enlighten, 1, 1, 2
-enemies, 1, 1, 2
-emancipation, 1, 1, 2
-eight, 2, 2, 2
-educated, 3, 1, 2
-edges, 1, 1, 2
-ease, 1, 1, 2
-dualism, 1, 1, 2
-dr, 1, 1, 2
-disputes, 1, 1, 2
-discussions, 1, 1, 2
-dirteater, 1, 1, 2
-directly, 1, 1, 2
-dig, 1, 1, 2
-describes, 1, 1, 2
-depicts, 1, 1, 2
-depicting, 1, 1, 2
-denoted, 1, 1, 2
-definite, 1, 1, 2
-defined, 1, 1, 2
-deerskins, 1, 1, 2
-decimated, 1, 1, 2
-dec, 1, 1, 2
-curious, 1, 1, 2
-crossing, 1, 1, 2
-crossbowshaped, 1, 1, 2
-creeks, 1, 1, 2
-creek, 1, 1, 2
-crafted, 1, 1, 2
-cowboys, 1, 1, 2
-costume, 1, 1, 2
-coptic, 2, 1, 2
-contact, 1, 1, 2
-constructions, 1, 1, 2
-cons, 1, 1, 2
-conducting, 1, 1, 2
-concord, 2, 1, 2
-conclusions, 1, 1, 2
-competing, 2, 1, 2
-colored, 1, 1, 2
-clerical, 1, 1, 2
-classified, 1, 1, 2
-civilian, 3, 1, 2
-citizen, 1, 1, 2
-citing, 1, 1, 2
-christie, 1, 1, 2
-cherokees, 5, 1, 2
-cherokee, 3, 1, 2
-carrying, 1, 1, 2
-carolyn, 1, 1, 2
-capitals, 1, 1, 2
-capital, 1, 1, 2
-capabilities, 1, 1, 2
-campagi, 1, 1, 2
-calling, 1, 1, 2
-calculation, 1, 1, 2
-bynum, 1, 1, 2
-bull, 1, 1, 2
-brown, 1, 1, 2
-broad, 1, 1, 2
-broach, 1, 1, 2
-britishfrench, 1, 1, 2
-boxers, 1, 1, 2
-block, 1, 1, 2
-blights, 1, 1, 2
-blight, 1, 1, 2
-blas, 1, 1, 2
-berlin, 1, 1, 2
-belt, 1, 1, 2
-beginnings, 1, 1, 2
-badge, 1, 1, 2
-aversion, 1, 1, 2
-australian, 1, 1, 2
-attacks, 1, 1, 2
-attacked, 1, 1, 2
-attached, 1, 1, 2
-atlas, 1, 1, 2
-associated, 1, 1, 2
-ascetic, 1, 1, 2
-armed, 1, 1, 2
-approximately, 1, 1, 2
-appreciative, 1, 1, 2
-anywhere, 1, 1, 2
-antiquity, 1, 1, 2
-announcement, 1, 1, 2
-announced, 1, 1, 2
-anklelength, 1, 1, 2
-alsacelorraine, 1, 1, 2
-alliance, 1, 1, 2
-aesthetics, 1, 1, 2
-acres, 1, 1, 2
-_how, 1, 1, 2
-8th, 3, 2, 2
-53, 1, 1, 2
-40000, 1, 1, 2
-2nd, 1, 1, 2
-27, 1, 1, 2
-257, 1, 1, 2
-237, 1, 1, 2
-20c, 1, 1, 2
-2003, 1, 1, 2
-1977, 1, 1, 2
-1870, 1, 1, 2
-1850, 1, 1, 2
-13, 1, 1, 2
-07, 1, 1, 2
-03, 1, 1, 2
-02, 1, 1, 2
-yt, 1, 1, 1
-wwwyoutubecomwatch, 1, 1, 1
-ww1, 2, 1, 1
-worms, 1, 1, 1
-worked, 1, 1, 1
-wolfgang, 1, 1, 1
-wilbert, 1, 1, 1
-whereas, 1, 1, 1
-westward, 1, 1, 1
-weakening, 1, 1, 1
-weak, 1, 1, 1
-warning, 1, 1, 1
-viewer, 1, 1, 1
-videos, 1, 1, 1
-video, 1, 1, 1
-victory, 1, 1, 1
-velocity, 1, 1, 1
-varied, 1, 1, 1
-variation, 1, 1, 1
-ussr, 2, 1, 1
-useless, 2, 1, 1
-upper, 1, 1, 1
-upload, 2, 1, 1
-upheavals, 1, 1, 1
-unofficial, 1, 1, 1
-unite, 1, 1, 1
-unitary, 1, 1, 1
-unhurried, 1, 1, 1
-unfunny, 1, 1, 1
-undergrad, 1, 1, 1
-uncommon, 1, 1, 1
-ukeyilan, 1, 1, 1
-uk, 1, 1, 1
-tutors, 1, 1, 1
-turmoil, 1, 1, 1
-turks, 1, 1, 1
-turkish, 2, 1, 1
-tucano, 1, 1, 1
-truck, 1, 1, 1
-tripoli, 1, 1, 1
-travelled, 1, 1, 1
-transported, 1, 1, 1
-transit, 1, 1, 1
-traditionally, 1, 1, 1
-track, 1, 1, 1
-toyota, 1, 1, 1
-total, 1, 1, 1
-torches, 1, 1, 1
-tobruk, 1, 1, 1
-tobacconist, 1, 1, 1
-tobacco, 6, 1, 1
-timestamp, 1, 1, 1
-tikal, 1, 1, 1
-tick, 1, 1, 1
-thru, 1, 1, 1
-theoretically, 1, 1, 1
-thats, 1, 1, 1
-tests, 2, 1, 1
-territorial, 1, 1, 1
-teenagers, 1, 1, 1
-taube, 1, 1, 1
-tanya, 1, 1, 1
-tangible, 1, 1, 1
-synesthetic, 1, 1, 1
-symbols, 1, 1, 1
-sunni, 1, 1, 1
-suff, 1, 1, 1
-sucked, 1, 1, 1
-substance, 1, 1, 1
-stuart, 1, 1, 1
-strength, 1, 1, 1
-stone, 1, 1, 1
-stogies, 1, 1, 1
-stillwell, 1, 1, 1
-sticky, 1, 1, 1
-stephen, 1, 1, 1
-steam, 1, 1, 1
-stationed, 1, 1, 1
-stamps, 1, 1, 1
-span, 1, 1, 1
-sovietschinese, 1, 1, 1
-soviet, 2, 1, 1
-solar, 1, 1, 1
-sods, 1, 1, 1
-sociable, 2, 1, 1
-smoking, 2, 1, 1
-smoked, 2, 1, 1
-smoke, 2, 1, 1
-smith, 1, 1, 1
-smet, 1, 1, 1
-smallest, 1, 1, 1
-significantly, 1, 1, 1
-signed, 1, 1, 1
-shave, 1, 1, 1
-seventeenth, 1, 1, 1
-servants, 1, 1, 1
-separated, 1, 1, 1
-send, 1, 1, 1
-selffocused, 1, 1, 1
-sealed, 1, 1, 1
-scrupulously, 1, 1, 1
-scoffed, 1, 1, 1
-school, 1, 1, 1
-schivelbusch, 1, 1, 1
-scandinavia, 1, 1, 1
-save, 1, 1, 1
-saint, 1, 1, 1
-rudy, 1, 1, 1
-rommel, 1, 1, 1
-rome, 1, 1, 1
-robinson, 1, 1, 1
-ritual, 1, 1, 1
-rhodesian, 1, 1, 1
-rhodesia, 1, 1, 1
-reputation, 1, 1, 1
-republic, 2, 1, 1
-reports, 1, 1, 1
-replete, 1, 1, 1
-reinforcements, 1, 1, 1
-regularly, 1, 1, 1
-refusing, 2, 2, 1
-reformed, 1, 1, 1
-rediscovering, 1, 1, 1
-recommendation, 1, 1, 1
-recognition, 1, 1, 1
-reasonable, 1, 1, 1
-reacquire, 1, 1, 1
-reached, 1, 1, 1
-rates, 1, 1, 1
-ragnar, 1, 1, 1
-racist, 1, 1, 1
-quantities, 1, 1, 1
-qh15x_ddrju, 1, 1, 1
-punish, 1, 1, 1
-proclaimed, 1, 1, 1
-prized, 1, 1, 1
-prevent, 1, 1, 1
-presentday, 1, 1, 1
-prejudice, 1, 1, 1
-preintegration, 1, 1, 1
-precarious, 1, 1, 1
-posturing, 1, 1, 1
-postintegration, 1, 1, 1
-postenlightenment, 1, 1, 1
-poorly, 1, 1, 1
-pomerium, 1, 1, 1
-polity, 1, 1, 1
-polities, 2, 1, 1
-pledging, 1, 1, 1
-pleasure, 1, 1, 1
-pleased, 1, 1, 1
-plate, 1, 1, 1
-planets, 1, 1, 1
-pissed, 1, 1, 1
-pipes, 1, 1, 1
-pipe, 1, 1, 1
-phenomenon, 1, 1, 1
-pg116, 1, 1, 1
-pencilthin, 1, 1, 1
-payload, 1, 1, 1
-participant, 2, 1, 1
-paratrooper, 1, 1, 1
-parachute, 1, 1, 1
-pangermanists, 1, 1, 1
-painters, 1, 1, 1
-pact, 1, 1, 1
-overrunning, 1, 1, 1
-outfit, 1, 1, 1
-outcome, 1, 1, 1
-ottomanturks, 1, 1, 1
-operations, 3, 1, 1
-occasional, 2, 1, 1
-observer, 1, 1, 1
-obnoxious, 1, 1, 1
-obama, 1, 1, 1
-notorious, 1, 1, 1
-nonbinding, 1, 1, 1
-nonaggression, 1, 1, 1
-nineteenth, 1, 1, 1
-nighttime, 1, 1, 1
-neighborhood, 1, 1, 1
-ncos, 1, 1, 1
-narrowest, 1, 1, 1
-muster, 1, 1, 1
-mum, 1, 1, 1
-modtools, 1, 1, 1
-mirroring, 1, 1, 1
-minutes, 1, 1, 1
-minor, 1, 1, 1
-military_career, 1, 1, 1
-miles, 1, 1, 1
-mexico, 1, 1, 1
-met, 1, 1, 1
-mentioning, 1, 1, 1
-memory, 1, 1, 1
-medium, 1, 1, 1
-medicine, 1, 1, 1
-manually, 1, 1, 1
-manchuria, 1, 1, 1
-madrid, 1, 1, 1
-lungtarring, 1, 1, 1
-losses, 1, 1, 1
-loosest, 1, 1, 1
-logistics, 1, 1, 1
-liked, 1, 1, 1
-levant, 1, 1, 1
-leisure, 1, 1, 1
-lately, 1, 1, 1
-lashings, 1, 1, 1
-larios, 1, 1, 1
-landed, 1, 1, 1
-lambent, 1, 1, 1
-korea, 2, 1, 1
-kids, 2, 1, 1
-karl, 1, 1, 1
-k1728, 1, 1, 1
-jurists, 1, 1, 1
-joke, 2, 1, 1
-joint, 1, 1, 1
-jars, 1, 1, 1
-jackie, 1, 1, 1
-islamicchristian, 1, 1, 1
-invite, 1, 1, 1
-inviolable, 1, 1, 1
-introduction, 2, 2, 1
-interacting, 1, 1, 1
-integration, 1, 1, 1
-inject, 1, 1, 1
-ineffective, 1, 1, 1
-incompetent, 1, 1, 1
-imported, 1, 1, 1
-importantly, 1, 1, 1
-implausible, 1, 1, 1
-immature, 2, 1, 1
-imho, 1, 1, 1
-imgurcomayfq1q, 1, 1, 1
-imagery, 2, 1, 1
-iimgurcombdy14vhjpg, 1, 1, 1
-idiotic, 1, 1, 1
-ian, 1, 1, 1
-houston, 1, 1, 1
-hopping, 1, 1, 1
-hoping, 1, 1, 1
-honduras, 1, 1, 1
-hilt, 1, 1, 1
-hey, 1, 1, 1
-heck, 1, 1, 1
-hearing, 1, 1, 1
-halfhour, 1, 1, 1
-habits, 2, 1, 1
-h, 1, 1, 1
-guatemala, 1, 1, 1
-grumbles, 1, 1, 1
-grounding, 1, 1, 1
-greedy, 1, 1, 1
-greeces, 1, 1, 1
-goal, 1, 1, 1
-glowing, 1, 1, 1
-globally, 1, 1, 1
-gigantic, 1, 1, 1
-gesture, 1, 1, 1
-germanaustria, 1, 1, 1
-generals, 1, 1, 1
-gen, 1, 1, 1
-fussy, 1, 1, 1
-fulfill, 1, 1, 1
-fuel, 1, 1, 1
-footnotes, 1, 1, 1
-followed, 1, 1, 1
-flame, 1, 1, 1
-finely, 1, 1, 1
-final, 1, 1, 1
-figures, 1, 1, 1
-farmers, 1, 1, 1
-fallouthow, 1, 1, 1
-factory, 1, 1, 1
-explosion, 1, 1, 1
-exchange, 1, 1, 1
-exceptionally, 1, 1, 1
-evaluate, 1, 1, 1
-eto, 1, 1, 1
-estate, 1, 1, 1
-equal, 1, 1, 1
-enormous, 1, 1, 1
-enjoyment, 1, 1, 1
-enema, 1, 1, 1
-enable, 1, 1, 1
-emulated, 1, 1, 1
-embers, 1, 1, 1
-elegant, 1, 1, 1
-educating, 1, 1, 1
-drove, 1, 1, 1
-drama, 1, 1, 1
-dozen, 1, 1, 1
-douglashome, 1, 1, 1
-doubtful, 1, 1, 1
-divert, 1, 1, 1
-div, 1, 1, 1
-dining, 1, 1, 1
-designs, 1, 1, 1
-depot, 1, 1, 1
-denote, 1, 1, 1
-delivering, 1, 1, 1
-deleted, 1, 1, 1
-deemed, 1, 1, 1
-declared, 1, 1, 1
-decisive, 1, 1, 1
-decade, 1, 1, 1
-cylinder, 1, 1, 1
-curriculum, 1, 1, 1
-crust, 1, 1, 1
-crewmen, 1, 1, 1
-creativity, 1, 1, 1
-creative, 1, 1, 1
-courses, 1, 1, 1
-courage, 1, 1, 1
-copypaste, 1, 1, 1
-copy, 1, 1, 1
-controversial, 1, 1, 1
-consumer, 1, 1, 1
-confusion, 1, 1, 1
-conceivably, 1, 1, 1
-commitments, 2, 1, 1
-commitment, 1, 1, 1
-commissioned, 1, 1, 1
-commies, 1, 1, 1
-commanded, 1, 1, 1
-codex, 1, 1, 1
-clicking, 1, 1, 1
-cleaned, 1, 1, 1
-civilized, 1, 1, 1
-cite, 1, 1, 1
-cigars, 6, 1, 1
-cigarettes, 5, 1, 1
-cigarette, 3, 1, 1
-cigar, 3, 1, 1
-chainmail, 1, 1, 1
-centered, 1, 1, 1
-catching, 1, 1, 1
-catch, 1, 1, 1
-cartons, 1, 1, 1
-carried, 1, 1, 1
-cardboard, 1, 1, 1
-capable, 1, 1, 1
-burn, 1, 1, 1
-breaches, 1, 1, 1
-box, 1, 1, 1
-boundary, 1, 1, 1
-bought, 1, 1, 1
-bordering, 1, 1, 1
-bones, 1, 1, 1
-bomber, 1, 1, 1
-bespeak, 1, 1, 1
-besides, 1, 1, 1
-belize, 1, 1, 1
-beating, 1, 1, 1
-basement, 1, 1, 1
-base, 1, 1, 1
-barack, 1, 1, 1
-baphomet, 1, 1, 1
-bank, 1, 1, 1
-b29, 1, 1, 1
-axis, 1, 1, 1
-austrogerman, 1, 1, 1
-august, 1, 1, 1
-attested, 1, 1, 1
-attempted, 1, 1, 1
-astronomers, 1, 1, 1
-asian, 1, 1, 1
-aromas, 1, 1, 1
-appreciated, 1, 1, 1
-appearance, 1, 1, 1
-anyway, 1, 1, 1
-anschluss, 1, 1, 1
-anatolia, 1, 1, 1
-ammunition, 1, 1, 1
-altered, 1, 1, 1
-almond, 1, 1, 1
-allotted, 1, 1, 1
-aliens, 1, 1, 1
-alec, 1, 1, 1
-airmen, 1, 1, 1
-aiding, 1, 1, 1
-agreement, 2, 2, 1
-afforded, 1, 1, 1
-advancement, 1, 1, 1
-addictive, 1, 1, 1
-activity, 1, 1, 1
-action, 1, 1, 1
-accoutrement, 1, 1, 1
-acceptance, 1, 1, 1
-92nd, 1, 1, 1
-929, 1, 1, 1
-91, 1, 1, 1
-720s, 1, 1, 1
-66, 1, 1, 1
-555th, 1, 1, 1
-30, 1, 1, 1
-1993, 1, 1, 1
-1987, 1, 1, 1
-1985, 1, 1, 1
-1970s, 1, 1, 1
-1945, 1, 1, 1
-1941, 1, 1, 1
-18th, 1, 1, 1
-1850s, 1, 1, 1
-1492, 1, 1, 1
-11m30s, 1, 1, 1
-111116, 1, 1, 1
-vows, 1, 1, 0
-volume, 1, 1, 0
-vol, 1, 1, 0
-viii, 1, 1, 0
-vicious, 1, 1, 0
-unforgiving, 1, 1, 0
-unfamiliar, 1, 1, 0
-undoubtedly, 1, 1, 0
-streets, 2, 1, 0
-split, 1, 1, 0
-saccovanzetti, 1, 1, 0
-rural, 1, 1, 0
-reputations, 1, 1, 0
-quantitative, 1, 1, 0
-prussia, 1, 1, 0
-presidents, 1, 1, 0
-pawn, 1, 1, 0
-paston, 2, 1, 0
-passos, 2, 1, 0
-notable, 1, 1, 0
-newspaper, 1, 1, 0
-murray, 1, 1, 0
-methodology, 1, 1, 0
-medievaltudor, 1, 1, 0
-meantime, 1, 1, 0
-marry, 1, 1, 0
-marriages, 1, 1, 0
-marriage, 3, 1, 0
-kempton, 2, 1, 0
-judges, 1, 1, 0
-instruct, 1, 1, 0
-inherit, 1, 1, 0
-hire, 1, 1, 0
-henry, 1, 1, 0
-hapsburgs, 1, 1, 0
-generated, 1, 1, 0
-garbage, 1, 1, 0
-fire, 1, 1, 0
-feels, 1, 1, 0
-families, 1, 1, 0
-extend, 1, 1, 0
-elizabeth, 1, 1, 0
-editors, 1, 1, 0
-drawn, 1, 1, 0
-dos, 2, 1, 0
-disposal, 1, 1, 0
-discourses, 1, 1, 0
-counterculture, 1, 1, 0
-conquer, 1, 1, 0
-college, 1, 1, 0
-collections, 1, 1, 0
-clubbed, 2, 1, 0
-circle, 1, 1, 0
-christina, 1, 1, 0
-bundled, 1, 1, 0
-bride, 1, 1, 0
-betterknown, 1, 1, 0
-apart, 1, 1, 0
-alluding, 1, 1, 0
-agree, 1, 1, 0
-afraid, 1, 1, 0
-adjustment, 1, 1, 0
-Word, Frequency, Comment Frequency, Net Score
-1967, 1, 1, 0
-1936, 1, 1, 0
+Word, Frequency, Comment Frequency, Net Score,Ave Score
+one,60,37,5309,143.49
+time,56,37,5282,142.76
+even,31,25,5195,207.80
+much,29,23,4791,208.30
+century,30,17,4698,276.35
+fuck,8,4,4629,1157.25
+said,12,11,4565,415.00
+probably,14,10,4514,451.40
+likely,17,10,4496,449.60
+would,85,48,4393,91.52
+modern,21,17,4385,257.94
+use,26,18,4378,243.22
+old,11,8,4337,542.13
+least,10,10,4310,431.00
+exactly,10,5,4283,856.60
+written,16,11,4184,380.36
+course,23,18,4181,232.28
+already,11,10,4121,412.10
+otherwise,4,4,4063,1015.75
+example,12,12,4056,338.00
+famous,8,6,4049,674.83
+first,26,17,4009,235.82
+means,7,6,3974,662.33
+20th,2,2,3963,1981.50
+english,16,10,3942,394.20
+earliest,5,4,3874,968.50
+back,16,14,3870,276.43
+three,13,9,3869,429.89
+case,17,11,3845,349.55
+men,13,8,3829,478.63
+fact,10,8,3823,477.88
+later,19,14,3815,272.50
+words,17,9,3813,423.67
+wrote,2,2,3775,1887.50
+shit,6,2,3775,1887.50
+profanity,2,2,3775,1887.50
+dictionary,2,2,3775,1887.50
+anyone,15,15,3684,245.60
+amp,6,4,3672,918.00
+mind,11,9,3668,407.56
+considered,7,6,3663,610.50
+oxford,2,2,3661,1830.50
+army,13,8,3656,457.00
+sources,18,11,3652,332.00
+subject,9,8,3645,455.63
+legal,7,4,3633,908.25
+16th,3,3,3628,1209.33
+word,6,4,3593,898.25
+verb,3,2,3580,1790.00
+congressional,2,2,3561,1780.50
+keep,6,4,3538,884.50
+called,6,6,3529,588.17
+text,8,6,3518,586.33
+meaning,3,3,3514,1171.33
+revenant,2,2,3500,1750.00
+events,2,2,3495,1747.50
+sense,7,5,3494,698.80
+documented,3,3,3491,1163.67
+appear,5,4,3490,872.50
+1865,2,2,3489,1744.50
+literal,2,2,3487,1743.50
+similarly,3,3,3486,1162.00
+rarely,2,2,3486,1743.00
+oldest,3,2,3486,1743.00
+dates,2,2,3486,1743.00
+speakers,2,2,3484,1742.00
+taboo,2,2,3483,1741.50
+official,2,2,3483,1741.50
+yfele,1,1,3482,3482.00
+wi,1,1,3482,3482.00
+w,1,1,3482,3482.00
+venerable,1,1,3482,3482.00
+untela,1,1,3482,3482.00
+unreadable,1,1,3482,3482.00
+unprintable,1,1,3482,3482.00
+ulysses,1,1,3482,3482.00
+tan,1,1,3482,3482.00
+swears,1,1,3482,3482.00
+scittan,1,1,3482,3482.00
+required,1,1,3482,3482.00
+reproduce,1,1,3482,3482.00
+quotations,1,1,3482,3482.00
+proceedings,1,1,3482,3482.00
+printing,1,1,3482,3482.00
+printed,1,1,3482,3482.00
+oed,1,1,3482,3482.00
+obscenity,1,1,3482,3482.00
+ninthcentury,1,1,3482,3482.00
+mete,1,1,3482,3482.00
+melte,1,1,3482,3482.00
+leechbook,1,1,3482,3482.00
+joyce,1,1,3482,3482.00
+interjection,2,1,3482,3482.00
+hand,1,1,3482,3482.00
+gecirre,1,1,3482,3482.00
+entry,1,1,3482,3482.00
+e,1,1,3482,3482.00
+cow,1,1,3482,3482.00
+bald,1,1,3482,3482.00
+1929,1,1,3482,3482.00
+people,58,33,2003,60.70
+also,54,37,1912,51.68
+https,50,27,1884,69.78
+going,14,9,1776,197.33
+question,36,29,1711,59.00
+1,11,9,1696,188.44
+know,33,28,1683,60.11
+rather,22,19,1670,87.89
+say,21,15,1665,111.00
+using,9,9,1461,162.33
+http,29,24,1437,59.88
+ca,12,10,1414,141.40
+like,43,31,1320,42.58
+could,40,31,1256,40.52
+around,17,14,1243,88.79
+notice,3,3,1237,412.33
+get,24,21,1237,58.90
+many,33,24,1213,50.54
+response,4,4,1199,299.75
+getting,6,6,1148,191.33
+poor,4,4,1105,276.25
+maybe,8,7,1086,155.14
+see,20,14,1081,77.21
+little,17,14,1078,77.00
+thing,9,9,1070,118.89
+used,23,19,1058,55.68
+good,18,14,1055,75.36
+swear,3,3,1050,350.00
+things,23,16,1037,64.81
+way,42,26,1029,39.58
+difficult,7,5,1027,205.40
+deal,8,8,984,123.00
+times,9,9,978,108.67
+tell,6,6,971,161.83
+history,32,25,933,37.32
+well,25,19,928,48.84
+material,5,5,909,181.80
+believe,11,10,898,89.80
+read,16,14,896,64.00
+far,14,12,886,73.83
+ancient,16,11,882,80.18
+new,11,9,860,95.56
+went,12,8,858,107.25
+set,7,6,858,143.00
+made,21,16,857,53.56
+general,14,11,853,77.55
+want,15,12,852,71.00
+became,11,10,848,84.80
+think,17,14,846,60.43
+best,9,8,845,105.63
+god,4,4,842,210.50
+really,24,21,840,40.00
+since,13,11,836,76.00
+less,11,9,833,92.56
+damnit,2,2,829,414.50
+among,14,9,820,91.11
+wrong,6,6,813,135.50
+sub,4,3,790,263.33
+though,9,6,789,131.50
+ages,4,4,788,197.00
+rule,16,7,785,112.14
+women,11,7,781,111.57
+thread,9,8,781,97.63
+compare,3,3,778,259.33
+attempt,3,3,778,259.33
+published,2,2,774,387.00
+commenters,5,5,773,154.60
+personal,4,4,767,191.75
+seeing,3,3,766,255.33
+another,12,12,765,63.75
+tolerated,3,2,761,380.50
+different,27,16,760,47.50
+wiki_civility,2,2,757,378.50
+civility,2,2,757,378.50
+shitposting,1,1,756,756.00
+pointlessly,1,1,756,756.00
+officially,1,1,756,756.00
+needs,1,1,756,756.00
+na,1,1,756,756.00
+mom,1,1,756,756.00
+maturely,1,1,756,756.00
+literally,1,1,756,756.00
+insults,1,1,756,756.00
+insult,1,1,756,756.00
+instaban,1,1,756,756.00
+inbox,1,1,756,756.00
+humour,1,1,756,756.00
+gon,1,1,756,756.00
+excuse,1,1,756,756.00
+ban,1,1,756,756.00
+whole,12,8,752,94.00
+close,4,3,744,248.00
+due,6,6,742,123.67
+particularly,11,9,730,81.11
+middle,11,10,730,73.00
+often,11,10,729,72.90
+era,15,11,728,66.18
+period,27,17,711,41.82
+america,11,10,711,71.10
+part,16,12,695,57.92
+strong,6,5,692,138.40
+addition,4,4,690,172.50
+making,11,9,685,76.11
+context,6,5,680,136.00
+understanding,9,9,678,75.33
+particular,9,7,677,96.71
+population,9,6,673,112.17
+origins,7,4,673,168.25
+language,9,4,672,168.00
+come,8,8,672,84.00
+recent,7,5,671,134.20
+age,20,7,669,95.57
+third,4,4,668,167.00
+point,15,12,667,55.58
+beyond,3,3,664,221.33
+perhaps,7,7,663,94.71
+easy,3,2,660,330.00
+argues,2,2,660,330.00
+compared,5,5,654,130.80
+might,15,14,653,46.64
+came,10,7,653,93.29
+white,12,7,652,93.14
+results,3,3,651,217.00
+2,7,7,646,92.29
+long,11,9,644,71.56
+within,5,5,643,128.60
+note,5,3,642,214.00
+year,15,7,638,91.14
+sure,8,6,634,105.67
+americans,3,3,631,210.33
+day,14,10,630,63.00
+may,28,22,629,28.59
+released,3,3,625,208.33
+race,4,3,625,208.33
+happens,3,3,624,208.00
+tremendously,2,2,620,310.00
+9,3,2,620,310.00
+line,8,5,616,123.20
+answer,32,22,616,28.00
+based,9,8,614,76.75
+interesting,12,10,611,61.10
+trade,18,7,606,86.57
+evidence,11,9,606,67.33
+looking,6,6,588,98.00
+term,9,7,583,83.29
+understand,8,8,579,72.38
+seem,5,5,573,114.60
+got,9,9,567,63.00
+salt,22,6,566,94.33
+today,16,10,561,56.10
+specific,13,11,559,50.82
+terms,13,10,555,55.50
+allowed,7,6,555,92.50
+quite,12,12,554,46.17
+look,8,7,552,78.86
+find,17,17,550,32.35
+us,17,13,548,42.15
+second,11,9,548,60.89
+add,7,6,545,90.83
+take,10,10,541,54.10
+norway,9,4,540,135.00
+miners,5,3,539,179.67
+short,9,6,534,89.00
+began,6,5,534,106.80
+change,9,3,533,177.67
+similar,10,10,532,53.20
+party,3,3,532,177.33
+country,11,9,530,58.89
+gave,6,6,529,88.17
+live,3,3,528,176.00
+home,5,5,527,105.40
+effect,3,3,527,175.67
+barely,2,2,527,263.50
+asking,7,7,526,75.14
+important,9,7,525,75.00
+beat,3,3,523,174.33
+end,10,9,522,58.00
+company,12,5,517,103.40
+hard,7,6,516,86.00
+always,11,9,514,57.11
+according,3,3,514,171.33
+whether,7,6,513,85.50
+told,4,3,513,171.00
+make,11,11,513,46.64
+level,6,5,513,102.60
+start,7,6,512,85.33
+rich,5,4,511,127.75
+go,13,10,511,51.10
+random,3,2,510,255.00
+fish,3,2,506,253.00
+curing,2,2,506,253.00
+certainly,10,8,505,63.13
+left,4,4,503,125.75
+theory,9,6,500,83.33
+without,4,4,498,124.50
+model,12,4,498,124.50
+high,9,7,498,71.14
+blacks,4,2,496,248.00
+1940,2,2,496,248.00
+shows,8,5,494,98.80
+feel,5,5,494,98.80
+birth,2,2,494,247.00
+yes,4,4,493,123.25
+last,4,4,493,123.25
+clearly,4,4,493,123.25
+able,6,5,493,98.60
+pay,4,4,492,123.00
+show,6,6,491,81.83
+complex,3,3,490,163.33
+right,11,11,489,44.45
+group,5,4,489,122.25
+vote,9,2,488,244.00
+discussing,3,3,488,162.67
+data,7,3,488,162.67
+changes,3,3,488,162.67
+valleys,2,2,487,243.50
+trends,3,3,487,162.33
+roughly,3,3,487,162.33
+higher,4,3,487,162.33
+center,2,2,487,243.50
+18,2,2,487,243.50
+10,4,4,487,121.75
+0,2,2,487,243.50
+york,6,2,486,243.00
+presidency,2,2,486,243.00
+popular,4,3,486,162.00
+attention,2,2,486,243.00
+affects,2,2,486,243.00
+proxy,2,2,485,242.50
+movements,2,2,485,242.50
+increasingly,6,4,485,121.25
+50,2,2,485,242.50
+young,4,3,484,161.33
+trend,2,2,484,242.00
+nature,4,4,484,121.00
+moved,2,2,484,242.00
+harder,2,2,484,242.00
+confusing,2,2,484,242.00
+born,2,2,484,242.00
+al,2,2,484,242.00
+measure,2,2,483,241.50
+half,2,2,483,241.50
+effected,3,2,483,241.50
+presidential,4,2,482,241.00
+distinct,2,2,482,241.00
+continuing,2,2,482,241.00
+comparing,2,2,482,241.00
+candidates,2,2,482,241.00
+2000,3,2,482,241.00
+20,2,2,482,241.00
+youth,2,1,481,481.00
+younger,1,1,481,481.00
+win,1,1,481,481.00
+voting,6,1,481,481.00
+voters,4,1,481,481.00
+voter,1,1,481,481.00
+voted,2,1,481,481.00
+urban,4,4,481,120.25
+truman,1,1,481,481.00
+triumphant,1,1,481,481.00
+threeman,1,1,481,481.00
+thatdukkakis,1,1,481,481.00
+tendency,1,1,481,481.00
+telephone,1,1,481,481.00
+surveys,1,1,481,481.00
+support,1,1,481,481.00
+success,1,1,481,481.00
+subgroups,2,1,481,481.00
+subgroup,1,1,481,481.00
+strongly,1,1,481,481.00
+statistical,2,1,481,481.00
+splits,1,1,481,481.00
+southerners,1,1,481,481.00
+slightly,4,1,481,481.00
+simulated,1,1,481,481.00
+ross,1,1,481,481.00
+roper,1,1,481,481.00
+republicans,1,1,481,481.00
+republican,6,2,481,240.50
+reagan,2,1,481,481.00
+ratings,1,1,481,481.00
+proved,1,1,481,481.00
+preferences,3,1,481,481.00
+polling,3,1,481,481.00
+poll,1,1,481,481.00
+perot,1,1,481,481.00
+permanently,1,1,481,481.00
+peaks,1,1,481,481.00
+partisanship,1,1,481,481.00
+olds,3,1,481,481.00
+numbers,1,1,481,481.00
+models,1,1,481,481.00
+malleable,1,1,481,481.00
+interpret,1,1,481,481.00
+interactive,1,1,481,481.00
+inference,1,1,481,481.00
+ideologybut,1,1,481,481.00
+ideological,1,1,481,481.00
+hispanics,5,1,481,481.00
+hispanic,1,1,481,481.00
+happen,1,1,481,481.00
+gotten,1,1,481,481.00
+gore,1,1,481,481.00
+glancejust,1,1,481,481.00
+gallup,1,1,481,481.00
+fully,1,1,481,481.00
+ford,1,1,481,481.00
+foldif,1,1,481,481.00
+fluctuations,1,1,481,481.00
+fewer,1,1,481,481.00
+expressed,1,1,481,481.00
+explains,1,1,481,481.00
+elections,1,1,481,481.00
+election,7,1,481,481.00
+eisenhower,1,1,481,481.00
+dissipated,1,1,481,481.00
+dip,1,1,481,481.00
+digit,1,1,481,481.00
+dialing,1,1,481,481.00
+dial,1,1,481,481.00
+dewey,1,1,481,481.00
+demographic,1,1,481,481.00
+democrat,1,1,481,481.00
+defeats,1,1,481,481.00
+decent,1,1,481,481.00
+consistently,1,1,481,481.00
+confusingly,1,1,481,481.00
+collected,1,1,481,481.00
+collect,1,1,481,481.00
+cohorts,4,1,481,481.00
+cohort,3,1,481,481.00
+clinton,2,1,481,481.00
+chilled,1,1,481,481.00
+chart,1,1,481,481.00
+carter,2,1,481,481.00
+candidate,1,1,481,481.00
+bush,2,1,481,481.00
+asians,1,1,481,481.00
+approval,1,1,481,481.00
+americanborn,1,1,481,481.00
+activists,1,1,481,481.00
+_r,1,1,481,481.00
+73,1,1,481,481.00
+7,1,1,481,481.00
+65,1,1,481,481.00
+55,1,1,481,481.00
+52,1,1,481,481.00
+5064,1,1,481,481.00
+48,2,1,481,481.00
+4559,1,1,481,481.00
+42,1,1,481,481.00
+40,2,1,481,481.00
+3049,1,1,481,481.00
+2529,1,1,481,481.00
+1996,1,1,481,481.00
+1992,1,1,481,481.00
+1976,2,1,481,481.00
+1974,1,1,481,481.00
+1970,2,1,481,481.00
+1960,1,1,481,481.00
+1950,1,1,481,481.00
+1948,1,1,481,481.00
+1824,1,1,481,481.00
+1424,1,1,481,481.00
+historically,4,4,479,119.75
+try,8,8,476,59.50
+poem,6,2,474,237.00
+others,6,6,471,78.50
+ever,9,9,467,51.89
+talking,6,4,466,116.50
+usually,8,8,457,57.13
+months,4,3,454,151.33
+matter,8,6,454,75.67
+19th,10,6,446,74.33
+spanish,6,4,441,110.25
+merely,3,3,437,145.67
+form,10,6,436,72.67
+definitely,3,3,435,145.00
+reference,3,3,433,144.33
+sentences,4,2,432,216.00
+forms,3,2,432,216.00
+gt,28,10,427,42.70
+obviously,5,5,426,85.20
+found,9,9,412,45.78
+power,25,12,407,33.92
+latin,6,5,407,81.40
+works,2,2,403,201.50
+however,13,10,403,40.30
+greeks,3,3,401,133.67
+greek,5,4,401,100.25
+french,13,9,400,44.44
+american,17,12,400,33.33
+depict,3,2,398,199.00
+beauty,2,2,398,199.00
+imagine,8,7,397,56.71
+q,3,3,396,132.00
+reddit,4,4,394,98.50
+writing,5,5,393,78.60
+answering,3,3,392,130.67
+vulgar,5,2,391,195.50
+mine,3,3,391,130.33
+f,2,2,391,195.50
+italian,12,4,389,97.25
+epic,2,2,387,193.50
+current,7,6,387,64.50
+woman,3,3,386,128.67
+wearing,6,4,385,96.25
+limited,3,3,385,128.33
+b,5,3,385,128.33
+13th,3,2,385,192.50
+keeping,2,2,384,192.00
+poland,8,4,382,95.50
+successful,2,2,381,190.50
+record,5,2,381,190.50
+possibly,2,2,381,190.50
+standards,2,2,380,190.00
+exposed,2,2,380,190.00
+despite,2,2,380,190.00
+bc,3,2,380,190.00
+types,2,2,378,189.00
+revolve,2,2,378,189.00
+depicted,3,2,378,189.00
+news,2,2,377,188.50
+life,8,8,377,47.13
+writings,1,1,376,376.00
+tied,1,1,376,376.00
+script,3,1,376,376.00
+scribes,1,1,376,376.00
+reporting,1,1,376,376.00
+peplos,1,1,376,376.00
+painted,1,1,376,376.00
+mycenaeans,2,1,376,376.00
+mycenaean,2,1,376,376.00
+mycenae,1,1,376,376.00
+makeup,1,1,376,376.00
+literary,1,1,376,376.00
+linear,3,1,376,376.00
+large,13,10,376,37.60
+iliad,1,1,376,376.00
+frescoes,1,1,376,376.00
+face,1,1,376,376.00
+experiencetraining,1,1,376,376.00
+encoding,1,1,376,376.00
+employment,1,1,376,376.00
+dresses,1,1,376,376.00
+colorful,1,1,376,376.00
+chiton,1,1,376,376.00
+c3,2,1,376,376.00
+breasts,1,1,376,376.00
+bet,1,1,376,376.00
+beautiful,1,1,376,376.00
+artifacts,1,1,376,376.00
+art,3,2,376,188.00
+acropolis,1,1,376,376.00
+a8nes,2,1,376,376.00
+2c_frescojpg,1,1,376,376.00
+war,34,15,371,24.73
+traditional,3,3,366,122.00
+amount,5,5,365,73.00
+process,16,6,364,60.67
+early,11,9,364,40.44
+book,11,10,361,36.10
+wealthy,5,4,360,90.00
+northern,4,4,360,90.00
+visiting,2,2,358,179.00
+worth,4,4,355,88.75
+talk,6,4,353,88.25
+england,14,10,353,35.30
+happened,9,8,352,44.00
+outside,7,6,351,58.50
+simply,7,6,346,57.67
+valiuable,1,1,343,343.00
+mean,8,8,343,42.88
+kilos,2,1,343,343.00
+handfull,2,1,343,343.00
+fishers,1,1,343,343.00
+brine,1,1,343,343.00
+accessible,2,2,342,171.00
+boston,2,2,339,169.50
+small,7,7,335,47.86
+treated,6,6,334,55.67
+gives,6,5,334,66.80
+guess,4,4,333,83.25
+roman,12,9,332,36.89
+along,9,7,332,47.43
+leading,4,4,331,82.75
+eventually,6,5,328,65.60
+somewhat,3,3,327,109.00
+actually,17,15,327,21.80
+bit,4,4,325,81.25
+bigger,3,3,325,108.33
+thus,8,7,323,46.14
+gained,4,4,323,80.75
+still,10,9,322,35.78
+fairly,7,7,321,45.86
+etc,11,9,320,35.56
+put,6,5,319,63.80
+stand,2,2,318,159.00
+collection,2,2,318,159.00
+wants,2,2,317,158.50
+top,3,3,317,105.67
+shakespeare,2,2,315,157.50
+human,3,2,315,157.50
+although,7,7,315,45.00
+past,9,7,314,44.86
+kind,8,8,314,39.25
+better,7,6,313,52.17
+situation,3,3,312,104.00
+referring,3,3,311,103.67
+man,4,3,311,103.67
+mother,3,3,310,103.33
+class,5,4,310,77.50
+image,3,3,309,103.00
+clear,5,5,309,61.80
+check,6,6,309,51.50
+lower,3,3,308,102.67
+truly,3,3,307,102.33
+saying,4,4,307,76.75
+author,2,2,306,153.00
+almost,10,10,306,30.60
+de,4,4,305,76.25
+mystery,2,2,304,152.00
+linked,3,3,304,101.33
+four,3,3,304,101.33
+anachronistic,4,2,304,152.00
+focus,2,2,302,151.00
+circumstances,2,2,302,151.00
+appears,4,4,302,75.50
+eg,5,4,301,75.25
+years,11,9,300,33.33
+protestant,2,2,300,150.00
+portuguese,4,2,300,150.00
+invaded,2,2,300,150.00
+front,3,3,300,100.00
+civil,3,3,300,100.00
+church,5,4,300,75.00
+nowadays,3,3,299,99.67
+wealth,4,3,298,99.33
+rough,2,2,298,149.00
+noble,2,2,298,149.00
+europe,22,16,298,18.63
+saxons,2,2,297,148.50
+questions,16,12,297,24.75
+goes,2,2,297,148.50
+sex,4,3,296,98.67
+internet,2,2,296,148.00
+guards,12,3,296,98.67
+san,2,2,295,147.50
+piece,2,2,295,147.50
+languages,4,2,295,147.50
+favorite,2,2,295,147.50
+entered,2,2,295,147.50
+actual,2,2,295,147.50
+remove,2,2,294,147.00
+writers,1,1,293,293.00
+whores,1,1,293,293.00
+watchword,1,1,293,293.00
+utterances,1,1,293,293.00
+twelfth,1,1,293,293.00
+tremendous,1,1,293,293.00
+traite,1,1,293,293.00
+ten,1,1,293,293.00
+swore,8,1,293,293.00
+swearwords,1,1,293,293.00
+sons,1,1,293,293.00
+select,1,1,293,293.00
+scheisse,1,1,293,293.00
+sailors,1,1,293,293.00
+rumanian,1,1,293,293.00
+round,1,1,293,293.00
+rooster,1,1,293,293.00
+romance,1,1,293,293.00
+reviewers,2,1,293,293.00
+respectively,1,1,293,293.00
+remote,1,1,293,293.00
+regularity,1,1,293,293.00
+reformation,1,1,293,293.00
+refined,1,1,293,293.00
+rahat,1,1,293,293.00
+pute,1,1,293,293.00
+pull,1,1,293,293.00
+proseunfortunately,1,1,293,293.00
+powered,1,1,293,293.00
+plus,1,1,293,293.00
+pitchers,1,1,293,293.00
+penned,1,1,293,293.00
+obscenely,1,1,293,293.00
+obscene,4,1,293,293.00
+objects,1,1,293,293.00
+novels,1,1,293,293.00
+novel,5,1,293,293.00
+nonobscene,1,1,293,293.00
+naughty,1,1,293,293.00
+mixed,1,1,293,293.00
+mierda,1,1,293,293.00
+methodically,1,1,293,293.00
+merde,1,1,293,293.00
+merda,3,1,293,293.00
+meaningsif,1,1,293,293.00
+meanings,3,1,293,293.00
+likewise,1,1,293,293.00
+lexicon,1,1,293,293.00
+le,1,1,293,293.00
+k,1,1,293,293.00
+jugs,1,1,293,293.00
+habitually,1,1,293,293.00
+genitals,1,1,293,293.00
+gasp,1,1,293,293.00
+gage,1,1,293,293.00
+fresco,2,1,293,293.00
+foul,1,1,293,293.00
+forums,1,1,293,293.00
+formalized,1,1,293,293.00
+fili,1,1,293,293.00
+fiction,1,1,293,293.00
+ficken,1,1,293,293.00
+favorites,1,1,293,293.00
+essay,2,1,293,293.00
+cussing,1,1,293,293.00
+cursed,1,1,293,293.00
+cur,1,1,293,293.00
+culum,1,1,293,293.00
+culo,2,1,293,293.00
+cul,1,1,293,293.00
+cu,1,1,293,293.00
+crap,1,1,293,293.00
+conventional,1,1,293,293.00
+contexts,1,1,293,293.00
+complaints,2,1,293,293.00
+complained,1,1,293,293.00
+cock,1,1,293,293.00
+clemente,1,1,293,293.00
+censorship,2,1,293,293.00
+censored,1,1,293,293.00
+catabolism,1,1,293,293.00
+bowdlerization,1,1,293,293.00
+bits,1,1,293,293.00
+bitch,1,1,293,293.00
+beings,1,1,293,293.00
+behind,1,1,293,293.00
+basilica,1,1,293,293.00
+banned,1,1,293,293.00
+balls,1,1,293,293.00
+ass,1,1,293,293.00
+anglosaxonsjust,1,1,293,293.00
+angles,1,1,293,293.00
+anarchist,1,1,293,293.00
+anachronisms,1,1,293,293.00
+allegedly,1,1,293,293.00
+adventure,1,1,293,293.00
+city,5,4,289,72.25
+sort,11,11,288,26.18
+seems,25,19,284,14.95
+world,17,13,279,21.46
+mentioned,2,2,277,138.50
+id,6,2,277,138.50
+hl,3,2,277,138.50
+enamp,3,2,277,138.50
+booksgooglecombooks,6,2,277,138.50
+southern,7,7,276,39.43
+culture,7,7,275,39.29
+work,11,6,274,45.67
+great,22,14,272,19.43
+establish,4,3,270,90.00
+picked,2,2,269,134.50
+earlier,5,5,253,50.60
+societies,9,5,251,50.20
+two,19,14,245,17.50
+east,14,9,243,27.00
+anything,12,10,243,24.30
+source,7,7,239,34.14
+target,2,2,237,118.50
+letter,3,2,237,118.50
+states,20,11,233,21.18
+place,11,9,230,25.56
+congress,6,4,230,57.50
+never,11,10,229,22.90
+market,3,3,226,75.33
+india,13,4,225,56.25
+dissolved,2,2,225,112.50
+absorbed,2,2,225,112.50
+TRUE,15,9,224,24.89
+either,7,6,224,37.33
+executive,3,3,223,74.33
+native,6,5,221,44.20
+related,7,7,218,31.14
+silver,3,3,217,72.33
+locals,2,2,217,108.50
+quick,4,4,216,54.00
+given,3,3,213,71.00
+tea,5,2,212,106.00
+site,5,3,212,70.67
+movie,2,2,212,106.00
+cahokia,19,4,212,53.00
+upon,3,3,210,70.00
+medieval,16,12,209,17.42
+else,9,8,208,26.00
+removed,14,14,207,14.79
+west,14,11,205,18.64
+opposite,4,4,205,51.25
+account,4,2,205,102.50
+military,18,8,203,25.38
+various,7,5,202,40.40
+political,8,7,202,28.86
+cities,2,2,202,101.00
+personally,4,4,201,50.25
+community,4,4,199,49.75
+tried,5,5,198,39.60
+reasons,5,4,198,49.50
+recommend,4,4,197,49.25
+historical,14,8,197,24.63
+mines,3,2,196,98.00
+interaction,2,2,196,98.00
+areas,6,5,195,39.00
+move,3,3,194,64.67
+towards,8,6,193,32.17
+indeed,3,3,192,64.00
+central,6,6,192,32.00
+area,5,5,192,38.40
+across,4,4,190,47.50
+special,6,5,189,37.80
+rise,5,3,189,63.00
+peoples,4,3,189,63.00
+historian,4,4,188,47.00
+article,5,5,188,37.60
+believed,2,2,187,93.50
+initially,3,3,186,62.00
+heard,6,6,186,31.00
+becomes,3,3,186,62.00
+act,4,3,186,62.00
+distant,2,2,185,92.50
+closely,5,3,185,61.67
+thomas,2,2,184,92.00
+space,2,2,184,92.00
+lived,3,2,184,92.00
+immigrants,3,2,184,92.00
+dominant,3,2,184,92.00
+ancestors,3,2,183,91.50
+core,2,2,182,91.00
+archaeology,2,2,182,91.00
+archaeologists,3,2,182,91.00
+nations,4,3,181,60.33
+interested,14,14,181,12.93
+edition,2,2,181,90.50
+diverse,4,2,181,90.50
+western,11,6,180,30.00
+suggests,2,2,180,90.00
+possibility,2,2,180,90.00
+five,2,2,180,90.00
+conditions,6,5,180,36.00
+ybta4mgrzdcc,1,1,179,179.00
+wanes,1,1,179,179.00
+wabash,1,1,179,179.00
+towns,1,1,179,179.00
+timothy,1,1,179,179.00
+technical,1,1,179,179.00
+studying,1,1,179,179.00
+skeptical,1,1,179,179.00
+sites,2,1,179,179.00
+siphoned,1,1,179,179.00
+shop,1,1,179,179.00
+r0ez6e9jhv8c,1,1,179,179.00
+quapaw,1,1,179,179.00
+prominent,1,1,179,179.00
+principles,1,1,179,179.00
+ponca,1,1,179,179.00
+pauketat,1,1,179,179.00
+outlying,1,1,179,179.00
+osage,1,1,179,179.00
+omaha,1,1,179,179.00
+named,1,1,179,179.00
+multilingual,1,1,179,179.00
+multiethnic,1,1,179,179.00
+mouth,1,1,179,179.00
+mississippians,1,1,179,179.00
+mississippian,3,1,179,179.00
+mississippi,1,1,179,179.00
+midcontinent,1,1,179,179.00
+mergers,1,1,179,179.00
+maintain,1,1,179,179.00
+lr,2,1,179,179.00
+kansa,1,1,179,179.00
+indiana,1,1,179,179.00
+inability,1,1,179,179.00
+illinois,1,1,179,179.00
+hte,1,1,179,179.00
+historic,2,1,179,179.00
+handbook,1,1,179,179.00
+gzm4awaaqbaj,1,1,179,179.00
+generations,1,1,179,179.00
+gcehcwaaqbaj,1,1,179,179.00
+forming,1,1,179,179.00
+force,1,1,179,179.00
+explain,1,1,179,179.00
+expanding,1,1,179,179.00
+ethnogenesis,1,1,179,179.00
+emerson,4,1,179,179.00
+divergences,1,1,179,179.00
+dissolution,1,1,179,179.00
+dhegiha,3,1,179,179.00
+creation,1,1,179,179.00
+crash,1,1,179,179.00
+connection,1,1,179,179.00
+confederacy,2,1,179,179.00
+communities,1,1,179,179.00
+collapse,1,1,179,179.00
+checking,1,1,179,179.00
+chapter,1,1,179,179.00
+bullet,1,1,179,179.00
+bottoms,1,1,179,179.00
+audience,1,1,179,179.00
+assimilated,1,1,179,179.00
+angel,3,1,179,179.00
+ancestral,1,1,179,179.00
+algonquianspeaking,1,1,179,179.00
+access,4,4,179,44.75
+abruptly,1,1,179,179.00
+9y_fohyllmec,1,1,179,179.00
+1450,1,1,179,179.00
+possible,10,8,178,22.25
+mention,5,4,178,44.50
+help,9,8,177,22.13
+transport,4,3,176,58.67
+duties,2,2,176,88.00
+let,6,6,175,29.17
+known,10,6,175,29.17
+thinking,4,4,174,43.50
+hopefully,5,5,174,34.80
+trading,4,3,173,57.67
+order,9,6,173,28.83
+destroyed,2,2,173,86.50
+viking,19,3,172,57.33
+instance,4,4,172,43.00
+gone,2,2,172,86.00
+coast,2,2,172,86.00
+food,2,2,170,85.00
+deliberately,3,2,170,85.00
+board,3,2,170,85.00
+huge,2,2,169,84.50
+practices,2,2,168,84.00
+items,2,2,168,84.00
+effort,2,2,168,84.00
+scarce,2,2,167,83.50
+officers,7,3,167,55.67
+mainly,2,2,167,83.50
+valueable,2,1,166,166.00
+surely,1,1,166,166.00
+spices,1,1,166,166.00
+serve,3,2,166,83.00
+riches,1,1,166,166.00
+inflation,1,1,166,166.00
+economic,3,3,166,55.33
+comment,5,5,166,33.20
+assests,1,1,166,166.00
+adjusted,1,1,166,166.00
+troops,5,4,165,41.25
+5,4,3,165,55.00
+informed,3,3,164,54.67
+ceremonial,3,3,164,54.67
+treating,1,1,163,163.00
+treat,1,1,163,163.00
+stockfish,4,1,163,163.00
+rrfisk,1,1,163,163.00
+polish,1,1,163,163.00
+perfect,1,1,163,163.00
+operated,1,1,163,163.00
+norwegians,1,1,163,163.00
+norwegian,2,1,163,163.00
+lye,1,1,163,163.00
+lutefisk,1,1,163,163.00
+lucrative,1,1,163,163.00
+hansa,1,1,163,163.00
+fishmongers,1,1,163,163.00
+fisherman,1,1,163,163.00
+dried,1,1,163,163.00
+coolair,1,1,163,163.00
+birch,1,1,163,163.00
+bergen,1,1,163,163.00
+ash,1,1,163,163.00
+previous,4,4,162,40.50
+portion,2,2,162,81.00
+entire,5,5,161,32.20
+law,8,4,160,40.00
+exclusion,5,4,158,39.50
+useful,4,4,157,39.25
+regiments,5,2,157,78.50
+practice,4,3,157,52.33
+perform,3,3,157,52.33
+every,7,7,157,22.43
+demand,2,2,157,78.50
+wanted,8,5,155,31.00
+primary,4,4,155,38.75
+number,3,3,155,51.67
+involved,5,4,154,38.50
+guard,3,3,154,51.33
+resistance,9,5,153,30.60
+internal,3,3,153,51.00
+cases,5,4,153,38.25
+provided,3,3,152,50.67
+light,4,4,152,38.00
+business,2,2,152,76.00
+japanese,6,5,150,30.00
+trial,4,2,149,74.50
+treatment,3,3,149,49.67
+takes,4,4,149,37.25
+andor,4,4,149,37.25
+seek,2,2,148,74.00
+public,4,2,148,74.00
+persons,3,2,148,74.00
+occasions,3,3,148,49.33
+judge,3,2,148,74.00
+gets,3,3,148,49.33
+fight,3,3,148,49.33
+draws,2,2,148,74.00
+depending,3,3,148,49.33
+become,4,4,148,37.00
+arrived,3,3,148,49.33
+staff,4,3,147,49.00
+mostly,4,4,147,36.75
+done,5,4,147,36.75
+differences,5,4,147,36.75
+command,3,3,147,49.00
+authority,4,3,147,49.00
+whose,3,3,146,48.67
+town,2,2,146,73.00
+road,2,2,146,73.00
+march,4,3,146,48.67
+justice,4,2,146,73.00
+iron,3,2,146,73.00
+saved,3,3,145,48.33
+excluded,8,3,145,48.33
+absolutely,3,3,145,48.33
+zones,3,2,144,72.00
+zone,2,2,144,72.00
+trying,5,3,144,48.00
+signs,3,2,144,72.00
+restrictions,2,2,144,72.00
+removing,2,2,144,72.00
+remarkably,2,2,144,72.00
+refused,2,2,144,72.00
+pm,2,2,144,72.00
+ordinary,2,2,144,72.00
+moral,3,3,144,48.00
+giving,2,2,144,72.00
+fascinating,2,2,144,72.00
+excellent,2,2,144,72.00
+ends,7,2,144,72.00
+en,2,2,144,72.00
+trip,2,2,143,71.50
+remained,2,2,143,71.50
+head,3,2,143,71.50
+direct,11,11,143,13.00
+date,3,3,143,47.67
+100,2,2,143,71.50
+served,3,2,142,71.00
+section,2,2,142,71.00
+peter,4,3,142,47.33
+name,14,9,142,15.78
+japaneseamericans,5,2,142,71.00
+internment,6,2,142,71.00
+gordon,16,2,142,71.00
+claimed,2,2,142,71.00
+camps,4,2,142,71.00
+admit,2,2,142,71.00
+acts,2,2,142,71.00
+wound,3,2,141,70.50
+removal,2,2,141,70.50
+purely,3,3,141,47.00
+police,5,2,141,70.50
+hated,2,2,141,70.50
+explained,2,2,141,70.50
+department,5,2,141,70.50
+court,5,3,141,47.00
+conflicts,2,2,141,70.50
+8,3,2,141,70.50
+passed,3,2,140,70.00
+orders,4,2,140,70.00
+officer,3,2,140,70.00
+nother,2,2,140,70.00
+money,3,3,140,46.67
+leisurely,2,2,140,70.00
+island,2,2,140,70.00
+colonies,8,4,140,35.00
+badly,2,2,140,70.00
+1942,4,2,140,70.00
+yearlong,1,1,139,139.00
+yasuigordon,1,1,139,139.00
+yasui,7,1,139,139.00
+worthwhile,1,1,139,139.00
+wonderfully,1,1,139,139.00
+winds,2,1,139,139.00
+willingness,1,1,139,139.00
+walking,1,1,139,139.00
+visit,1,1,139,139.00
+violation,2,1,139,139.00
+violating,1,1,139,139.00
+utah,1,1,139,139.00
+upheld,1,1,139,139.00
+uninvolved,1,1,139,139.00
+turns,1,1,139,139.00
+tucson,4,1,139,139.00
+totally,1,1,139,139.00
+topaz,1,1,139,139.00
+test,3,1,139,139.00
+techniques,1,1,139,139.00
+surgery,1,1,139,139.00
+supreme,2,1,139,139.00
+strike,1,1,139,139.00
+street,1,1,139,139.00
+strategies,1,1,139,139.00
+stopping,1,1,139,139.00
+staying,1,1,139,139.00
+station,1,1,139,139.00
+spends,1,1,139,139.00
+spend,3,1,139,139.00
+specifics,1,1,139,139.00
+somehow,1,1,139,139.00
+somebody,1,1,139,139.00
+slow,1,1,139,139.00
+sitting,1,1,139,139.00
+signing,1,1,139,139.00
+shipped,2,1,139,139.00
+serving,1,1,139,139.00
+separate,2,1,139,139.00
+sentencing,1,1,139,139.00
+sentenced,1,1,139,139.00
+sentence,7,1,139,139.00
+seattle,2,1,139,139.00
+scotus,1,1,139,139.00
+sarah,1,1,139,139.00
+ryo,1,1,139,139.00
+route,1,1,139,139.00
+resistors,2,1,139,139.00
+resisted,1,1,139,139.00
+requiring,1,1,139,139.00
+relocation,1,1,139,139.00
+refuses,3,1,139,139.00
+reducing,1,1,139,139.00
+reduced,1,1,139,139.00
+recognized,1,1,139,139.00
+ready,1,1,139,139.00
+readable,1,1,139,139.00
+rationale,2,1,139,139.00
+radical,2,2,139,69.50
+racial,1,1,139,139.00
+questionone,1,1,139,139.00
+quaker,2,1,139,139.00
+puzzled,1,1,139,139.00
+punitive,1,1,139,139.00
+punishable,1,1,139,139.00
+prompting,1,1,139,139.00
+program,1,1,139,139.00
+proclamations,3,1,139,139.00
+proceeds,1,1,139,139.00
+probation,1,1,139,139.00
+prison,8,1,139,139.00
+principled,1,1,139,139.00
+prescribe,1,1,139,139.00
+poston,1,1,139,139.00
+posthumous,1,1,139,139.00
+portland,1,1,139,139.00
+plastic,1,1,139,139.00
+piecemeal,2,1,139,139.00
+philosophical,1,1,139,139.00
+persuaded,1,1,139,139.00
+persuade,1,1,139,139.00
+penitentiary,1,1,139,139.00
+passiveaggressive,1,1,139,139.00
+pass,1,1,139,139.00
+paragraph,1,1,139,139.00
+paperwork,2,1,139,139.00
+pacifist,1,1,139,139.00
+oversaw,1,1,139,139.00
+outraged,1,1,139,139.00
+original,2,1,139,139.00
+oregon,1,1,139,139.00
+ofhe,1,1,139,139.00
+offers,1,1,139,139.00
+occasion,2,2,139,69.50
+oakland,1,1,139,139.00
+nose,1,1,139,139.00
+noncompliance,1,1,139,139.00
+nephew,1,1,139,139.00
+neccessity,1,1,139,139.00
+mitsuye,1,1,139,139.00
+minoru,3,1,139,139.00
+minidoka,1,1,139,139.00
+measureshirabayashi,1,1,139,139.00
+mcneill,1,1,139,139.00
+maximums,1,1,139,139.00
+maximum,1,1,139,139.00
+manifesto,1,1,139,139.00
+management,1,1,139,139.00
+losing,1,1,139,139.00
+loses,1,1,139,139.00
+levels,1,1,139,139.00
+leave,1,1,139,139.00
+languished,1,1,139,139.00
+lane,1,1,139,139.00
+korematsu,4,1,139,139.00
+jury,1,1,139,139.00
+judiciary,1,1,139,139.00
+japaneseamerican,1,1,139,139.00
+jail,3,1,139,139.00
+itching,1,1,139,139.00
+issuing,1,1,139,139.00
+intensely,1,1,139,139.00
+intended,1,1,139,139.00
+insisted,1,1,139,139.00
+indicted,1,1,139,139.00
+imprisoning,1,1,139,139.00
+idaho,2,1,139,139.00
+honor,1,1,139,139.00
+hitchiking,1,1,139,139.00
+hitchhike,1,1,139,139.00
+hirabayashi,6,1,139,139.00
+heritage,1,1,139,139.00
+hawaiian,1,1,139,139.00
+happy,2,1,139,139.00
+grants,1,1,139,139.00
+grand,1,1,139,139.00
+geared,1,1,139,139.00
+frustrated,2,1,139,139.00
+friends,1,1,139,139.00
+fred,2,1,139,139.00
+folks,1,1,139,139.00
+fining,1,1,139,139.00
+fines,2,1,139,139.00
+finagling,1,1,139,139.00
+fiancee,1,1,139,139.00
+fee,2,1,139,139.00
+federal,7,1,139,139.00
+february,1,1,139,139.00
+fdr,2,1,139,139.00
+fbi,2,1,139,139.00
+eyes,1,1,139,139.00
+explaining,2,1,139,139.00
+exclude,1,1,139,139.00
+escalated,1,1,139,139.00
+eo,3,1,139,139.00
+enroll,1,1,139,139.00
+enlist,1,1,139,139.00
+enforcing,1,1,139,139.00
+enforcement,1,1,139,139.00
+endo,1,1,139,139.00
+enamored,1,1,139,139.00
+elaborate,1,1,139,139.00
+duty,1,1,139,139.00
+drafts,1,1,139,139.00
+drafted,1,1,139,139.00
+draft,2,1,139,139.00
+documents,1,1,139,139.00
+disobeyed,1,1,139,139.00
+dismantling,1,1,139,139.00
+dinner,1,1,139,139.00
+dewitt,1,1,139,139.00
+desired,1,1,139,139.00
+descent,2,1,139,139.00
+denied,1,1,139,139.00
+defense,1,1,139,139.00
+deeply,2,1,139,139.00
+declare,2,1,139,139.00
+decision,2,2,139,69.50
+da,2,1,139,139.00
+curfews,2,1,139,139.00
+curfew,3,1,139,139.00
+crime,1,1,139,139.00
+coupled,1,1,139,139.00
+conviction,1,1,139,139.00
+convicted,2,1,139,139.00
+constitutionality,1,1,139,139.00
+consider,5,4,139,34.75
+concurrent,1,1,139,139.00
+comprehensive,1,1,139,139.00
+comply,3,1,139,139.00
+completed,1,1,139,139.00
+compiling,1,1,139,139.00
+compiled,1,1,139,139.00
+comparatively,1,1,139,139.00
+clyde,1,1,139,139.00
+catalina,1,1,139,139.00
+camp,14,1,139,139.00
+broke,2,1,139,139.00
+bounces,1,1,139,139.00
+biography,1,1,139,139.00
+behavior,1,1,139,139.00
+begin,1,1,139,139.00
+bail,1,1,139,139.00
+authorities,2,1,139,139.00
+assumed,1,1,139,139.00
+arrested,1,1,139,139.00
+arrest,1,1,139,139.00
+arizona,1,1,139,139.00
+approached,1,1,139,139.00
+appeals,4,1,139,139.00
+anybody,1,1,139,139.00
+anthropologist,1,1,139,139.00
+announcing,1,1,139,139.00
+amusingly,1,1,139,139.00
+amusing,1,1,139,139.00
+alias,1,1,139,139.00
+admitted,2,1,139,139.00
+9066,3,1,139,139.00
+90,2,1,139,139.00
+503,3,1,139,139.00
+5000,2,1,139,139.00
+4page,1,1,139,139.00
+30th,1,1,139,139.00
+28th,1,1,139,139.00
+north,12,5,138,27.60
+especially,11,8,138,17.25
+replace,2,2,136,68.00
+normal,3,3,136,45.33
+rest,5,5,135,27.00
+prior,5,4,134,33.50
+united,6,5,130,26.00
+thereabouts,1,1,130,130.00
+recruits,1,1,130,130.00
+integrated,1,1,130,130.00
+coldstream,1,1,130,130.00
+beginning,3,3,129,43.00
+wars,5,5,128,25.60
+lot,19,11,127,11.55
+africa,12,5,127,25.40
+potus,2,2,125,62.50
+constitution,2,2,125,62.50
+portugal,5,3,124,41.33
+following,6,6,122,20.33
+independence,2,2,121,60.50
+declaration,1,1,120,120.00
+yet,4,4,117,29.25
+post,10,9,113,12.56
+c,4,3,108,36.00
+near,3,3,107,35.67
+fair,4,4,107,26.75
+countries,10,6,107,17.83
+immediately,4,4,106,26.50
+simple,3,3,105,35.00
+translated,2,2,104,52.00
+fear,2,2,103,51.50
+v,3,3,102,34.00
+natives,2,2,102,51.00
+reading,15,14,101,7.21
+leader,2,2,101,50.50
+state,8,6,100,16.67
+real,6,6,100,16.67
+nearby,2,2,99,49.50
+xxkxzt,2,1,98,98.00
+xamp,1,1,98,98.00
+wonderful,1,1,98,98.00
+wives,1,1,98,98.00
+vvivys,1,1,98,98.00
+ved,1,1,98,98.00
+transparent,1,1,98,98.00
+translates,1,1,98,98.00
+technique,1,1,98,98.00
+tbvmaaaacaajamp,1,1,98,98.00
+svnt,2,1,98,98.00
+substitution,1,1,98,98.00
+sterisman,2,1,98,98.00
+steersman,1,1,98,98.00
+sa,1,1,98,98.00
+regular,1,1,98,98.00
+reads,1,1,98,98.00
+quia,3,1,98,98.00
+presented,1,1,98,98.00
+pg,3,1,98,98.00
+pa91amp,1,1,98,98.00
+onepageamp,1,1,98,98.00
+omnes,1,1,98,98.00
+non,3,1,98,98.00
+li,2,1,98,98.00
+latinization,1,1,98,98.00
+ifmk,2,1,98,98.00
+heli,1,1,98,98.00
+heaven,1,1,98,98.00
+halflatin,1,1,98,98.00
+halfenglish,1,1,98,98.00
+habuerunt,1,1,98,98.00
+gxddbovamp,1,1,98,98.00
+gxddbov,2,1,98,98.00
+fvccare,1,1,98,98.00
+fvccant,1,1,98,98.00
+friars,3,1,98,98.00
+flyys,1,1,98,98.00
+flen,1,1,98,98.00
+fifteenthcentury,1,1,98,98.00
+FALSE,1,1,98,98.00
+ely,1,1,98,98.00
+drowned,1,1,98,98.00
+drencherunt,1,1,98,98.00
+drenched,1,1,98,98.00
+dq,1,1,98,98.00
+crucial,1,1,98,98.00
+cipher,2,1,98,98.00
+carmelite,1,1,98,98.00
+cambridge,1,1,98,98.00
+alphabet,1,1,98,98.00
+accusation,1,1,98,98.00
+position,6,5,97,19.40
+twitter,6,2,95,47.50
+tweet,2,2,95,47.50
+reason,4,4,95,23.75
+bot,3,2,95,47.50
+body,13,8,95,11.88
+italy,10,3,92,30.67
+british,9,6,92,15.33
+unification,4,2,91,45.50
+proximity,2,2,91,45.50
+occupied,2,2,91,45.50
+colony,2,2,91,45.50
+1866,2,2,91,45.50
+seen,7,6,90,15.00
+forces,13,8,90,11.25
+sweden,2,2,87,43.50
+system,11,7,86,12.29
+strange,2,2,86,43.00
+smaller,2,2,86,43.00
+grant,3,2,86,43.00
+goods,4,4,86,21.50
+lack,3,3,85,28.33
+irish,9,5,85,17.00
+sought,2,2,84,42.00
+society,15,10,84,8.40
+protectorate,1,1,84,84.00
+posts,7,6,84,14.00
+massawa,1,1,84,84.00
+king,14,8,84,10.50
+importance,2,2,84,42.00
+forced,6,6,84,14.00
+denmark,2,2,84,42.00
+considering,1,1,84,84.00
+annexed,1,1,84,84.00
+president,4,3,83,27.67
+impression,3,2,83,41.50
+tolerance,4,3,82,27.33
+piety,3,2,82,41.00
+late,14,10,82,8.20
+adding,3,3,81,27.00
+presided,1,1,79,79.00
+positions,1,1,79,79.00
+instead,9,8,79,9.88
+fill,1,1,79,79.00
+explicitly,1,1,79,79.00
+continental,1,1,79,79.00
+chief,1,1,79,79.00
+ceremonially,1,1,79,79.00
+aspirations,1,1,79,79.00
+speak,2,2,78,39.00
+somewhere,4,4,77,19.25
+something,13,10,77,7.70
+specifically,10,8,76,9.50
+raised,3,3,76,25.33
+must,3,3,76,25.33
+askhistorians,4,3,76,25.33
+tribes,5,4,75,18.75
+government,9,6,75,12.50
+characters,3,2,75,37.50
+vulgarity,1,1,73,73.00
+traders,1,1,73,73.00
+pelt,1,1,73,73.00
+led,2,2,73,36.50
+discourage,1,1,73,73.00
+dakotamontana,1,1,73,73.00
+americansenglishmen,1,1,73,73.00
+acceptable,1,1,73,73.00
+answers,2,2,71,35.50
+originally,3,3,69,23.00
+ask,6,6,69,11.50
+relations,6,5,68,13.60
+places,4,4,68,17.00
+britain,5,4,68,17.00
+thank,3,3,66,22.00
+scottish,3,3,66,22.00
+royal,3,3,66,22.00
+prioritises,1,1,66,66.00
+miss,1,1,66,66.00
+local,7,5,66,13.20
+eastern,9,8,66,8.25
+decides,1,1,66,66.00
+compliment,1,1,66,66.00
+aside,1,1,66,66.00
+anymore,1,1,66,66.00
+started,5,4,64,16.00
+3,5,5,64,12.80
+value,4,4,63,15.75
+gun,2,2,63,31.50
+google,2,2,62,31.00
+romans,8,6,61,10.17
+extra,3,3,61,20.33
+comes,3,3,60,20.00
+paid,4,4,59,14.75
+certain,5,4,59,14.75
+media,2,2,58,29.00
+everything,5,4,58,14.50
+common,12,9,58,6.44
+battle,4,4,58,14.50
+south,8,7,57,8.14
+result,6,6,57,9.50
+eic,6,2,57,28.50
+away,4,4,56,14.00
+working,5,5,55,11.00
+vast,4,4,55,13.75
+open,5,5,55,11.00
+comments,15,7,55,7.86
+nonwestern,3,3,54,18.00
+depictions,3,3,54,18.00
+stock,3,2,53,26.50
+resulting,3,2,53,26.50
+ideas,6,5,53,10.60
+free,6,6,53,8.83
+expensive,4,3,53,17.67
+view,7,6,52,8.67
+social,11,6,52,8.67
+family,5,5,52,10.40
+stripped,2,2,51,25.50
+policy,5,5,51,10.20
+internally,2,2,51,25.50
+gender,4,3,51,17.00
+financial,2,2,51,25.50
+days,10,6,51,8.50
+continued,2,2,51,25.50
+china,4,3,51,17.00
+topic,9,8,50,6.25
+taxes,3,2,50,25.00
+revenue,2,2,50,25.00
+opium,2,2,50,25.00
+groups,4,3,50,16.67
+therefore,3,3,49,16.33
+pretty,13,10,49,4.90
+mining,3,3,49,16.33
+issues,2,2,49,24.50
+historians,9,8,49,6.13
+everyone,5,5,49,9.80
+burned,5,3,49,16.33
+straight,2,2,48,24.00
+european,17,11,48,4.36
+assistance,2,2,48,24.00
+story,3,3,47,15.67
+privilege,2,2,47,23.50
+longer,2,2,47,23.50
+exist,2,2,47,23.50
+crowd,3,3,47,15.67
+ago,8,6,47,7.83
+weaponry,3,3,46,15.33
+troubles,1,1,46,46.00
+tensions,1,1,46,46.00
+struck,1,1,46,46.00
+strain,1,1,46,46.00
+spiked,1,1,46,46.00
+smuggling,1,1,46,46.00
+shut,1,1,46,46.00
+shares,1,1,46,46.00
+secret,1,1,46,46.00
+rolling,1,1,46,46.00
+repeated,1,1,46,46.00
+redemption,2,1,46,46.00
+recover,1,1,46,46.00
+rebellion,1,1,46,46.00
+parliament,1,1,46,46.00
+offering,1,1,46,46.00
+network,1,1,46,46.00
+middleman,1,1,46,46.00
+managed,1,1,46,46.00
+largest,1,1,46,46.00
+isbn,1,1,46,46.00
+intervening,1,1,46,46.00
+interactions,1,1,46,46.00
+granted,2,2,46,23.00
+focusing,1,1,46,46.00
+float,1,1,46,46.00
+finally,3,1,46,46.00
+exports,1,1,46,46.00
+exporting,1,1,46,46.00
+expenditures,1,1,46,46.00
+drought,1,1,46,46.00
+downhill,1,1,46,46.00
+dividend,2,1,46,46.00
+difficulty,1,1,46,46.00
+decrease,1,1,46,46.00
+cutting,1,1,46,46.00
+credit,1,1,46,46.00
+confident,1,1,46,46.00
+commerce,1,1,46,46.00
+combined,1,1,46,46.00
+bibliography,1,1,46,46.00
+bengal,1,1,46,46.00
+belly,1,1,46,46.00
+bailout,1,1,46,46.00
+aware,2,2,46,23.00
+assets,1,1,46,46.00
+9.78071E+12,1,1,46,46.00
+1874,1,1,46,46.00
+1873,1,1,46,46.00
+1857,1,1,46,46.00
+1773,1,1,46,46.00
+1772,1,1,46,46.00
+1769,1,1,46,46.00
+via,3,3,45,15.00
+discussion,7,4,45,11.25
+nothing,2,2,44,22.00
+france,7,7,44,6.29
+fit,5,4,44,11.00
+character,3,3,44,14.67
+buy,4,4,44,11.00
+toward,3,3,43,14.33
+thanks,6,6,43,7.17
+role,6,4,43,10.75
+natural,2,2,43,21.50
+develop,2,2,43,21.50
+terminology,1,1,42,42.00
+sometimes,3,3,42,14.00
+parts,6,5,42,8.40
+origin,1,1,42,42.00
+offer,5,5,42,8.40
+jews,13,7,42,6.00
+issue,1,1,42,42.00
+imposing,1,1,42,42.00
+examples,5,4,42,10.50
+vary,1,1,41,41.00
+respond,1,1,41,41.00
+play,3,3,41,13.67
+guns,1,1,41,41.00
+extension,1,1,41,41.00
+disability,34,4,41,10.25
+details,4,4,41,10.25
+accurate,5,5,41,8.20
+muslims,8,4,40,10.00
+looks,3,3,40,13.33
+elites,3,2,40,20.00
+surrounding,3,3,39,13.00
+side,5,4,39,9.75
+loss,4,4,39,9.75
+factors,6,4,39,9.75
+coastal,3,3,39,13.00
+wholesale,1,1,38,38.00
+unfortunately,3,3,38,12.67
+tribesmen,1,1,38,38.00
+tended,3,2,38,19.00
+sharing,2,2,38,19.00
+overland,2,2,38,19.00
+older,3,2,38,19.00
+networks,2,2,38,19.00
+invasion,2,2,38,19.00
+integrate,1,1,38,38.00
+inherited,3,3,38,12.67
+hungary,2,2,38,19.00
+courthouses,3,2,38,19.00
+confederate,3,2,38,19.00
+commoners,2,1,38,38.00
+caste,1,1,38,38.00
+campaign,4,4,38,9.50
+atlantic,2,2,38,19.00
+viewed,5,3,37,12.33
+records,2,2,37,18.50
+basically,6,6,37,6.17
+welcome,4,3,36,12.00
+team,2,2,36,18.00
+someone,4,4,36,9.00
+slavery,4,2,36,18.00
+single,2,2,36,18.00
+rights,4,3,36,12.00
+moves,2,2,36,18.00
+lost,2,2,36,18.00
+invaders,2,2,36,18.00
+germany,4,4,36,9.00
+generally,12,10,36,3.60
+effectively,2,2,36,18.00
+dozens,3,3,36,12.00
+dangerous,2,2,36,18.00
+battles,5,3,36,12.00
+week,4,3,35,11.67
+serfs,2,2,35,17.50
+originates,2,2,35,17.50
+frame,2,2,35,17.50
+bulk,3,3,35,11.67
+brutal,2,2,35,17.50
+browsing,2,2,35,17.50
+stuff,4,2,34,17.00
+recognize,2,2,34,17.00
+peasants,2,2,34,17.00
+knowledge,2,2,34,17.00
+interest,2,2,34,17.00
+held,2,2,34,17.00
+exclusively,2,2,34,17.00
+equivalent,3,3,34,11.33
+additionally,4,4,34,8.50
+workers,1,1,33,33.00
+wage,1,1,33,33.00
+unpleasant,1,1,33,33.00
+tribe,2,2,33,16.50
+transportation,1,1,33,33.00
+suspect,1,1,33,33.00
+supplied,1,1,33,33.00
+soldier,4,2,33,16.50
+segregated,1,1,33,33.00
+romania,1,1,33,33.00
+rock,1,1,33,33.00
+rivers,1,1,33,33.00
+ran,2,2,33,16.50
+prevailing,1,1,33,33.00
+patterns,1,1,33,33.00
+oceans,1,1,33,33.00
+monopoply,1,1,33,33.00
+misunderstood,1,1,33,33.00
+metro,1,1,33,33.00
+medival,1,1,33,33.00
+markets,1,1,33,33.00
+krakow,1,1,33,33.00
+ireland,7,4,33,8.25
+inland,1,1,33,33.00
+ie,2,2,33,16.50
+grozy,1,1,33,33.00
+grams,1,1,33,33.00
+fun,2,2,33,16.50
+fishermen,1,1,33,33.00
+explanation,1,1,33,33.00
+eras,1,1,33,33.00
+economics,1,1,33,33.00
+ealry,1,1,33,33.00
+compensation,1,1,33,33.00
+commercial,1,1,33,33.00
+becuase,1,1,33,33.00
+45,1,1,33,33.00
+1300s1700s,1,1,33,33.00
+ways,9,6,32,5.33
+scholars,4,3,32,10.67
+putting,2,2,32,16.00
+definition,2,2,32,16.00
+damaged,2,2,32,16.00
+choice,4,4,32,8.00
+wiry,4,2,31,15.50
+thought,5,5,31,6.20
+surname,1,1,31,31.00
+suggest,1,1,31,31.00
+somerset,2,1,31,31.00
+showed,1,1,31,31.00
+settling,1,1,31,31.00
+relating,1,1,31,31.00
+profession,1,1,31,31.00
+physical,3,2,31,15.50
+originate,1,1,31,31.00
+normans,1,1,31,31.00
+lurker,1,1,31,31.00
+linking,1,1,31,31.00
+invasions,1,1,31,31.00
+invading,1,1,31,31.00
+friend,1,1,31,31.00
+extraordinarily,1,1,31,31.00
+empire,12,7,31,4.43
+durotriges,4,1,31,31.00
+disabilities,2,2,31,15.50
+differ,2,2,31,15.50
+destroy,1,1,31,31.00
+deliberate,1,1,31,31.00
+definitive,1,1,31,31.00
+celtic,3,1,31,31.00
+c2000bc400bc,1,1,31,31.00
+brtain,1,1,31,31.00
+belgae,1,1,31,31.00
+anglosaxons,1,1,31,31.00
+400bc,1,1,31,31.00
+3rd,2,2,31,15.50
+2000bc,1,1,31,31.00
+powers,10,7,30,4.29
+picture,8,7,30,4.29
+pace,2,2,30,15.00
+john,8,4,30,7.50
+jesus,18,5,30,6.00
+ideal,8,3,30,10.00
+content,2,2,30,15.00
+wondering,6,6,29,4.83
+winter,4,3,29,9.67
+warhitlerromans,1,1,29,29.00
+underseen,1,1,29,29.00
+ucaffarelli,3,3,29,9.67
+topics,2,1,29,29.00
+tm,1,1,29,29.00
+tends,1,1,29,29.00
+tall,1,1,29,29.00
+subreddit,1,1,29,29.00
+spy,1,1,29,29.00
+slower,1,1,29,29.00
+shown,1,1,29,29.00
+senior,2,2,29,14.50
+semisecret,1,1,29,29.00
+selection,1,1,29,29.00
+selected,1,1,29,29.00
+sample,1,1,29,29.00
+relation,2,2,29,14.50
+professional,2,2,29,14.50
+producing,1,1,29,29.00
+pop,1,1,29,29.00
+played,2,2,29,14.50
+page,1,1,29,29.00
+outreach,1,1,29,29.00
+nonmilitary,1,1,29,29.00
+naturally,1,1,29,29.00
+mods,1,1,29,29.00
+love,2,2,29,14.50
+lean,1,1,29,29.00
+kinda,1,1,29,29.00
+hot,1,1,29,29.00
+highlights,1,1,29,29.00
+height,1,1,29,29.00
+grown,5,3,29,9.67
+growing,3,2,29,14.50
+glad,1,1,29,29.00
+feed,1,1,29,29.00
+extremely,4,4,29,7.25
+establishment,1,1,29,29.00
+environmental,1,1,29,29.00
+dropped,1,1,29,29.00
+dizzying,1,1,29,29.00
+decontextualized,1,1,29,29.00
+confused,1,1,29,29.00
+composition,1,1,29,29.00
+cold,9,3,29,9.67
+caliphate,9,6,29,4.83
+browse,1,1,29,29.00
+bodybuilders,1,1,29,29.00
+bodies,5,3,29,9.67
+appeal,1,1,29,29.00
+allhuman,1,1,29,29.00
+algorithms,1,1,29,29.00
+academically,1,1,29,29.00
+34,1,1,29,29.00
+napoleonic,2,2,28,14.00
+mid,2,2,28,14.00
+literature,3,3,28,9.33
+infantry,3,2,28,14.00
+idea,9,6,28,4.67
+ground,3,3,28,9.33
+give,8,5,28,5.60
+climate,2,2,28,14.00
+xxx,1,1,27,27.00
+wintertime,2,2,27,13.50
+waterloo,1,1,27,27.00
+unconvential,1,1,27,27.00
+tasked,1,1,27,27.00
+survival,2,2,27,13.50
+successes,1,1,27,27.00
+subalternaeity,2,2,27,13.50
+skill,1,1,27,27.00
+season,3,3,27,9.00
+sas,1,1,27,27.00
+rice,22,2,27,13.50
+relieve,1,1,27,27.00
+regimental,2,1,27,27.00
+recruitment,1,1,27,27.00
+recruiting,1,1,27,27.00
+protectors,1,1,27,27.00
+proportion,2,2,27,13.50
+prevalent,1,1,27,27.00
+practise,1,1,27,27.00
+percieved,1,1,27,27.00
+pensinsular,1,1,27,27.00
+operation,1,1,27,27.00
+numerous,2,2,27,13.50
+normandy,1,1,27,27.00
+nonetheless,1,1,27,27.00
+monarch,1,1,27,27.00
+mallinson,1,1,27,27.00
+lrdg,1,1,27,27.00
+liberation,1,1,27,27.00
+liberated,1,1,27,27.00
+intrigues,1,1,27,27.00
+internationally,1,1,27,27.00
+innovative,1,1,27,27.00
+household,1,1,27,27.00
+holland,1,1,27,27.00
+holding,1,1,27,27.00
+garden,1,1,27,27.00
+former,2,2,27,13.50
+fighting,1,1,27,27.00
+fame,1,1,27,27.00
+exponential,1,1,27,27.00
+expansion,4,4,27,6.75
+existed,4,4,27,6.75
+essential,2,2,27,13.50
+elsewhere,2,2,27,13.50
+dutch,4,3,27,9.00
+division,4,1,27,27.00
+dishes,3,2,27,13.50
+differently,2,2,27,13.50
+deems,1,1,27,27.00
+dead,2,2,27,13.50
+crown,1,1,27,27.00
+criticism,3,2,27,13.50
+corps,1,1,27,27.00
+controlled,1,1,27,27.00
+contemporary,4,3,27,9.00
+commandos,1,1,27,27.00
+colours,1,1,27,27.00
+coldsteam,1,1,27,27.00
+christians,9,3,27,9.00
+capability,1,1,27,27.00
+brussels,1,1,27,27.00
+brigade,1,1,27,27.00
+battalion,3,1,27,27.00
+authors,1,1,27,27.00
+attributing,1,1,27,27.00
+attitudes,4,4,27,6.75
+armoured,2,1,27,27.00
+arab,6,2,27,13.50
+aptitude,1,1,27,27.00
+alleigance,1,1,27,27.00
+allan,1,1,27,27.00
+airborne,1,1,27,27.00
+active,1,1,27,27.00
+abled,2,2,27,13.50
+1990,1,1,27,27.00
+1968,1,1,27,27.00
+1944,1,1,27,27.00
+warm,2,2,26,13.00
+subjects,2,2,26,13.00
+representation,3,3,26,8.67
+cultures,2,2,26,13.00
+concepts,3,2,26,13.00
+concept,2,2,26,13.00
+applied,5,5,26,5.20
+volunteer,2,2,25,12.50
+saw,6,5,25,5.00
+reality,4,4,25,6.25
+japan,10,7,25,3.57
+excavated,2,2,25,12.50
+warn,1,1,24,24.00
+wales,2,2,24,12.00
+vague,3,3,24,8.00
+truth,2,2,24,12.00
+summers,1,1,24,24.00
+struggle,3,3,24,8.00
+sessions,1,1,24,24.00
+person,6,4,24,6.00
+perceived,4,4,24,6.00
+p,1,1,24,24.00
+masculinity,2,2,24,12.00
+jewish,9,5,24,4.80
+imperial,4,4,24,6.00
+garments,5,4,24,6.00
+entirely,5,5,24,4.80
+edit,5,5,24,4.80
+description,2,2,24,12.00
+colonial,4,4,24,6.00
+unsuitable,1,1,23,23.00
+settled,2,2,23,11.50
+scots,2,2,23,11.50
+presumably,1,1,23,23.00
+ingredient,1,1,23,23.00
+industry,3,3,23,7.67
+impressive,1,1,23,23.00
+ignorant,1,1,23,23.00
+domination,5,2,23,11.50
+death,4,3,23,7.67
+african,4,4,23,5.75
+whistlepigs,1,1,22,22.00
+weeks,1,1,22,22.00
+warts,1,1,22,22.00
+upcoming,1,1,22,22.00
+uhenry_fords_ghost,1,1,22,22.00
+tuesday,2,1,22,22.00
+trivias,1,1,22,22.00
+trivia,2,1,22,22.00
+transcribed,1,1,22,22.00
+theme,2,1,22,22.00
+tales,1,1,22,22.00
+suggesting,1,1,22,22.00
+squirrels,1,1,22,22.00
+soldiers,7,5,22,4.40
+snow,1,1,22,22.00
+seamless,7,3,22,7.33
+sculpture,1,1,22,22.00
+schedule,1,1,22,22.00
+ruler,1,1,22,22.00
+rites,1,1,22,22.00
+rifling,1,1,22,22.00
+richard,1,1,22,22.00
+repeat,1,1,22,22.00
+religious,8,5,22,4.40
+reaches,1,1,22,22.00
+proposed,1,1,22,22.00
+prologue,1,1,22,22.00
+preferring,1,1,22,22.00
+portraiture,1,1,22,22.00
+points,1,1,22,22.00
+offended,1,1,22,22.00
+object,2,1,22,22.00
+notre,1,1,22,22.00
+notions,1,1,22,22.00
+next,2,1,22,22.00
+mirrors,1,1,22,22.00
+makes,4,4,22,5.50
+mail,1,1,22,22.00
+johnny,1,1,22,22.00
+joe,1,1,22,22.00
+isles,2,2,22,11.00
+introduce,1,1,22,22.00
+interacted,1,1,22,22.00
+interact,1,1,22,22.00
+intent,1,1,22,22.00
+insulting,1,1,22,22.00
+insensitive,1,1,22,22.00
+injury,2,1,22,22.00
+impossible,4,4,22,5.50
+iii,1,1,22,22.00
+hunchback,1,1,22,22.00
+handsome,1,1,22,22.00
+garment,5,3,22,7.33
+game,1,1,22,22.00
+femininity,1,1,22,22.00
+faults,1,1,22,22.00
+falling,1,1,22,22.00
+egypt,6,5,22,4.40
+divine,1,1,22,22.00
+distinctions,1,1,22,22.00
+disfavored,1,1,22,22.00
+dichotomy,1,1,22,22.00
+deviations,1,1,22,22.00
+deformity,1,1,22,22.00
+dealing,2,1,22,22.00
+dame,1,1,22,22.00
+correspondence,1,1,22,22.00
+corollary,1,1,22,22.00
+coopedupboredom,1,1,22,22.00
+congenital,1,1,22,22.00
+complete,1,1,22,22.00
+climates,1,1,22,22.00
+cleaning,1,1,22,22.00
+charismatic,1,1,22,22.00
+bonham,1,1,22,22.00
+arts,1,1,22,22.00
+apologize,1,1,22,22.00
+actions,1,1,22,22.00
+unity,2,2,21,10.50
+took,2,2,21,10.50
+revolution,3,3,21,7.00
+premodern,3,3,21,7.00
+meant,4,4,21,5.25
+mark,3,3,21,7.00
+land,8,6,21,3.50
+extent,3,3,21,7.00
+existing,3,3,21,7.00
+coming,3,3,21,7.00
+values,4,3,20,6.67
+typically,3,2,20,10.00
+technology,2,2,20,10.00
+sorry,4,4,20,5.00
+religions,4,2,20,10.00
+pagans,3,2,20,10.00
+monotheistic,2,2,20,10.00
+institutions,8,4,20,5.00
+holy,3,3,20,6.67
+greatest,3,3,20,6.67
+full,4,3,20,6.67
+followup,5,5,20,4.00
+enough,7,7,20,2.86
+emperor,6,3,20,6.67
+describing,2,2,20,10.00
+davis,2,2,20,10.00
+worn,6,4,19,4.75
+trope,2,2,19,9.50
+tiein,2,2,19,9.50
+passage,5,3,19,6.33
+participation,3,3,19,6.33
+lending,2,2,19,9.50
+kingdoms,7,4,19,4.75
+key,4,4,19,4.75
+judaism,2,2,19,9.50
+essentially,5,4,19,4.75
+disabled,5,3,19,6.33
+development,3,2,19,9.50
+developed,3,3,19,6.33
+switch,2,2,18,9.00
+structure,6,3,18,6.00
+son,6,2,18,9.00
+setting,1,1,18,18.00
+scalping,1,1,18,18.00
+release,5,2,18,9.00
+pilate,8,2,18,9.00
+phrase,2,1,18,18.00
+louis,4,2,18,9.00
+knot,1,1,18,18.00
+joshua,6,2,18,9.00
+innocent,3,2,18,9.00
+information,6,6,18,3.00
+helpful,5,5,18,3.60
+father,4,2,18,9.00
+divided,5,4,18,4.50
+defeat,2,2,18,9.00
+constructed,2,2,18,9.00
+caught,1,1,18,18.00
+barabbas,7,2,18,9.00
+argument,4,3,18,6.00
+anachronism,1,1,18,18.00
+4,4,4,18,4.50
+whatever,3,3,17,5.67
+virginia,1,1,17,17.00
+username,4,4,17,4.25
+turn,2,2,17,8.50
+travel,7,4,17,4.25
+slowly,2,2,17,8.50
+size,2,2,17,8.50
+scotia,1,1,17,17.00
+resident,3,1,17,17.00
+religion,4,2,17,8.50
+rank,3,2,17,8.50
+provinces,1,1,17,17.00
+nova,1,1,17,17.00
+motivations,2,2,17,8.50
+mentions,4,4,17,4.25
+massachusetts,1,1,17,17.00
+issuesalliances,1,1,17,17.00
+involve,1,1,17,17.00
+including,4,3,17,5.67
+hundreds,3,3,17,5.67
+guy,3,3,17,5.67
+foreigners,1,1,17,17.00
+features,3,3,17,5.67
+eye,2,2,17,8.50
+canadian,1,1,17,17.00
+books,4,4,17,4.25
+animosity,1,1,17,17.00
+_,8,4,17,4.25
+1763,1,1,17,17.00
+wwii,6,3,16,5.33
+wider,1,1,16,16.00
+venture,1,1,16,16.00
+unconducive,1,1,16,16.00
+spain,5,3,16,5.33
+sea,7,4,16,4.00
+recently,2,2,16,8.00
+perspectives,2,2,16,8.00
+ottoman,4,4,16,4.00
+opinion,4,3,16,5.33
+occupation,4,3,16,5.33
+national,1,1,16,16.00
+muslim,7,5,16,3.20
+misunderstanding,3,2,16,8.00
+limit,1,1,16,16.00
+freedom,3,3,16,5.33
+faith,2,2,16,8.00
+earth,2,2,16,8.00
+dynasty,1,1,16,16.00
+domestically,1,1,16,16.00
+describe,2,2,16,8.00
+critical,3,3,16,5.33
+criminal,2,2,16,8.00
+conversion,4,2,16,8.00
+contrast,5,4,16,4.00
+black,7,2,16,8.00
+belief,10,2,16,8.00
+asia,9,3,16,5.33
+apparently,2,2,16,8.00
+anglonorman,1,1,16,16.00
+achieved,1,1,16,16.00
+taken,4,4,15,3.75
+surprised,1,1,15,15.00
+secondclass,1,1,15,15.00
+says,3,3,15,5.00
+reverence,1,1,15,15.00
+respect,1,1,15,15.00
+promoted,1,1,15,15.00
+problem,3,3,15,5.00
+private,1,1,15,15.00
+opportunity,5,4,15,3.75
+individual,3,3,15,5.00
+handsomely,1,1,15,15.00
+handful,1,1,15,15.00
+empires,10,4,15,3.75
+easily,4,4,15,3.75
+disrespectful,1,1,15,15.00
+disciplined,1,1,15,15.00
+demands,1,1,15,15.00
+confirm,1,1,15,15.00
+coin,3,3,15,5.00
+citizens,1,1,15,15.00
+centuries,8,5,15,3.00
+benjamin,1,1,15,15.00
+resources,4,4,14,3.50
+populations,4,3,14,4.67
+perceptions,2,2,14,7.00
+negative,2,2,14,7.00
+mass,2,2,14,7.00
+islamic,7,3,14,4.67
+impairment,8,2,14,7.00
+governments,3,3,14,4.67
+fashion,3,3,14,4.67
+established,3,3,14,4.67
+discovered,2,2,14,7.00
+diagnosis,4,2,14,7.00
+defining,2,2,14,7.00
+debate,3,3,14,4.67
+cultural,3,3,14,4.67
+condition,10,2,14,7.00
+brief,2,2,14,7.00
+barriers,2,2,14,7.00
+2014,4,3,14,4.67
+wiki,2,2,13,6.50
+weave,1,1,13,13.00
+virgin,1,1,13,13.00
+til,1,1,13,13.00
+supposed,1,1,13,13.00
+status,3,3,13,4.33
+statements,1,1,13,13.00
+singular,2,2,13,6.50
+simon,2,1,13,13.00
+replies,2,2,13,6.50
+relics,1,1,13,13.00
+relevant,2,2,13,6.50
+refer,4,4,13,3.25
+quoted,1,1,13,13.00
+presenting,1,1,13,13.00
+popularcommon,1,1,13,13.00
+onto,2,2,13,6.50
+offered,3,3,13,4.33
+nation,3,2,13,6.50
+mythologies,1,1,13,13.00
+mohammed,1,1,13,13.00
+knit,1,1,13,13.00
+jonas,1,1,13,13.00
+invented,1,1,13,13.00
+interrelated,1,1,13,13.00
+interpretation,1,1,13,13.00
+indian,5,3,13,4.33
+hoped,1,1,13,13.00
+honorifics,2,1,13,13.00
+hebrew,2,1,13,13.00
+factor,3,3,13,4.33
+faced,2,2,13,6.50
+exact,1,1,13,13.00
+europeans,2,2,13,6.50
+einstein,1,1,13,13.00
+economy,4,3,13,4.33
+distinguish,1,1,13,13.00
+detail,1,1,13,13.00
+define,2,2,13,6.50
+dating,1,1,13,13.00
+criminalterrorist,1,1,13,13.00
+competition,2,2,13,6.50
+civilization,2,2,13,6.50
+christ,3,3,13,4.33
+centre,2,2,13,6.50
+broadly,2,2,13,6.50
+beliefs,3,2,13,6.50
+barjonas,1,1,13,13.00
+bar,1,1,13,13.00
+bait,1,1,13,13.00
+arguably,3,3,13,4.33
+albert,1,1,13,13.00
+adopt,1,1,13,13.00
+abba,1,1,13,13.00
+____,1,1,13,13.00
+1st,1,1,13,13.00
+wine,5,3,12,4.00
+venice,3,2,12,6.00
+unlike,4,3,12,4.00
+universal,2,2,12,6.00
+unclear,2,2,12,6.00
+turned,2,2,12,6.00
+supported,2,2,12,6.00
+several,3,2,12,6.00
+restored,2,2,12,6.00
+raids,4,2,12,6.00
+overview,2,2,12,6.00
+op,2,2,12,6.00
+observed,2,2,12,6.00
+multiple,3,3,12,4.00
+mental,5,3,12,4.00
+lands,2,2,12,6.00
+jerusalem,3,3,12,4.00
+independent,2,2,12,6.00
+gold,2,2,12,6.00
+dividing,2,2,12,6.00
+dark,2,2,12,6.00
+continent,2,2,12,6.00
+confined,2,2,12,6.00
+children,2,2,12,6.00
+centralized,1,1,12,12.00
+catholic,3,2,12,6.00
+austria,2,2,12,6.00
+articles,5,3,12,4.00
+anne,1,1,12,12.00
+_why,2,2,12,6.00
+2015,5,4,12,3.00
+6,2,2,12,6.00
+ww2,2,2,11,5.50
+woven,2,2,11,5.50
+witnesses,1,1,11,11.00
+willing,2,2,11,5.50
+whenever,1,1,11,11.00
+vulnerable,1,1,11,11.00
+version,2,2,11,5.50
+vatican,1,1,11,11.00
+unbridled,1,1,11,11.00
+twentyfirst,1,1,11,11.00
+twain,2,1,11,11.00
+tunic,9,3,11,3.67
+torpor,1,1,11,11.00
+tooth,1,1,11,11.00
+tethered,1,1,11,11.00
+systems,5,1,11,11.00
+suspend,1,1,11,11.00
+supernatural,1,1,11,11.00
+sun,1,1,11,11.00
+subverted,1,1,11,11.00
+subtle,1,1,11,11.00
+study,5,4,11,2.75
+stop,2,1,11,11.00
+standard,2,2,11,5.50
+ship,2,2,11,5.50
+shaved,1,1,11,11.00
+shared,2,2,11,5.50
+sexes,1,1,11,11.00
+seriously,2,2,11,5.50
+scientologists,1,1,11,11.00
+savages,1,1,11,11.00
+saturnalia,1,1,11,11.00
+sandwich,2,1,11,11.00
+routes,3,2,11,5.50
+roughing,1,1,11,11.00
+rigid,1,1,11,11.00
+research,5,4,11,2.75
+remember,3,3,11,3.67
+regarding,3,3,11,3.67
+recognizing,1,1,11,11.00
+reaction,2,1,11,11.00
+radically,1,1,11,11.00
+quickly,3,2,11,5.50
+provide,4,3,11,3.67
+projection,1,1,11,11.00
+primacy,1,1,11,11.00
+preliterate,1,1,11,11.00
+preconversion,4,1,11,11.00
+powerful,3,2,11,5.50
+plucked,1,1,11,11.00
+personage,1,1,11,11.00
+patriarchal,1,1,11,11.00
+oldfashioned,1,1,11,11.00
+nonconverted,1,1,11,11.00
+nobles,5,2,11,5.50
+nightmare,1,1,11,11.00
+needed,6,4,11,2.75
+mutilated,1,1,11,11.00
+murdered,1,1,11,11.00
+mormons,1,1,11,11.00
+monumental,1,1,11,11.00
+monolithic,2,1,11,11.00
+moment,1,1,11,11.00
+misunderstandings,1,1,11,11.00
+mindset,1,1,11,11.00
+maimed,1,1,11,11.00
+loosely,1,1,11,11.00
+locations,1,1,11,11.00
+licentiousness,1,1,11,11.00
+lacked,1,1,11,11.00
+knocked,1,1,11,11.00
+jehovah,1,1,11,11.00
+islands,3,1,11,11.00
+involves,1,1,11,11.00
+institution,1,1,11,11.00
+informants,1,1,11,11.00
+huts,1,1,11,11.00
+humor,1,1,11,11.00
+humanity,1,1,11,11.00
+hostility,1,1,11,11.00
+horror,1,1,11,11.00
+historiography,1,1,11,11.00
+hideous,1,1,11,11.00
+heads,2,2,11,5.50
+hawaiians,1,1,11,11.00
+hawaii,2,1,11,11.00
+hammed,1,1,11,11.00
+halfremembered,1,1,11,11.00
+grouped,1,1,11,11.00
+grounded,2,1,11,11.00
+gentle,1,1,11,11.00
+generation,2,1,11,11.00
+forty,1,1,11,11.00
+follows,1,1,11,11.00
+folklorists,1,1,11,11.00
+focuses,2,2,11,5.50
+fluid,1,1,11,11.00
+flesh,1,1,11,11.00
+flawed,1,1,11,11.00
+fairy,1,1,11,11.00
+equipped,2,2,11,5.50
+entering,1,1,11,11.00
+ensued,1,1,11,11.00
+emerged,1,1,11,11.00
+drunk,1,1,11,11.00
+draped,3,2,11,5.50
+discuss,3,3,11,3.67
+difference,1,1,11,11.00
+devoted,2,2,11,5.50
+dazed,1,1,11,11.00
+cut,1,1,11,11.00
+custom,1,1,11,11.00
+curiosity,1,1,11,11.00
+cults,1,1,11,11.00
+creepy,1,1,11,11.00
+converts,1,1,11,11.00
+contribution,2,2,11,5.50
+consistent,1,1,11,11.00
+comic,1,1,11,11.00
+cloak,4,3,11,3.67
+claims,3,3,11,3.67
+circumstance,2,1,11,11.00
+christianity,3,1,11,11.00
+chew,1,1,11,11.00
+charge,2,2,11,5.50
+challenges,1,1,11,11.00
+caprice,1,1,11,11.00
+cancer,1,1,11,11.00
+bruised,1,1,11,11.00
+breaks,1,1,11,11.00
+bewildered,1,1,11,11.00
+backward,1,1,11,11.00
+awe,1,1,11,11.00
+applying,1,1,11,11.00
+analogy,2,1,11,11.00
+analogous,1,1,11,11.00
+amorphous,1,1,11,11.00
+10th,3,3,11,3.67
+uthewinstore,1,1,10,10.00
+utayaravaknin,1,1,10,10.00
+uses,3,3,10,3.33
+uphoenixbasileus,1,1,10,10.00
+tribute,4,2,10,5.00
+territory,4,3,10,3.33
+symbol,2,2,10,5.00
+structures,4,2,10,5.00
+steering,1,1,10,10.00
+societal,2,2,10,5.00
+shift,2,2,10,5.00
+roles,2,2,10,5.00
+rising,2,2,10,5.00
+relative,2,2,10,5.00
+reflects,2,2,10,5.00
+quality,2,2,10,5.00
+precisely,2,2,10,5.00
+postwar,1,1,10,10.00
+planning,1,1,10,10.00
+phenomena,5,2,10,5.00
+online,2,2,10,5.00
+ocean,2,2,10,5.00
+methods,2,2,10,5.00
+metaphorical,2,2,10,5.00
+merchants,2,2,10,5.00
+macarthur,1,1,10,10.00
+low,3,3,10,3.33
+listened,2,2,10,5.00
+liberal,4,3,10,3.33
+lead,2,2,10,5.00
+jan,1,1,10,10.00
+hirohito,2,1,10,10.00
+greece,4,3,10,3.33
+goals,1,1,10,10.00
+frequently,2,2,10,5.00
+flourishing,2,2,10,5.00
+figure,3,2,10,5.00
+feb,1,1,10,10.00
+famously,3,3,10,3.33
+experienced,2,2,10,5.00
+enslaved,2,2,10,5.00
+elite,2,2,10,5.00
+dynasties,4,2,10,5.00
+distinguishing,2,2,10,5.00
+detailed,1,1,10,10.00
+crimes,2,1,10,10.00
+correct,2,2,10,5.00
+conversely,2,2,10,5.00
+construct,2,2,10,5.00
+consensus,2,2,10,5.00
+completely,3,3,10,3.33
+coffers,2,2,10,5.00
+cloth,3,2,10,5.00
+changed,6,5,10,2.00
+byzantium,2,2,10,5.00
+branch,2,2,10,5.00
+analysis,1,1,10,10.00
+allied,1,1,10,10.00
+affect,2,2,10,5.00
+advance,2,2,10,5.00
+adopted,2,2,10,5.00
+accounts,2,2,10,5.00
+_after,1,1,10,10.00
+26,1,1,10,10.00
+window,2,1,9,9.00
+watch,1,1,9,9.00
+walk,1,1,9,9.00
+vikings,4,2,9,4.50
+variety,2,2,9,4.50
+understood,4,3,9,3.00
+umayyad,3,3,9,3.00
+theorists,1,1,9,9.00
+terrific,1,1,9,9.00
+stronger,3,3,9,3.00
+sin,1,1,9,9.00
+sign,1,1,9,9.00
+separation,2,2,9,4.50
+saxon,5,2,9,4.50
+rulers,3,2,9,4.50
+room,1,1,9,9.00
+robe,5,2,9,4.50
+rivals,2,2,9,4.50
+reversediagnose,1,1,9,9.00
+replaced,2,2,9,4.50
+relatively,2,2,9,4.50
+refers,1,1,9,9.00
+primarily,3,2,9,4.50
+priest,3,2,9,4.50
+prayer,1,1,9,9.00
+possessed,1,1,9,9.00
+please,2,2,9,4.50
+piggy,1,1,9,9.00
+performed,1,1,9,9.00
+perceive,2,2,9,4.50
+per,7,2,9,4.50
+paradigm,1,1,9,9.00
+objective,2,2,9,4.50
+norm,1,1,9,9.00
+monotheists,1,1,9,9.00
+moments,2,2,9,4.50
+modernday,1,1,9,9.00
+marker,1,1,9,9.00
+margareta,1,1,9,9.00
+margaret,3,1,9,9.00
+main,3,2,9,4.50
+magdeburg,2,1,9,9.00
+link,5,4,9,2.25
+lines,2,2,9,4.50
+learn,2,2,9,4.50
+lay,1,1,9,9.00
+lameunable,1,1,9,9.00
+judgment,1,1,9,9.00
+job,1,1,9,9.00
+inquirers,1,1,9,9.00
+independently,2,2,9,4.50
+impaired,1,1,9,9.00
+guidance,1,1,9,9.00
+grace,1,1,9,9.00
+fundamentally,2,2,9,4.50
+formation,2,2,9,4.50
+follow,3,3,9,3.00
+extremes,2,2,9,4.50
+external,1,1,9,9.00
+everyday,2,2,9,4.50
+enormously,1,1,9,9.00
+ended,2,2,9,4.50
+enclosed,1,1,9,9.00
+egyptian,2,2,9,4.50
+dress,3,3,9,3.00
+distinction,1,1,9,9.00
+devotion,1,1,9,9.00
+deviation,1,1,9,9.00
+despised,1,1,9,9.00
+critics,1,1,9,9.00
+count,1,1,9,9.00
+control,3,2,9,4.50
+contracta,1,1,9,9.00
+constitutional,2,2,9,4.50
+consolation,1,1,9,9.00
+cognitive,1,1,9,9.00
+classical,2,2,9,4.50
+childhood,1,1,9,9.00
+characterized,2,2,9,4.50
+anchoress,2,1,9,9.00
+alfred,11,2,9,4.50
+alexander,3,2,9,4.50
+wwi,2,2,8,4.00
+uoldworldglory,1,1,8,8.00
+unsourced,1,1,8,8.00
+treaties,2,2,8,4.00
+threat,4,2,8,4.00
+supplies,2,2,8,4.00
+stability,1,1,8,8.00
+ships,2,2,8,4.00
+sent,2,2,8,4.00
+seemed,3,3,8,2.67
+red,1,1,8,8.00
+realized,2,2,8,4.00
+prove,3,3,8,2.67
+ought,1,1,8,8.00
+occupiers,1,1,8,8.00
+militarism,1,1,8,8.00
+mediterranean,4,2,8,4.00
+mcarthur,1,1,8,8.00
+maps,2,2,8,4.00
+major,3,3,8,2.67
+lots,2,2,8,4.00
+legitimisation,1,1,8,8.00
+judea,3,2,8,4.00
+instances,2,2,8,4.00
+influence,2,2,8,4.00
+imperialism,4,2,8,4.00
+homework,2,2,8,4.00
+herbert,1,1,8,8.00
+governor,2,2,8,4.00
+function,2,2,8,4.00
+feature,2,2,8,4.00
+executed,4,2,8,4.00
+embracing,1,1,8,8.00
+dower,2,1,8,8.00
+democratic,1,1,8,8.00
+culpability,1,1,8,8.00
+create,2,2,8,4.00
+contrary,1,1,8,8.00
+continue,3,3,8,2.67
+coins,2,2,8,4.00
+cb,1,1,8,8.00
+carry,3,2,8,4.00
+capepiece,1,1,8,8.00
+canal,4,3,8,2.67
+blame,1,1,8,8.00
+bix,1,1,8,8.00
+big,4,4,8,2.00
+belgium,3,3,8,2.67
+arms,1,1,8,8.00
+armies,4,3,8,2.67
+april,2,2,8,4.00
+accepting,1,1,8,8.00
+abdicate,1,1,8,8.00
+2.01005E+13,1,1,8,8.00
+zaragoza,1,1,7,7.00
+winik,1,1,7,7.00
+wholly,2,2,7,3.50
+welsh,1,1,7,7.00
+weaker,1,1,7,7.00
+wagons,1,1,7,7.00
+vocabulary,1,1,7,7.00
+vienna,1,1,7,7.00
+versailles,3,2,7,3.50
+utilizing,2,2,7,3.50
+unlikely,3,3,7,2.33
+union,1,1,7,7.00
+traded,2,2,7,3.50
+tordesillas,1,1,7,7.00
+together,2,2,7,3.50
+targeting,1,1,7,7.00
+tapped,1,1,7,7.00
+taking,1,1,7,7.00
+surrender,3,2,7,3.50
+subsequently,1,1,7,7.00
+subsequent,1,1,7,7.00
+subjugate,1,1,7,7.00
+spirit,1,1,7,7.00
+sorts,2,2,7,3.50
+sheds,1,1,7,7.00
+seas,1,1,7,7.00
+resourceful,1,1,7,7.00
+resistant,2,2,7,3.50
+relationship,3,2,7,3.50
+reject,2,1,7,7.00
+reflect,3,3,7,2.33
+reach,2,2,7,3.50
+raid,1,1,7,7.00
+push,2,2,7,3.50
+provisions,1,1,7,7.00
+proposition,1,1,7,7.00
+properly,2,2,7,3.50
+problems,2,2,7,3.50
+presume,1,1,7,7.00
+preoccupied,1,1,7,7.00
+potential,2,2,7,3.50
+pope,1,1,7,7.00
+perspective,1,1,7,7.00
+paul,2,2,7,3.50
+pacific,5,2,7,3.50
+overthrowing,1,1,7,7.00
+oral,1,1,7,7.00
+opportunities,1,1,7,7.00
+opinions,2,1,7,7.00
+northerners,1,1,7,7.00
+neither,2,2,7,3.50
+need,3,3,7,2.33
+navis,1,1,7,7.00
+nationalprestige,1,1,7,7.00
+napoleon,1,1,7,7.00
+mughal,2,2,7,3.50
+mr,1,1,7,7.00
+motivated,1,1,7,7.00
+monopoly,3,1,7,7.00
+monday,1,1,7,7.00
+monarchy,2,2,7,3.50
+mitigate,1,1,7,7.00
+meeting,1,1,7,7.00
+mcpherson,1,1,7,7.00
+maximize,1,1,7,7.00
+mamluk,2,1,7,7.00
+lose,1,1,7,7.00
+llun,1,1,7,7.00
+listening,2,2,7,3.50
+lincoln,1,1,7,7.00
+library,1,1,7,7.00
+kearns,1,1,7,7.00
+jay,1,1,7,7.00
+james,1,1,7,7.00
+issued,2,1,7,7.00
+intensive,1,1,7,7.00
+input,2,2,7,3.50
+indicated,2,2,7,3.50
+immigration,1,1,7,7.00
+idiot,1,1,7,7.00
+ideologies,3,2,7,3.50
+hugo,1,1,7,7.00
+horses,1,1,7,7.00
+grotius,1,1,7,7.00
+grapes,4,2,7,3.50
+goodwin,1,1,7,7.00
+gods,1,1,7,7.00
+glory,1,1,7,7.00
+german,4,3,7,2.33
+geography,1,1,7,7.00
+frontier,2,2,7,3.50
+friendly,2,2,7,3.50
+foreign,4,1,7,7.00
+field,2,2,7,3.50
+familiar,2,2,7,3.50
+ending,1,1,7,7.00
+dydd,1,1,7,7.00
+driven,1,1,7,7.00
+doubt,2,2,7,3.50
+doublechecking,1,1,7,7.00
+doris,1,1,7,7.00
+dominating,2,1,7,7.00
+discovery,2,1,7,7.00
+discoveries,1,1,7,7.00
+diffusion,1,1,7,7.00
+desire,1,1,7,7.00
+deciding,1,1,7,7.00
+currently,3,3,7,2.33
+cry,2,2,7,3.50
+crusading,1,1,7,7.00
+creating,2,2,7,3.50
+created,3,2,7,3.50
+copper,1,1,7,7.00
+continuity,2,2,7,3.50
+constantly,2,2,7,3.50
+conglomerate,1,1,7,7.00
+conflict,3,3,7,2.33
+comingling,1,1,7,7.00
+colonialisation,1,1,7,7.00
+circumvent,1,1,7,7.00
+chinese,3,2,7,3.50
+characteristic,2,2,7,3.50
+cavalry,1,1,7,7.00
+catton,1,1,7,7.00
+capturing,1,1,7,7.00
+bruce,1,1,7,7.00
+brought,4,3,7,2.33
+bronze,1,1,7,7.00
+broken,1,1,7,7.00
+bottom,2,2,7,3.50
+backwater,1,1,7,7.00
+austrian,1,1,7,7.00
+aristocracy,2,2,7,3.50
+argue,1,1,7,7.00
+approved,1,1,7,7.00
+antimuslim,1,1,7,7.00
+alternative,1,1,7,7.00
+agriculture,1,1,7,7.00
+absence,3,1,7,7.00
+1815,1,1,7,7.00
+17th,1,1,7,7.00
+1796,1,1,7,7.00
+1713,2,1,7,7.00
+1559,2,1,7,7.00
+1494,1,1,7,7.00
+zargos,1,1,6,6.00
+xiv,2,1,6,6.00
+william,1,1,6,6.00
+weaving,1,1,6,6.00
+virginbirth,1,1,6,6.00
+vietnam,3,2,6,3.00
+varieties,3,2,6,3.00
+unequaled,1,1,6,6.00
+understands,1,1,6,6.00
+typical,4,3,6,2.00
+translation,1,1,6,6.00
+translate,2,2,6,3.00
+threw,1,1,6,6.00
+thereafter,1,1,6,6.00
+theodore,1,1,6,6.00
+technological,1,1,6,6.00
+tear,1,1,6,6.00
+tax,4,2,6,3.00
+supporters,1,1,6,6.00
+suffering,1,1,6,6.00
+subjective,2,2,6,3.00
+steppe,1,1,6,6.00
+stating,1,1,6,6.00
+statebuilding,1,1,6,6.00
+stateand,1,1,6,6.00
+starting,3,2,6,3.00
+stake,2,2,6,3.00
+spiritual,1,1,6,6.00
+spainportugal,1,1,6,6.00
+sophisticated,1,1,6,6.00
+sometime,2,2,6,3.00
+significance,1,1,6,6.00
+shifts,1,1,6,6.00
+shellshock,1,1,6,6.00
+shed,2,2,6,3.00
+shaszbotter,1,1,6,6.00
+share,1,1,6,6.00
+seargent,1,1,6,6.00
+searching,2,2,6,3.00
+resonance,1,1,6,6.00
+remarkable,2,2,6,3.00
+reign,2,2,6,3.00
+reich,2,2,6,3.00
+regions,2,2,6,3.00
+recovered,3,2,6,3.00
+recognise,1,1,6,6.00
+realm,1,1,6,6.00
+rate,2,2,6,3.00
+rallying,1,1,6,6.00
+quote,2,2,6,3.00
+quotation,3,2,6,3.00
+ptsd,1,1,6,6.00
+psalm,2,1,6,6.00
+provides,1,1,6,6.00
+pronunciation,2,2,6,3.00
+privileges,2,2,6,3.00
+press,1,1,6,6.00
+preference,1,1,6,6.00
+ports,3,2,6,3.00
+portions,1,1,6,6.00
+planlegislature,1,1,6,6.00
+perception,3,3,6,2.00
+outer,1,1,6,6.00
+offices,1,1,6,6.00
+notes,1,1,6,6.00
+noted,3,2,6,3.00
+norms,2,2,6,3.00
+nonnoble,1,1,6,6.00
+nomadic,1,1,6,6.00
+nazi,2,2,6,3.00
+names,2,2,6,3.00
+namely,1,1,6,6.00
+morning,1,1,6,6.00
+mopsuestia,1,1,6,6.00
+mongols,1,1,6,6.00
+momentum,2,2,6,3.00
+migrated,1,1,6,6.00
+loyal,1,1,6,6.00
+london,3,2,6,3.00
+links,2,2,6,3.00
+leopold,2,1,6,6.00
+leftover,1,1,6,6.00
+lecture,1,1,6,6.00
+knows,2,2,6,3.00
+knights,1,1,6,6.00
+kicked,1,1,6,6.00
+josephus,1,1,6,6.00
+join,3,2,6,3.00
+italians,2,2,6,3.00
+inviting,1,1,6,6.00
+interests,2,1,6,6.00
+intendants,1,1,6,6.00
+insight,1,1,6,6.00
+influences,2,2,6,3.00
+increased,2,2,6,3.00
+ii,1,1,6,6.00
+huns,1,1,6,6.00
+horsemanship,1,1,6,6.00
+hold,2,2,6,3.00
+hill,2,2,6,3.00
+highpriest,1,1,6,6.00
+helped,1,1,6,6.00
+hello,2,2,6,3.00
+handed,1,1,6,6.00
+googling,1,1,6,6.00
+gamble,1,1,6,6.00
+futile,1,1,6,6.00
+fulfilling,1,1,6,6.00
+fulfilled,1,1,6,6.00
+forever,1,1,6,6.00
+finalized,2,2,6,3.00
+favors,1,1,6,6.00
+failed,2,2,6,3.00
+enjoyed,2,2,6,3.00
+duc,2,1,6,6.00
+dualfulfilment,1,1,6,6.00
+distribute,1,1,6,6.00
+diaspora,1,1,6,6.00
+defacto,1,1,6,6.00
+dear,1,1,6,6.00
+deadlocked,1,1,6,6.00
+david,2,2,6,3.00
+danjou,1,1,6,6.00
+crucified,1,1,6,6.00
+courts,3,2,6,3.00
+cordoba,2,2,6,3.00
+coopted,1,1,6,6.00
+cooler,1,1,6,6.00
+congo,2,1,6,6.00
+concerning,2,1,6,6.00
+commentators,1,1,6,6.00
+clover,1,1,6,6.00
+clothing,2,1,6,6.00
+clothes,1,1,6,6.00
+clauses,1,1,6,6.00
+classs,1,1,6,6.00
+clarify,2,2,6,3.00
+christian,16,2,6,3.00
+centred,1,1,6,6.00
+cast,1,1,6,6.00
+call,2,2,6,3.00
+bureaucratic,1,1,6,6.00
+bureaucracy,1,1,6,6.00
+building,2,1,6,6.00
+bow,1,1,6,6.00
+berry,2,1,6,6.00
+belgian,1,1,6,6.00
+beik,1,1,6,6.00
+behaviour,5,2,6,3.00
+avenue,1,1,6,6.00
+available,2,2,6,3.00
+attire,2,2,6,3.00
+assisted,1,1,6,6.00
+aristocrats,1,1,6,6.00
+argumenttoo,1,1,6,6.00
+applicable,1,1,6,6.00
+antiquities,1,1,6,6.00
+anjou,1,1,6,6.00
+alandalus,7,2,6,3.00
+aforementioned,1,1,6,6.00
+advantage,1,1,6,6.00
+administrators,1,1,6,6.00
+ad,2,2,6,3.00
+absolutism,1,1,6,6.00
+9th,2,2,6,3.00
+81216,1,1,6,6.00
+3161,1,1,6,6.00
+24,1,1,6,6.00
+2324,1,1,6,6.00
+22,1,1,6,6.00
+19,1,1,6,6.00
+101,2,1,6,6.00
+zionist,1,1,5,5.00
+zionism,1,1,5,5.00
+zealotry,1,1,5,5.00
+yugoslavia,1,1,5,5.00
+youtube,1,1,5,5.00
+write,1,1,5,5.00
+worst,2,2,5,2.50
+worker,1,1,5,5.00
+wolf,1,1,5,5.00
+witan,1,1,5,5.00
+wish,1,1,5,5.00
+winbuy,1,1,5,5.00
+widely,2,2,5,2.50
+whilst,1,1,5,5.00
+whie,1,1,5,5.00
+wessex,1,1,5,5.00
+welcoming,1,1,5,5.00
+weekly,1,1,5,5.00
+weary,1,1,5,5.00
+warred,1,1,5,5.00
+warlords,1,1,5,5.00
+warfare,1,1,5,5.00
+ward,1,1,5,5.00
+votes,1,1,5,5.00
+voices,1,1,5,5.00
+visions,1,1,5,5.00
+vis,2,1,5,5.00
+victories,1,1,5,5.00
+victor,1,1,5,5.00
+victimhood,1,1,5,5.00
+veterans,1,1,5,5.00
+vesetiges,1,1,5,5.00
+varietals,1,1,5,5.00
+usunagainstgold,1,1,5,5.00
+users,3,3,5,1.67
+user,1,1,5,5.00
+unquestionably,1,1,5,5.00
+unprecedented,1,1,5,5.00
+uniformity,1,1,5,5.00
+unified,2,1,5,5.00
+unelected,1,1,5,5.00
+underclass,1,1,5,5.00
+umayyads,4,1,5,5.00
+u,1,1,5,5.00
+turbulent,1,1,5,5.00
+tries,1,1,5,5.00
+translating,1,1,5,5.00
+transitioning,1,1,5,5.00
+transformative,1,1,5,5.00
+traits,1,1,5,5.00
+tragically,1,1,5,5.00
+tool,1,1,5,5.00
+tomorrow,1,1,5,5.00
+toleration,1,1,5,5.00
+title,1,1,5,5.00
+thrived,1,1,5,5.00
+thoughts,1,1,5,5.00
+theoretical,1,1,5,5.00
+theology,1,1,5,5.00
+theologising,1,1,5,5.00
+th,1,1,5,5.00
+technically,1,1,5,5.00
+taste,1,1,5,5.00
+talks,1,1,5,5.00
+talked,1,1,5,5.00
+taifa,1,1,5,5.00
+sword,1,1,5,5.00
+swathes,1,1,5,5.00
+suzerain,1,1,5,5.00
+surface,1,1,5,5.00
+suppose,1,1,5,5.00
+supplanted,1,1,5,5.00
+sunday,1,1,5,5.00
+summary,1,1,5,5.00
+suggestions,1,1,5,5.00
+suez,2,2,5,2.50
+succesion,1,1,5,5.00
+substitutionary,1,1,5,5.00
+substantial,1,1,5,5.00
+submit,1,1,5,5.00
+subjugation,2,1,5,5.00
+subalternity,6,1,5,5.00
+subaltern,8,1,5,5.00
+studies,2,1,5,5.00
+studied,1,1,5,5.00
+stressed,1,1,5,5.00
+standing,1,1,5,5.00
+stages,1,1,5,5.00
+stage,1,1,5,5.00
+spurned,1,1,5,5.00
+spivak,1,1,5,5.00
+speaking,1,1,5,5.00
+sounded,1,1,5,5.00
+solid,3,2,5,2.50
+socalled,1,1,5,5.00
+snobbery,1,1,5,5.00
+slavs,1,1,5,5.00
+slaves,1,1,5,5.00
+sketched,1,1,5,5.00
+six,2,2,5,2.50
+singing,1,1,5,5.00
+silk,1,1,5,5.00
+significant,1,1,5,5.00
+showing,2,2,5,2.50
+severely,1,1,5,5.00
+semitism,1,1,5,5.00
+semimagical,1,1,5,5.00
+semblance,1,1,5,5.00
+selfempowerment,1,1,5,5.00
+selective,1,1,5,5.00
+secondly,1,1,5,5.00
+se,1,1,5,5.00
+scotland,1,1,5,5.00
+scientific,1,1,5,5.00
+scholarship,1,1,5,5.00
+savagery,1,1,5,5.00
+samuel,1,1,5,5.00
+russian,3,3,5,1.67
+runs,1,1,5,5.00
+ruling,1,1,5,5.00
+ruled,1,1,5,5.00
+roughshod,1,1,5,5.00
+rose,1,1,5,5.00
+romanbyzantine,1,1,5,5.00
+robot,1,1,5,5.00
+rival,1,1,5,5.00
+ritualistically,1,1,5,5.00
+risk,2,1,5,5.00
+riding,1,1,5,5.00
+revolt,1,1,5,5.00
+revival,1,1,5,5.00
+retrospect,1,1,5,5.00
+restrict_sr,1,1,5,5.00
+resembling,1,1,5,5.00
+researched,1,1,5,5.00
+represents,1,1,5,5.00
+reported,1,1,5,5.00
+repartitioned,1,1,5,5.00
+reoriented,1,1,5,5.00
+remie,1,1,5,5.00
+releasing,1,1,5,5.00
+rejected,2,2,5,2.50
+regret,1,1,5,5.00
+regard,2,2,5,2.50
+reforms,1,1,5,5.00
+reflective,1,1,5,5.00
+references,3,2,5,2.50
+reconquista,1,1,5,5.00
+recognised,1,1,5,5.00
+recall,3,1,5,5.00
+reaching,1,1,5,5.00
+ranks,1,1,5,5.00
+rampant,1,1,5,5.00
+rambling,1,1,5,5.00
+raise,1,1,5,5.00
+quran,1,1,5,5.00
+quo,1,1,5,5.00
+quiet,1,1,5,5.00
+qualifies,1,1,5,5.00
+qualifier,1,1,5,5.00
+pushed,2,1,5,5.00
+purity,1,1,5,5.00
+puppet,1,1,5,5.00
+punitively,1,1,5,5.00
+punctuated,1,1,5,5.00
+property,1,1,5,5.00
+proper,1,1,5,5.00
+programed,1,1,5,5.00
+profitable,1,1,5,5.00
+produced,1,1,5,5.00
+prisoner,1,1,5,5.00
+principalities,2,1,5,5.00
+prime,1,1,5,5.00
+price,1,1,5,5.00
+preworld,1,1,5,5.00
+prevented,1,1,5,5.00
+preferable,1,1,5,5.00
+predilection,1,1,5,5.00
+precarity,1,1,5,5.00
+postimperialism,1,1,5,5.00
+postcolonial,1,1,5,5.00
+positive,1,1,5,5.00
+pose,1,1,5,5.00
+popularity,1,1,5,5.00
+populace,1,1,5,5.00
+pollard,2,1,5,5.00
+politicians,2,2,5,2.50
+playing,1,1,5,5.00
+plantation,1,1,5,5.00
+pisa,1,1,5,5.00
+permeates,1,1,5,5.00
+percived,1,1,5,5.00
+percent,1,1,5,5.00
+peninsula,1,1,5,5.00
+peace,1,1,5,5.00
+payments,1,1,5,5.00
+paused,1,1,5,5.00
+patronymic,1,1,5,5.00
+patients,1,1,5,5.00
+patientled,1,1,5,5.00
+patient,2,1,5,5.00
+passover,1,1,5,5.00
+passiveness,1,1,5,5.00
+partners,1,1,5,5.00
+paper,1,1,5,5.00
+pad,1,1,5,5.00
+othering,1,1,5,5.00
+othered,1,1,5,5.00
+organisations,1,1,5,5.00
+oppressive,1,1,5,5.00
+onamp,1,1,5,5.00
+olivia,1,1,5,5.00
+olivefriendly,1,1,5,5.00
+oct,2,2,5,2.50
+occupying,1,1,5,5.00
+occupy,1,1,5,5.00
+observes,1,1,5,5.00
+northumbria,2,1,5,5.00
+norsemen,1,1,5,5.00
+norman,2,1,5,5.00
+normalised,1,1,5,5.00
+noblemen,1,1,5,5.00
+nine,1,1,5,5.00
+nice,1,1,5,5.00
+newamp,1,1,5,5.00
+neill,1,1,5,5.00
+ned,3,3,5,1.67
+necessarily,1,1,5,5.00
+neartotality,1,1,5,5.00
+nearly,1,1,5,5.00
+naval,2,2,5,2.50
+narrative,6,1,5,5.00
+n,1,1,5,5.00
+muslimruled,1,1,5,5.00
+mozarabs,1,1,5,5.00
+movement,1,1,5,5.00
+moriscos,1,1,5,5.00
+monks,1,1,5,5.00
+monasteries,1,1,5,5.00
+missed,1,1,5,5.00
+misconceptions,1,1,5,5.00
+mints,1,1,5,5.00
+minting,1,1,5,5.00
+minister,1,1,5,5.00
+miller,3,2,5,2.50
+migraines,1,1,5,5.00
+middleeastern,1,1,5,5.00
+method,2,2,5,2.50
+metalwork,1,1,5,5.00
+mercia,1,1,5,5.00
+mercenary,1,1,5,5.00
+mercenaries,2,1,5,5.00
+mentality,1,1,5,5.00
+mentalemotional,1,1,5,5.00
+members,1,1,5,5.00
+medinamecca,1,1,5,5.00
+medicalise,1,1,5,5.00
+medical,3,1,5,5.00
+meaningful,2,1,5,5.00
+massacres,1,1,5,5.00
+marked,1,1,5,5.00
+maritime,1,1,5,5.00
+marginality,1,1,5,5.00
+marginalised,1,1,5,5.00
+manuscripts,1,1,5,5.00
+manufacturing,1,1,5,5.00
+manufactured,1,1,5,5.00
+malaria,1,1,5,5.00
+makers,1,1,5,5.00
+majority,3,3,5,1.67
+luxury,1,1,5,5.00
+luke,4,1,5,5.00
+lsine,1,1,5,5.00
+loyalty,1,1,5,5.00
+looted,1,1,5,5.00
+living,1,1,5,5.00
+limiting,1,1,5,5.00
+lies,1,1,5,5.00
+levies,2,1,5,5.00
+lessthanpious,1,1,5,5.00
+lesspious,1,1,5,5.00
+lesser,1,1,5,5.00
+legitimised,1,1,5,5.00
+legitimacy,1,1,5,5.00
+legendary,1,1,5,5.00
+leads,1,1,5,5.00
+laypeople,1,1,5,5.00
+kirsten,1,1,5,5.00
+kings,3,1,5,5.00
+kingdomgs,1,1,5,5.00
+kindle,1,1,5,5.00
+justin,2,1,5,5.00
+joseph,1,1,5,5.00
+jokes,1,1,5,5.00
+jizya,1,1,5,5.00
+israeli,2,1,5,5.00
+israel,1,1,5,5.00
+isolation,1,1,5,5.00
+islesy,1,1,5,5.00
+islam,2,1,5,5.00
+iraq,3,2,5,2.50
+iran,4,2,5,2.50
+involvement,1,1,5,5.00
+invited,1,1,5,5.00
+introduced,1,1,5,5.00
+intersection,1,1,5,5.00
+interreligious,1,1,5,5.00
+international,1,1,5,5.00
+intermarriage,1,1,5,5.00
+interestingly,1,1,5,5.00
+intentionally,1,1,5,5.00
+intensity,1,1,5,5.00
+intellectual,1,1,5,5.00
+insurrection,2,1,5,5.00
+inscribe,1,1,5,5.00
+inquiry,1,1,5,5.00
+injured,1,1,5,5.00
+inherently,3,1,5,5.00
+inherent,1,1,5,5.00
+inevitably,1,1,5,5.00
+indicating,1,1,5,5.00
+incoherent,1,1,5,5.00
+include,1,1,5,5.00
+incidents,2,1,5,5.00
+improvement,1,1,5,5.00
+impose,2,1,5,5.00
+imply,1,1,5,5.00
+impair,1,1,5,5.00
+illustrating,1,1,5,5.00
+illness,2,1,5,5.00
+ignored,1,1,5,5.00
+ideology,1,1,5,5.00
+identity,1,1,5,5.00
+ideals,1,1,5,5.00
+iberians,1,1,5,5.00
+iberian,2,1,5,5.00
+iberia,4,1,5,5.00
+hysteria,2,1,5,5.00
+huddled,1,1,5,5.00
+htat,1,1,5,5.00
+hospital,1,1,5,5.00
+horrifying,1,1,5,5.00
+honorific,1,1,5,5.00
+honestly,1,1,5,5.00
+holdouts,1,1,5,5.00
+holdings,1,1,5,5.00
+hired,1,1,5,5.00
+hint,1,1,5,5.00
+heroic,1,1,5,5.00
+hell,1,1,5,5.00
+hegemonic,1,1,5,5.00
+heavy,2,1,5,5.00
+hear,2,1,5,5.00
+healthcare,2,1,5,5.00
+health,1,1,5,5.00
+harmful,1,1,5,5.00
+hanson,1,1,5,5.00
+guthrum,2,1,5,5.00
+guilty,1,1,5,5.00
+grow,1,1,5,5.00
+greet,1,1,5,5.00
+grandfather,1,1,5,5.00
+gramsci,1,1,5,5.00
+gradual,1,1,5,5.00
+governorship,1,1,5,5.00
+golden,1,1,5,5.00
+gnawed,1,1,5,5.00
+gloom,1,1,5,5.00
+glick,1,1,5,5.00
+germans,5,4,5,1.25
+geographic,1,1,5,5.00
+genoa,1,1,5,5.00
+generative,1,1,5,5.00
+gendered,2,1,5,5.00
+gelfhine,1,1,5,5.00
+gaels,1,1,5,5.00
+gaelic,2,1,5,5.00
+funny,2,2,5,2.50
+framing,1,1,5,5.00
+fractured,1,1,5,5.00
+fourth,3,2,5,2.50
+founded,1,1,5,5.00
+fought,4,3,5,1.67
+forcing,1,1,5,5.00
+foil,1,1,5,5.00
+focused,1,1,5,5.00
+fluoxetine,1,1,5,5.00
+flip,1,1,5,5.00
+fled,1,1,5,5.00
+flatten,1,1,5,5.00
+fitna,3,1,5,5.00
+firstly,1,1,5,5.00
+finds,1,1,5,5.00
+feudalism,1,1,5,5.00
+female,2,1,5,5.00
+featured,1,1,5,5.00
+favorably,1,1,5,5.00
+fascinatingly,1,1,5,5.00
+farmer,1,1,5,5.00
+extrapolating,1,1,5,5.00
+extraordinary,1,1,5,5.00
+externally,1,1,5,5.00
+experiencing,1,1,5,5.00
+exiled,1,1,5,5.00
+exerting,1,1,5,5.00
+exerted,1,1,5,5.00
+exercise,1,1,5,5.00
+excluding,1,1,5,5.00
+exaggerating,1,1,5,5.00
+evacuate,1,1,5,5.00
+eunuchs,7,1,5,5.00
+eunuch,2,1,5,5.00
+establishes,1,1,5,5.00
+entity,1,1,5,5.00
+emplaced,1,1,5,5.00
+el,2,2,5,2.50
+egbert,1,1,5,5.00
+effecient,1,1,5,5.00
+eddington,1,1,5,5.00
+economically,6,1,5,5.00
+drunkeness,1,1,5,5.00
+doom,1,1,5,5.00
+documenatry,1,1,5,5.00
+doctors,1,1,5,5.00
+divide,1,1,5,5.00
+disunity,1,1,5,5.00
+distorted,1,1,5,5.00
+disseminate,1,1,5,5.00
+disraeli,1,1,5,5.00
+disputing,1,1,5,5.00
+displays,1,1,5,5.00
+dismissed,1,1,5,5.00
+disloyal,1,1,5,5.00
+discussed,1,1,5,5.00
+discouraged,1,1,5,5.00
+disable,1,1,5,5.00
+digest,1,1,5,5.00
+differentlyabled,1,1,5,5.00
+died,1,1,5,5.00
+diagnoses,1,1,5,5.00
+dhimmis,1,1,5,5.00
+deviating,1,1,5,5.00
+deviated,1,1,5,5.00
+devasting,1,1,5,5.00
+devastating,2,1,5,5.00
+destructive,1,1,5,5.00
+derives,1,1,5,5.00
+derbfhine,1,1,5,5.00
+depends,1,1,5,5.00
+dependent,1,1,5,5.00
+demanding,1,1,5,5.00
+demanded,1,1,5,5.00
+deep,1,1,5,5.00
+decisions,1,1,5,5.00
+decentralised,1,1,5,5.00
+deals,1,1,5,5.00
+dea,1,1,5,5.00
+damascus,1,1,5,5.00
+customlawhabit,1,1,5,5.00
+crux,1,1,5,5.00
+cruel,1,1,5,5.00
+creates,1,1,5,5.00
+coup,1,1,5,5.00
+countriesempires,1,1,5,5.00
+counsellors,1,1,5,5.00
+council,1,1,5,5.00
+correctly,2,1,5,5.00
+corrections,1,1,5,5.00
+correction,1,1,5,5.00
+corrected,1,1,5,5.00
+converting,3,1,5,5.00
+converted,1,1,5,5.00
+contains,1,1,5,5.00
+consumption,7,2,5,2.50
+construction,1,1,5,5.00
+constantinople,1,1,5,5.00
+constable,1,1,5,5.00
+consolidation,1,1,5,5.00
+confederation,2,1,5,5.00
+concerns,1,1,5,5.00
+comparison,1,1,5,5.00
+commodities,1,1,5,5.00
+committed,1,1,5,5.00
+commemorating,1,1,5,5.00
+coined,1,1,5,5.00
+coherent,1,1,5,5.00
+closer,2,2,5,2.50
+climatological,1,1,5,5.00
+clientship,1,1,5,5.00
+clergy,2,1,5,5.00
+clamped,1,1,5,5.00
+claim,1,1,5,5.00
+circumspect,1,1,5,5.00
+circummediterranean,1,1,5,5.00
+chroniclers,1,1,5,5.00
+christianjewish,1,1,5,5.00
+christiand,1,1,5,5.00
+chlamys,8,2,5,2.50
+chippenham,1,1,5,5.00
+cheesy,1,1,5,5.00
+chance,1,1,5,5.00
+ch,1,1,5,5.00
+cerealgrowing,1,1,5,5.00
+centralised,1,1,5,5.00
+centers,1,1,5,5.00
+celts,1,1,5,5.00
+celt,1,1,5,5.00
+celebrated,2,1,5,5.00
+caused,1,1,5,5.00
+cause,1,1,5,5.00
+category,1,1,5,5.00
+castrations,1,1,5,5.00
+castration,1,1,5,5.00
+castrati,1,1,5,5.00
+castrated,1,1,5,5.00
+casting,1,1,5,5.00
+carefully,1,1,5,5.00
+campaigning,1,1,5,5.00
+brus,1,1,5,5.00
+bring,1,1,5,5.00
+brilliant,1,1,5,5.00
+bribe,1,1,5,5.00
+brehon,1,1,5,5.00
+breaking,1,1,5,5.00
+brand,1,1,5,5.00
+boster,1,1,5,5.00
+border,1,1,5,5.00
+boom,1,1,5,5.00
+bloody,1,1,5,5.00
+bias,1,1,5,5.00
+bethesda,1,1,5,5.00
+beneficial,1,1,5,5.00
+believes,1,1,5,5.00
+behest,1,1,5,5.00
+begun,1,1,5,5.00
+beforehand,1,1,5,5.00
+baitandswitch,1,1,5,5.00
+bad,1,1,5,5.00
+backed,1,1,5,5.00
+aug,2,2,5,2.50
+attrition,1,1,5,5.00
+attempting,1,1,5,5.00
+atmosphere,1,1,5,5.00
+athelney,1,1,5,5.00
+asylums,1,1,5,5.00
+astounding,1,1,5,5.00
+arrival,1,1,5,5.00
+armiesa,1,1,5,5.00
+arise,1,1,5,5.00
+argued,1,1,5,5.00
+arabmuslim,1,1,5,5.00
+appropriate,1,1,5,5.00
+approaching,1,1,5,5.00
+appreciate,1,1,5,5.00
+apply,1,1,5,5.00
+appease,1,1,5,5.00
+apparatuses,1,1,5,5.00
+antisemitism,3,1,5,5.00
+anti,1,1,5,5.00
+antebellum,2,1,5,5.00
+anglia,2,1,5,5.00
+angle,1,1,5,5.00
+andalusi,4,1,5,5.00
+anarchic,1,1,5,5.00
+ambiguous,1,1,5,5.00
+amateur,1,1,5,5.00
+alternate,1,1,5,5.00
+almoravids,2,1,5,5.00
+almoravid,2,1,5,5.00
+almohads,2,1,5,5.00
+almohad,2,1,5,5.00
+alliances,1,1,5,5.00
+alike,1,1,5,5.00
+algorithmically,1,1,5,5.00
+alexandria,1,1,5,5.00
+alamein,2,2,5,2.50
+aim,1,1,5,5.00
+agricultural,2,2,5,2.50
+agnatic,1,1,5,5.00
+africanbased,1,1,5,5.00
+advocating,1,1,5,5.00
+advanced,1,1,5,5.00
+adopting,1,1,5,5.00
+accomplished,1,1,5,5.00
+accommodating,1,1,5,5.00
+accidental,1,1,5,5.00
+academics,1,1,5,5.00
+academic,1,1,5,5.00
+abroad,1,1,5,5.00
+ability,1,1,5,5.00
+_what,3,2,5,2.50
+877,1,1,5,5.00
+815,1,1,5,5.00
+3a,1,1,5,5.00
+23,1,1,5,5.00
+22sundaydigest,1,1,5,5.00
+22amp,1,1,5,5.00
+1980,1,1,5,5.00
+1933,1,1,5,5.00
+1860,1,1,5,5.00
+1800,1,1,5,5.00
+1789,3,1,5,5.00
+1781,1,1,5,5.00
+16,2,2,5,2.50
+1594,1,1,5,5.00
+15,1,1,5,5.00
+13th15th,1,1,5,5.00
+1325,1,1,5,5.00
+13151318,1,1,5,5.00
+12th13th,1,1,5,5.00
+11th13th,1,1,5,5.00
+11th,2,1,5,5.00
+1000,1,1,5,5.00
+witness,1,1,4,4.00
+windchill,1,1,4,4.00
+widespread,1,1,4,4.00
+wheat,2,1,4,4.00
+westwards,1,1,4,4.00
+weekend,1,1,4,4.00
+weapons,1,1,4,4.00
+wave,1,1,4,4.00
+vessels,1,1,4,4.00
+vegetables,1,1,4,4.00
+vase,2,2,4,2.00
+valley,1,1,4,4.00
+utf8amp,1,1,4,4.00
+units,4,2,4,2.00
+ungodly,1,1,4,4.00
+typified,1,1,4,4.00
+type,3,3,4,1.33
+turkey,1,1,4,4.00
+troop,1,1,4,4.00
+triangles,1,1,4,4.00
+traditions,1,1,4,4.00
+tmm_hrd_swatch_0,1,1,4,4.00
+throwing,1,1,4,4.00
+throughout,1,1,4,4.00
+texiles,1,1,4,4.00
+syria,1,1,4,4.00
+susa,1,1,4,4.00
+survived,1,1,4,4.00
+supply,1,1,4,4.00
+summarizing,1,1,4,4.00
+stress,2,2,4,2.00
+stove,1,1,4,4.00
+storage,1,1,4,4.00
+steadily,1,1,4,4.00
+staple,2,1,4,4.00
+sr,1,1,4,4.00
+spread,7,1,4,4.00
+spot,1,1,4,4.00
+spoiling,1,1,4,4.00
+spelling,1,1,4,4.00
+species,1,1,4,4.00
+southeast,1,1,4,4.00
+software,1,1,4,4.00
+smashed,1,1,4,4.00
+slippers,1,1,4,4.00
+signify,1,1,4,4.00
+sides,2,2,4,2.00
+serious,1,1,4,4.00
+sengoku,1,1,4,4.00
+seeps,1,1,4,4.00
+search,1,1,4,4.00
+scholarly,1,1,4,4.00
+sativa,1,1,4,4.00
+sales,1,1,4,4.00
+sailing,2,1,4,4.00
+russia,6,3,4,1.33
+routeplanning,1,1,4,4.00
+rmildlyinteresting,1,1,4,4.00
+river,1,1,4,4.00
+riceeating,1,1,4,4.00
+retroactively,1,1,4,4.00
+retinue,1,1,4,4.00
+remotely,1,1,4,4.00
+raven,2,1,4,4.00
+rare,1,1,4,4.00
+rachel,1,1,4,4.00
+qid,1,1,4,4.00
+pulao,1,1,4,4.00
+predominantly,1,1,4,4.00
+predates,1,1,4,4.00
+precolumbian,1,1,4,4.00
+port,1,1,4,4.00
+porridge,1,1,4,4.00
+podcaster,1,1,4,4.00
+plans,1,1,4,4.00
+pilaf,1,1,4,4.00
+persianized,1,1,4,4.00
+permitted,1,1,4,4.00
+periphery,1,1,4,4.00
+pearl,1,1,4,4.00
+partial,1,1,4,4.00
+papers,1,1,4,4.00
+paella,1,1,4,4.00
+outdoors,1,1,4,4.00
+ottomans,1,1,4,4.00
+oryza,5,1,4,4.00
+orbisstanfordedu,1,1,4,4.00
+orbis,1,1,4,4.00
+nuclear,4,2,4,2.00
+noting,1,1,4,4.00
+noticeably,1,1,4,4.00
+noob,1,1,4,4.00
+nile,1,1,4,4.00
+necessary,1,1,4,4.00
+montreal,1,1,4,4.00
+millennium,1,1,4,4.00
+meat,1,1,4,4.00
+marking,1,1,4,4.00
+manage,1,1,4,4.00
+lord,1,1,4,4.00
+loop,1,1,4,4.00
+livestock,1,1,4,4.00
+lebanon,1,1,4,4.00
+laudan,1,1,4,4.00
+lady,1,1,4,4.00
+kg,3,1,4,4.00
+jun,2,2,4,2.00
+japonica,2,1,4,4.00
+insufficient,1,1,4,4.00
+influenced,2,1,4,4.00
+indus,1,1,4,4.00
+indoors,1,1,4,4.00
+indigo,1,1,4,4.00
+indica,4,1,4,4.00
+increasing,1,1,4,4.00
+impossibility,1,1,4,4.00
+implements,1,1,4,4.00
+identify,1,1,4,4.00
+house,1,1,4,4.00
+heraldry,1,1,4,4.00
+heaters,1,1,4,4.00
+heat,2,1,4,4.00
+halt,1,1,4,4.00
+guessing,1,1,4,4.00
+grind,1,1,4,4.00
+grave,1,1,4,4.00
+granulated,1,1,4,4.00
+glaberrima,3,1,4,4.00
+genetics,1,1,4,4.00
+genetic,1,1,4,4.00
+fyrd,1,1,4,4.00
+frozen,1,1,4,4.00
+froze,1,1,4,4.00
+fatimid,2,2,4,2.00
+fast,1,1,4,4.00
+extreme,2,2,4,2.00
+extensive,1,1,4,4.00
+exposure,1,1,4,4.00
+etymologically,1,1,4,4.00
+episode,1,1,4,4.00
+engaged,2,2,4,2.00
+engage,1,1,4,4.00
+electric,1,1,4,4.00
+eat,1,1,4,4.00
+dude,1,1,4,4.00
+door,1,1,4,4.00
+dominated,1,1,4,4.00
+domesticated,2,1,4,4.00
+die,1,1,4,4.00
+desert,2,2,4,2.00
+derived,1,1,4,4.00
+delta,2,1,4,4.00
+degree,2,2,4,2.00
+deadly,1,1,4,4.00
+daylight,1,1,4,4.00
+cultivation,1,1,4,4.00
+cuisines,1,1,4,4.00
+cuisine,4,1,4,4.00
+cross,1,1,4,4.00
+cracks,1,1,4,4.00
+couscous,1,1,4,4.00
+cotton,1,1,4,4.00
+cool,1,1,4,4.00
+cooked,1,1,4,4.00
+conquests,1,1,4,4.00
+concerned,2,2,4,2.00
+combat,2,2,4,2.00
+coa,1,1,4,4.00
+classic,5,2,4,2.00
+clarification,2,2,4,2.00
+civilizations,1,1,4,4.00
+circles,1,1,4,4.00
+cheaper,1,1,4,4.00
+care,2,2,4,2.00
+capita,2,1,4,4.00
+caliphates,2,2,4,2.00
+bulghur,1,1,4,4.00
+brits,1,1,4,4.00
+breakdown,1,1,4,4.00
+boiled,1,1,4,4.00
+blankets,1,1,4,4.00
+beards,2,2,4,2.00
+beard,2,2,4,2.00
+bay,1,1,4,4.00
+barley,1,1,4,4.00
+banners,1,1,4,4.00
+banner,2,1,4,4.00
+average,1,1,4,4.00
+attributed,1,1,4,4.00
+astronomical,1,1,4,4.00
+assume,1,1,4,4.00
+asked,1,1,4,4.00
+armors,1,1,4,4.00
+arabs,1,1,4,4.00
+arabic,1,1,4,4.00
+apartment,1,1,4,4.00
+antagonists,1,1,4,4.00
+afghanistan,2,1,4,4.00
+added,1,1,4,4.00
+adapted,2,1,4,4.00
+absolute,1,1,4,4.00
+abbasid,2,2,4,2.00
+_when,2,2,4,2.00
+_encoding,1,1,4,4.00
+9000,1,1,4,4.00
+60,1,1,4,4.00
+4th,1,1,4,4.00
+40c,1,1,4,4.00
+3500,1,1,4,4.00
+2328,1,1,4,4.00
+2013,2,2,4,2.00
+1971,2,2,4,2.00
+1950s,2,2,4,2.00
+12,1,1,4,4.00
+11,3,2,4,2.00
+10000,1,1,4,4.00
+wore,2,1,3,3.00
+wikipedia,5,2,3,1.50
+wheelhouse,1,1,3,3.00
+west_,1,1,3,3.00
+voyages,1,1,3,3.00
+vitriolic,1,1,3,3.00
+uxuial,1,1,3,3.00
+uthe_alaskan,1,1,3,3.00
+usarah_fox,1,1,3,3.00
+uranium,1,1,3,3.00
+ups,1,1,3,3.00
+upheaval,2,1,3,3.00
+unoffered,1,1,3,3.00
+unit,3,2,3,1.50
+treats,1,1,3,3.00
+treason,1,1,3,3.00
+traumatic,1,1,3,3.00
+transition,1,1,3,3.00
+trajan,1,1,3,3.00
+thousands,2,2,3,1.50
+thompson,3,1,3,3.00
+thesis,1,1,3,3.00
+theological,2,1,3,3.00
+testing,3,1,3,3.00
+temple,1,1,3,3.00
+summer,1,1,3,3.00
+suggested,1,1,3,3.00
+successor,1,1,3,3.00
+style,3,2,3,1.50
+stretch,1,1,3,3.00
+strategy,2,2,3,1.50
+statement,2,1,3,3.00
+stands,1,1,3,3.00
+stalin,1,1,3,3.00
+spring,1,1,3,3.00
+sported,1,1,3,3.00
+specialists,1,1,3,3.00
+sixpart,2,2,3,1.50
+silly,1,1,3,3.00
+shorter,1,1,3,3.00
+shawl,1,1,3,3.00
+sexuality,2,2,3,1.50
+sexual,3,2,3,1.50
+settle,2,2,3,1.50
+series,2,2,3,1.50
+sept,1,1,3,3.00
+secretaryship,1,1,3,3.00
+secretary,2,1,3,3.00
+seamanship,1,1,3,3.00
+sacred,1,1,3,3.00
+sabotage,1,1,3,3.00
+rutherford,1,1,3,3.00
+rules,2,2,3,1.50
+risky,1,1,3,3.00
+revolutionaries,1,1,3,3.00
+resigned,1,1,3,3.00
+resignation,1,1,3,3.00
+resemble,1,1,3,3.00
+represented,1,1,3,3.00
+rendition,1,1,3,3.00
+renaissance,1,1,3,3.00
+recreationally,1,1,3,3.00
+reconstructions,1,1,3,3.00
+railroad,1,1,3,3.00
+rabble,2,1,3,3.00
+quit,1,1,3,3.00
+pursue,1,1,3,3.00
+punishment,1,1,3,3.00
+provincial,1,1,3,3.00
+province,1,1,3,3.00
+proposes,1,1,3,3.00
+production,2,1,3,3.00
+princeton,1,1,3,3.00
+previously,1,1,3,3.00
+pressured,1,1,3,3.00
+pouring,1,1,3,3.00
+postcolonialism,1,1,3,3.00
+pius,1,1,3,3.00
+pictures,1,1,3,3.00
+pictured,1,1,3,3.00
+pharisees,1,1,3,3.00
+periods,1,1,3,3.00
+patricia,1,1,3,3.00
+partisan,1,1,3,3.00
+paris,2,2,3,1.50
+pardon,1,1,3,3.00
+panama,2,1,3,3.00
+pamphleteer,1,1,3,3.00
+paintings,1,1,3,3.00
+painting,1,1,3,3.00
+overpowered,1,1,3,3.00
+overall,1,1,3,3.00
+organization,1,1,3,3.00
+nov,2,1,3,3.00
+normally,1,1,3,3.00
+noneuropean,1,1,3,3.00
+neolithic,1,1,3,3.00
+navy,2,1,3,3.00
+nathan,1,1,3,3.00
+mussolini,1,1,3,3.00
+mongol,1,1,3,3.00
+mild,1,1,3,3.00
+midwesterner,1,1,3,3.00
+maya,9,2,3,1.50
+materialism,4,1,3,3.00
+match,3,3,3,1.00
+marxist,1,1,3,3.00
+marxian,2,1,3,3.00
+marcus,1,1,3,3.00
+magna,1,1,3,3.00
+lobbyist,1,1,3,3.00
+lionel,1,1,3,3.00
+linen,1,1,3,3.00
+libation,1,1,3,3.00
+lenin,1,1,3,3.00
+leadership,2,2,3,1.50
+knew,2,2,3,1.50
+kingdom,1,1,3,3.00
+karenina,2,2,3,1.50
+iranian,1,1,3,3.00
+investment,1,1,3,3.00
+inspiration,1,1,3,3.00
+illustrated,1,1,3,3.00
+ignoring,1,1,3,3.00
+ignorance,1,1,3,3.00
+identification,1,1,3,3.00
+horrible,1,1,3,3.00
+hoplites,2,1,3,3.00
+hoplite,1,1,3,3.00
+hope,2,2,3,1.50
+homes,1,1,3,3.00
+hayes,2,1,3,3.00
+hadrian,1,1,3,3.00
+generate,1,1,3,3.00
+frankly,1,1,3,3.00
+formed,2,2,3,1.50
+flagrant,1,1,3,3.00
+finland,1,1,3,3.00
+finding,2,2,3,1.50
+fastest,1,1,3,3.00
+faq,1,1,3,3.00
+fanciful,1,1,3,3.00
+extending,1,1,3,3.00
+experience,3,3,3,1.00
+executing,1,1,3,3.00
+execute,1,1,3,3.00
+enthusiastic,1,1,3,3.00
+enabled,1,1,3,3.00
+elaborated,1,1,3,3.00
+education,5,2,3,1.50
+editorial,1,1,3,3.00
+easiest,1,1,3,3.00
+driving,1,1,3,3.00
+disorder,1,1,3,3.00
+discusses,1,1,3,3.00
+diplomatic,1,1,3,3.00
+determined,2,2,3,1.50
+determine,1,1,3,3.00
+destinations,1,1,3,3.00
+defenses,1,1,3,3.00
+damn,1,1,3,3.00
+cuirass,1,1,3,3.00
+crone,1,1,3,3.00
+credibility,1,1,3,3.00
+craft,1,1,3,3.00
+cover,1,1,3,3.00
+constantine,1,1,3,3.00
+component,1,1,3,3.00
+commonly,1,1,3,3.00
+committing,1,1,3,3.00
+color,2,2,3,1.50
+cloaks,1,1,3,3.00
+cleanshaven,1,1,3,3.00
+choose,1,1,3,3.00
+childe,1,1,3,3.00
+causing,1,1,3,3.00
+casson,1,1,3,3.00
+carta,1,1,3,3.00
+capone,1,1,3,3.00
+cabinet,1,1,3,3.00
+businesses,1,1,3,3.00
+brother,2,2,3,1.50
+broader,2,2,3,1.50
+boardwalk,1,1,3,3.00
+bible,1,1,3,3.00
+barrier,1,1,3,3.00
+avowed,1,1,3,3.00
+avoiding,1,1,3,3.00
+autumn,1,1,3,3.00
+aurelius,1,1,3,3.00
+attractive,1,1,3,3.00
+attitude,2,2,3,1.50
+attained,1,1,3,3.00
+artfully,1,1,3,3.00
+arm,2,1,3,3.00
+archaeological,3,1,3,3.00
+archaelogy,1,1,3,3.00
+appointment,1,1,3,3.00
+apparent,1,1,3,3.00
+antonius,1,1,3,3.00
+anticatholic,1,1,3,3.00
+answered,1,1,3,3.00
+anna,2,2,3,1.50
+allies,4,2,3,1.50
+aided,1,1,3,3.00
+affected,1,1,3,3.00
+adopters,1,1,3,3.00
+addresses,1,1,3,3.00
+accepted,1,1,3,3.00
+_ama,1,1,3,3.00
+40s,1,1,3,3.00
+39,1,1,3,3.00
+1960s,1,1,3,3.00
+1930s,1,1,3,3.00
+14,1,1,3,3.00
+5,1,1,3,3.00
+woodlands,1,1,2,2.00
+wo,1,1,2,2.00
+wild,1,1,2,2.00
+wiki_homework,1,1,2,2.00
+whatnot,1,1,2,2.00
+wes,1,1,2,2.00
+weirder,1,1,2,2.00
+wari,1,1,2,2.00
+waree,1,1,2,2.00
+walker,1,1,2,2.00
+wa,1,1,2,2.00
+vitale,1,1,2,2.00
+vines,3,1,2,2.00
+vertical,1,1,2,2.00
+variations,1,1,2,2.00
+valuable,1,1,2,2.00
+validate,1,1,2,2.00
+vagina,1,1,2,2.00
+uwhen_doves_cry,1,1,2,2.00
+utterly,1,1,2,2.00
+utabascun,1,1,2,2.00
+usearocksandtrees,1,1,2,2.00
+unscientific,1,1,2,2.00
+unable,2,2,2,1.00
+uklarok,1,1,2,2.00
+ujvlivs,1,1,2,2.00
+uiphikrates,1,1,2,2.00
+tunics,1,1,2,2.00
+trousers,1,1,2,2.00
+tricky,1,1,2,2.00
+trained,1,1,2,2.00
+trail,1,1,2,2.00
+toplevel,1,1,2,2.00
+tl,1,1,2,2.00
+tiwanaku,1,1,2,2.00
+tihuanaco,1,1,2,2.00
+threats,1,1,2,2.00
+thirdearly,1,1,2,2.00
+territories,1,1,2,2.00
+teewanahkoo,1,1,2,2.00
+tears,1,1,2,2.00
+taught,1,1,2,2.00
+tahlequah,1,1,2,2.00
+tactical,1,1,2,2.00
+tablia,1,1,2,2.00
+sweeping,1,1,2,2.00
+swapping,1,1,2,2.00
+survey,1,1,2,2.00
+supremacy,1,1,2,2.00
+styles,1,1,2,2.00
+struggling,1,1,2,2.00
+strategic,2,2,2,1.00
+strains,2,1,2,2.00
+stickball,1,1,2,2.00
+statesman,1,1,2,2.00
+stakes,1,1,2,2.00
+square,1,1,2,2.00
+spell,1,1,2,2.00
+soviets,5,2,2,1.00
+solemn,1,1,2,2.00
+sleeveless,1,1,2,2.00
+shoulder,1,1,2,2.00
+shots,1,1,2,2.00
+shoes,1,1,2,2.00
+shaping,1,1,2,2.00
+semicircular,1,1,2,2.00
+segments,1,1,2,2.00
+seeking,2,2,2,1.00
+secure,1,1,2,2.00
+ryan,1,1,2,2.00
+roots,2,1,2,2.00
+riders,1,1,2,2.00
+responsible,1,1,2,2.00
+respondents,1,1,2,2.00
+remind,1,1,2,2.00
+remembrance,1,1,2,2.00
+reliable,1,1,2,2.00
+relationships,2,2,2,1.00
+reinforced,1,1,2,2.00
+region,2,2,2,1.00
+refuted,1,1,2,2.00
+reform,2,1,2,2.00
+referred,1,1,2,2.00
+rectangular,1,1,2,2.00
+reconcile,1,1,2,2.00
+rebuilding,1,1,2,2.00
+ravenna,1,1,2,2.00
+raskhistorians_,1,1,2,2.00
+quechuaaymara,1,1,2,2.00
+pulling,1,1,2,2.00
+pros,1,1,2,2.00
+proposal,1,1,2,2.00
+pronounced,2,1,2,2.00
+prone,1,1,2,2.00
+project,1,1,2,2.00
+procreation,1,1,2,2.00
+procession,1,1,2,2.00
+preserved,1,1,2,2.00
+present,1,1,2,2.00
+prefixes,1,1,2,2.00
+prefederation,1,1,2,2.00
+preface,1,1,2,2.00
+preexisting,1,1,2,2.00
+precise,1,1,2,2.00
+policies,1,1,2,2.00
+podcast,1,1,2,2.00
+plural,1,1,2,2.00
+player,2,1,2,2.00
+pilgrim,1,1,2,2.00
+phylloxera,1,1,2,2.00
+pet,1,1,2,2.00
+permit,1,1,2,2.00
+penises,1,1,2,2.00
+peeve,1,1,2,2.00
+patterning,1,1,2,2.00
+patterned,2,1,2,2.00
+pattern,1,1,2,2.00
+pathogen,1,1,2,2.00
+patches,1,1,2,2.00
+paramilitary,1,1,2,2.00
+pair,1,1,2,2.00
+pages,1,1,2,2.00
+page_id,1,1,2,2.00
+outflanked,1,1,2,2.00
+onward,1,1,2,2.00
+oklahomaindian,1,1,2,2.00
+okla,1,1,2,2.00
+ok,1,1,2,2.00
+officials,1,1,2,2.00
+officialdom,1,1,2,2.00
+objectively,1,1,2,2.00
+nofire,1,1,2,2.00
+neoplatonism,1,1,2,2.00
+nazis,3,2,2,1.00
+narratives,1,1,2,2.00
+muscogee,1,1,2,2.00
+mosaic,1,1,2,2.00
+moreover,1,1,2,2.00
+morals,1,1,2,2.00
+modernity,1,1,2,2.00
+metric,3,1,2,2.00
+metal,1,1,2,2.00
+meta,1,1,2,2.00
+mayan,2,1,2,2.00
+maureen,1,1,2,2.00
+markers,1,1,2,2.00
+manner,1,1,2,2.00
+manifest,1,1,2,2.00
+macaurther,1,1,2,2.00
+lives,1,1,2,2.00
+linguistic,1,1,2,2.00
+letters,3,2,2,1.00
+larger,1,1,2,2.00
+largely,1,1,2,2.00
+lacrosse,3,1,2,2.00
+lacks,1,1,2,2.00
+kelly,1,1,2,2.00
+justinian,1,1,2,2.00
+johnson,1,1,2,2.00
+jelly,1,1,2,2.00
+intro,1,1,2,2.00
+internecine,1,1,2,2.00
+interchange,1,1,2,2.00
+instruments,1,1,2,2.00
+insect,1,1,2,2.00
+inkasouth,1,1,2,2.00
+influx,1,1,2,2.00
+inedible,1,1,2,2.00
+indigenous,1,1,2,2.00
+incas,2,1,2,2.00
+incan,1,1,2,2.00
+inca,3,1,2,2.00
+images,1,1,2,2.00
+iimgurcomrje6iwtjpg,1,1,2,2.00
+icon,1,1,2,2.00
+hunting,2,1,2,2.00
+hugh,1,1,2,2.00
+huari,1,1,2,2.00
+huagua,1,1,2,2.00
+hose,1,1,2,2.00
+holocaust,2,1,2,2.00
+holiness,1,1,2,2.00
+heavyweight,1,1,2,2.00
+halfcreek,1,1,2,2.00
+guilt,1,1,2,2.00
+gregorian,1,1,2,2.00
+grape,4,1,2,2.00
+grafted,2,1,2,2.00
+gnostic,1,1,2,2.00
+girlfriend,1,1,2,2.00
+galenic,1,1,2,2.00
+fractions,2,1,2,2.00
+foucault,2,1,2,2.00
+footed,1,1,2,2.00
+foibles,1,1,2,2.00
+flavor,2,1,2,2.00
+flaired,1,1,2,2.00
+fits,1,1,2,2.00
+fine,2,2,2,1.00
+films,1,1,2,2.00
+figurehead,1,1,2,2.00
+fields,1,1,2,2.00
+fed,1,1,2,2.00
+fathers,1,1,2,2.00
+fastened,1,1,2,2.00
+ethnic,2,1,2,2.00
+episcopal,1,1,2,2.00
+entirety,1,1,2,2.00
+enlighten,1,1,2,2.00
+enemies,1,1,2,2.00
+emancipation,1,1,2,2.00
+eight,2,2,2,1.00
+educated,3,1,2,2.00
+edges,1,1,2,2.00
+ease,1,1,2,2.00
+dualism,1,1,2,2.00
+dr,1,1,2,2.00
+disputes,1,1,2,2.00
+discussions,1,1,2,2.00
+dirteater,1,1,2,2.00
+directly,1,1,2,2.00
+dig,1,1,2,2.00
+describes,1,1,2,2.00
+depicts,1,1,2,2.00
+depicting,1,1,2,2.00
+denoted,1,1,2,2.00
+definite,1,1,2,2.00
+defined,1,1,2,2.00
+deerskins,1,1,2,2.00
+decimated,1,1,2,2.00
+dec,1,1,2,2.00
+curious,1,1,2,2.00
+crossing,1,1,2,2.00
+crossbowshaped,1,1,2,2.00
+creeks,1,1,2,2.00
+creek,1,1,2,2.00
+crafted,1,1,2,2.00
+cowboys,1,1,2,2.00
+costume,1,1,2,2.00
+coptic,2,1,2,2.00
+contact,1,1,2,2.00
+constructions,1,1,2,2.00
+cons,1,1,2,2.00
+conducting,1,1,2,2.00
+concord,2,1,2,2.00
+conclusions,1,1,2,2.00
+competing,2,1,2,2.00
+colored,1,1,2,2.00
+clerical,1,1,2,2.00
+classified,1,1,2,2.00
+civilian,3,1,2,2.00
+citizen,1,1,2,2.00
+citing,1,1,2,2.00
+christie,1,1,2,2.00
+cherokees,5,1,2,2.00
+cherokee,3,1,2,2.00
+carrying,1,1,2,2.00
+carolyn,1,1,2,2.00
+capitals,1,1,2,2.00
+capital,1,1,2,2.00
+capabilities,1,1,2,2.00
+campagi,1,1,2,2.00
+calling,1,1,2,2.00
+calculation,1,1,2,2.00
+bynum,1,1,2,2.00
+bull,1,1,2,2.00
+brown,1,1,2,2.00
+broad,1,1,2,2.00
+broach,1,1,2,2.00
+britishfrench,1,1,2,2.00
+boxers,1,1,2,2.00
+block,1,1,2,2.00
+blights,1,1,2,2.00
+blight,1,1,2,2.00
+blas,1,1,2,2.00
+berlin,1,1,2,2.00
+belt,1,1,2,2.00
+beginnings,1,1,2,2.00
+badge,1,1,2,2.00
+aversion,1,1,2,2.00
+australian,1,1,2,2.00
+attacks,1,1,2,2.00
+attacked,1,1,2,2.00
+attached,1,1,2,2.00
+atlas,1,1,2,2.00
+associated,1,1,2,2.00
+ascetic,1,1,2,2.00
+armed,1,1,2,2.00
+approximately,1,1,2,2.00
+appreciative,1,1,2,2.00
+anywhere,1,1,2,2.00
+antiquity,1,1,2,2.00
+announcement,1,1,2,2.00
+announced,1,1,2,2.00
+anklelength,1,1,2,2.00
+alsacelorraine,1,1,2,2.00
+alliance,1,1,2,2.00
+aesthetics,1,1,2,2.00
+acres,1,1,2,2.00
+_how,1,1,2,2.00
+8th,3,2,2,1.00
+53,1,1,2,2.00
+40000,1,1,2,2.00
+2nd,1,1,2,2.00
+27,1,1,2,2.00
+257,1,1,2,2.00
+237,1,1,2,2.00
+20c,1,1,2,2.00
+2003,1,1,2,2.00
+1977,1,1,2,2.00
+1870,1,1,2,2.00
+1850,1,1,2,2.00
+13,1,1,2,2.00
+7,1,1,2,2.00
+3,1,1,2,2.00
+2,1,1,2,2.00
+yt,1,1,1,1.00
+wwwyoutubecomwatch,1,1,1,1.00
+ww1,2,1,1,1.00
+worms,1,1,1,1.00
+worked,1,1,1,1.00
+wolfgang,1,1,1,1.00
+wilbert,1,1,1,1.00
+whereas,1,1,1,1.00
+westward,1,1,1,1.00
+weakening,1,1,1,1.00
+weak,1,1,1,1.00
+warning,1,1,1,1.00
+viewer,1,1,1,1.00
+videos,1,1,1,1.00
+video,1,1,1,1.00
+victory,1,1,1,1.00
+velocity,1,1,1,1.00
+varied,1,1,1,1.00
+variation,1,1,1,1.00
+ussr,2,1,1,1.00
+useless,2,1,1,1.00
+upper,1,1,1,1.00
+upload,2,1,1,1.00
+upheavals,1,1,1,1.00
+unofficial,1,1,1,1.00
+unite,1,1,1,1.00
+unitary,1,1,1,1.00
+unhurried,1,1,1,1.00
+unfunny,1,1,1,1.00
+undergrad,1,1,1,1.00
+uncommon,1,1,1,1.00
+ukeyilan,1,1,1,1.00
+uk,1,1,1,1.00
+tutors,1,1,1,1.00
+turmoil,1,1,1,1.00
+turks,1,1,1,1.00
+turkish,2,1,1,1.00
+tucano,1,1,1,1.00
+truck,1,1,1,1.00
+tripoli,1,1,1,1.00
+travelled,1,1,1,1.00
+transported,1,1,1,1.00
+transit,1,1,1,1.00
+traditionally,1,1,1,1.00
+track,1,1,1,1.00
+toyota,1,1,1,1.00
+total,1,1,1,1.00
+torches,1,1,1,1.00
+tobruk,1,1,1,1.00
+tobacconist,1,1,1,1.00
+tobacco,6,1,1,1.00
+timestamp,1,1,1,1.00
+tikal,1,1,1,1.00
+tick,1,1,1,1.00
+thru,1,1,1,1.00
+theoretically,1,1,1,1.00
+thats,1,1,1,1.00
+tests,2,1,1,1.00
+territorial,1,1,1,1.00
+teenagers,1,1,1,1.00
+taube,1,1,1,1.00
+tanya,1,1,1,1.00
+tangible,1,1,1,1.00
+synesthetic,1,1,1,1.00
+symbols,1,1,1,1.00
+sunni,1,1,1,1.00
+suff,1,1,1,1.00
+sucked,1,1,1,1.00
+substance,1,1,1,1.00
+stuart,1,1,1,1.00
+strength,1,1,1,1.00
+stone,1,1,1,1.00
+stogies,1,1,1,1.00
+stillwell,1,1,1,1.00
+sticky,1,1,1,1.00
+stephen,1,1,1,1.00
+steam,1,1,1,1.00
+stationed,1,1,1,1.00
+stamps,1,1,1,1.00
+span,1,1,1,1.00
+sovietschinese,1,1,1,1.00
+soviet,2,1,1,1.00
+solar,1,1,1,1.00
+sods,1,1,1,1.00
+sociable,2,1,1,1.00
+smoking,2,1,1,1.00
+smoked,2,1,1,1.00
+smoke,2,1,1,1.00
+smith,1,1,1,1.00
+smet,1,1,1,1.00
+smallest,1,1,1,1.00
+significantly,1,1,1,1.00
+signed,1,1,1,1.00
+shave,1,1,1,1.00
+seventeenth,1,1,1,1.00
+servants,1,1,1,1.00
+separated,1,1,1,1.00
+send,1,1,1,1.00
+selffocused,1,1,1,1.00
+sealed,1,1,1,1.00
+scrupulously,1,1,1,1.00
+scoffed,1,1,1,1.00
+school,1,1,1,1.00
+schivelbusch,1,1,1,1.00
+scandinavia,1,1,1,1.00
+save,1,1,1,1.00
+saint,1,1,1,1.00
+rudy,1,1,1,1.00
+rommel,1,1,1,1.00
+rome,1,1,1,1.00
+robinson,1,1,1,1.00
+ritual,1,1,1,1.00
+rhodesian,1,1,1,1.00
+rhodesia,1,1,1,1.00
+reputation,1,1,1,1.00
+republic,2,1,1,1.00
+reports,1,1,1,1.00
+replete,1,1,1,1.00
+reinforcements,1,1,1,1.00
+regularly,1,1,1,1.00
+refusing,2,2,1,0.50
+reformed,1,1,1,1.00
+rediscovering,1,1,1,1.00
+recommendation,1,1,1,1.00
+recognition,1,1,1,1.00
+reasonable,1,1,1,1.00
+reacquire,1,1,1,1.00
+reached,1,1,1,1.00
+rates,1,1,1,1.00
+ragnar,1,1,1,1.00
+racist,1,1,1,1.00
+quantities,1,1,1,1.00
+qh15x_ddrju,1,1,1,1.00
+punish,1,1,1,1.00
+proclaimed,1,1,1,1.00
+prized,1,1,1,1.00
+prevent,1,1,1,1.00
+presentday,1,1,1,1.00
+prejudice,1,1,1,1.00
+preintegration,1,1,1,1.00
+precarious,1,1,1,1.00
+posturing,1,1,1,1.00
+postintegration,1,1,1,1.00
+postenlightenment,1,1,1,1.00
+poorly,1,1,1,1.00
+pomerium,1,1,1,1.00
+polity,1,1,1,1.00
+polities,2,1,1,1.00
+pledging,1,1,1,1.00
+pleasure,1,1,1,1.00
+pleased,1,1,1,1.00
+plate,1,1,1,1.00
+planets,1,1,1,1.00
+pissed,1,1,1,1.00
+pipes,1,1,1,1.00
+pipe,1,1,1,1.00
+phenomenon,1,1,1,1.00
+pg116,1,1,1,1.00
+pencilthin,1,1,1,1.00
+payload,1,1,1,1.00
+participant,2,1,1,1.00
+paratrooper,1,1,1,1.00
+parachute,1,1,1,1.00
+pangermanists,1,1,1,1.00
+painters,1,1,1,1.00
+pact,1,1,1,1.00
+overrunning,1,1,1,1.00
+outfit,1,1,1,1.00
+outcome,1,1,1,1.00
+ottomanturks,1,1,1,1.00
+operations,3,1,1,1.00
+occasional,2,1,1,1.00
+observer,1,1,1,1.00
+obnoxious,1,1,1,1.00
+obama,1,1,1,1.00
+notorious,1,1,1,1.00
+nonbinding,1,1,1,1.00
+nonaggression,1,1,1,1.00
+nineteenth,1,1,1,1.00
+nighttime,1,1,1,1.00
+neighborhood,1,1,1,1.00
+ncos,1,1,1,1.00
+narrowest,1,1,1,1.00
+muster,1,1,1,1.00
+mum,1,1,1,1.00
+modtools,1,1,1,1.00
+mirroring,1,1,1,1.00
+minutes,1,1,1,1.00
+minor,1,1,1,1.00
+military_career,1,1,1,1.00
+miles,1,1,1,1.00
+mexico,1,1,1,1.00
+met,1,1,1,1.00
+mentioning,1,1,1,1.00
+memory,1,1,1,1.00
+medium,1,1,1,1.00
+medicine,1,1,1,1.00
+manually,1,1,1,1.00
+manchuria,1,1,1,1.00
+madrid,1,1,1,1.00
+lungtarring,1,1,1,1.00
+losses,1,1,1,1.00
+loosest,1,1,1,1.00
+logistics,1,1,1,1.00
+liked,1,1,1,1.00
+levant,1,1,1,1.00
+leisure,1,1,1,1.00
+lately,1,1,1,1.00
+lashings,1,1,1,1.00
+larios,1,1,1,1.00
+landed,1,1,1,1.00
+lambent,1,1,1,1.00
+korea,2,1,1,1.00
+kids,2,1,1,1.00
+karl,1,1,1,1.00
+k1728,1,1,1,1.00
+jurists,1,1,1,1.00
+joke,2,1,1,1.00
+joint,1,1,1,1.00
+jars,1,1,1,1.00
+jackie,1,1,1,1.00
+islamicchristian,1,1,1,1.00
+invite,1,1,1,1.00
+inviolable,1,1,1,1.00
+introduction,2,2,1,0.50
+interacting,1,1,1,1.00
+integration,1,1,1,1.00
+inject,1,1,1,1.00
+ineffective,1,1,1,1.00
+incompetent,1,1,1,1.00
+imported,1,1,1,1.00
+importantly,1,1,1,1.00
+implausible,1,1,1,1.00
+immature,2,1,1,1.00
+imho,1,1,1,1.00
+imgurcomayfq1q,1,1,1,1.00
+imagery,2,1,1,1.00
+iimgurcombdy14vhjpg,1,1,1,1.00
+idiotic,1,1,1,1.00
+ian,1,1,1,1.00
+houston,1,1,1,1.00
+hopping,1,1,1,1.00
+hoping,1,1,1,1.00
+honduras,1,1,1,1.00
+hilt,1,1,1,1.00
+hey,1,1,1,1.00
+heck,1,1,1,1.00
+hearing,1,1,1,1.00
+halfhour,1,1,1,1.00
+habits,2,1,1,1.00
+h,1,1,1,1.00
+guatemala,1,1,1,1.00
+grumbles,1,1,1,1.00
+grounding,1,1,1,1.00
+greedy,1,1,1,1.00
+greeces,1,1,1,1.00
+goal,1,1,1,1.00
+glowing,1,1,1,1.00
+globally,1,1,1,1.00
+gigantic,1,1,1,1.00
+gesture,1,1,1,1.00
+germanaustria,1,1,1,1.00
+generals,1,1,1,1.00
+gen,1,1,1,1.00
+fussy,1,1,1,1.00
+fulfill,1,1,1,1.00
+fuel,1,1,1,1.00
+footnotes,1,1,1,1.00
+followed,1,1,1,1.00
+flame,1,1,1,1.00
+finely,1,1,1,1.00
+final,1,1,1,1.00
+figures,1,1,1,1.00
+farmers,1,1,1,1.00
+fallouthow,1,1,1,1.00
+factory,1,1,1,1.00
+explosion,1,1,1,1.00
+exchange,1,1,1,1.00
+exceptionally,1,1,1,1.00
+evaluate,1,1,1,1.00
+eto,1,1,1,1.00
+estate,1,1,1,1.00
+equal,1,1,1,1.00
+enormous,1,1,1,1.00
+enjoyment,1,1,1,1.00
+enema,1,1,1,1.00
+enable,1,1,1,1.00
+emulated,1,1,1,1.00
+embers,1,1,1,1.00
+elegant,1,1,1,1.00
+educating,1,1,1,1.00
+drove,1,1,1,1.00
+drama,1,1,1,1.00
+dozen,1,1,1,1.00
+douglashome,1,1,1,1.00
+doubtful,1,1,1,1.00
+divert,1,1,1,1.00
+div,1,1,1,1.00
+dining,1,1,1,1.00
+designs,1,1,1,1.00
+depot,1,1,1,1.00
+denote,1,1,1,1.00
+delivering,1,1,1,1.00
+deleted,1,1,1,1.00
+deemed,1,1,1,1.00
+declared,1,1,1,1.00
+decisive,1,1,1,1.00
+decade,1,1,1,1.00
+cylinder,1,1,1,1.00
+curriculum,1,1,1,1.00
+crust,1,1,1,1.00
+crewmen,1,1,1,1.00
+creativity,1,1,1,1.00
+creative,1,1,1,1.00
+courses,1,1,1,1.00
+courage,1,1,1,1.00
+copypaste,1,1,1,1.00
+copy,1,1,1,1.00
+controversial,1,1,1,1.00
+consumer,1,1,1,1.00
+confusion,1,1,1,1.00
+conceivably,1,1,1,1.00
+commitments,2,1,1,1.00
+commitment,1,1,1,1.00
+commissioned,1,1,1,1.00
+commies,1,1,1,1.00
+commanded,1,1,1,1.00
+codex,1,1,1,1.00
+clicking,1,1,1,1.00
+cleaned,1,1,1,1.00
+civilized,1,1,1,1.00
+cite,1,1,1,1.00
+cigars,6,1,1,1.00
+cigarettes,5,1,1,1.00
+cigarette,3,1,1,1.00
+cigar,3,1,1,1.00
+chainmail,1,1,1,1.00
+centered,1,1,1,1.00
+catching,1,1,1,1.00
+catch,1,1,1,1.00
+cartons,1,1,1,1.00
+carried,1,1,1,1.00
+cardboard,1,1,1,1.00
+capable,1,1,1,1.00
+burn,1,1,1,1.00
+breaches,1,1,1,1.00
+box,1,1,1,1.00
+boundary,1,1,1,1.00
+bought,1,1,1,1.00
+bordering,1,1,1,1.00
+bones,1,1,1,1.00
+bomber,1,1,1,1.00
+bespeak,1,1,1,1.00
+besides,1,1,1,1.00
+belize,1,1,1,1.00
+beating,1,1,1,1.00
+basement,1,1,1,1.00
+base,1,1,1,1.00
+barack,1,1,1,1.00
+baphomet,1,1,1,1.00
+bank,1,1,1,1.00
+b29,1,1,1,1.00
+axis,1,1,1,1.00
+austrogerman,1,1,1,1.00
+august,1,1,1,1.00
+attested,1,1,1,1.00
+attempted,1,1,1,1.00
+astronomers,1,1,1,1.00
+asian,1,1,1,1.00
+aromas,1,1,1,1.00
+appreciated,1,1,1,1.00
+appearance,1,1,1,1.00
+anyway,1,1,1,1.00
+anschluss,1,1,1,1.00
+anatolia,1,1,1,1.00
+ammunition,1,1,1,1.00
+altered,1,1,1,1.00
+almond,1,1,1,1.00
+allotted,1,1,1,1.00
+aliens,1,1,1,1.00
+alec,1,1,1,1.00
+airmen,1,1,1,1.00
+aiding,1,1,1,1.00
+agreement,2,2,1,0.50
+afforded,1,1,1,1.00
+advancement,1,1,1,1.00
+addictive,1,1,1,1.00
+activity,1,1,1,1.00
+action,1,1,1,1.00
+accoutrement,1,1,1,1.00
+acceptance,1,1,1,1.00
+92nd,1,1,1,1.00
+929,1,1,1,1.00
+91,1,1,1,1.00
+720s,1,1,1,1.00
+66,1,1,1,1.00
+555th,1,1,1,1.00
+30,1,1,1,1.00
+1993,1,1,1,1.00
+1987,1,1,1,1.00
+1985,1,1,1,1.00
+1970s,1,1,1,1.00
+1945,1,1,1,1.00
+1941,1,1,1,1.00
+18th,1,1,1,1.00
+1850s,1,1,1,1.00
+1492,1,1,1,1.00
+11m30s,1,1,1,1.00
+111116,1,1,1,1.00
+vows,1,1,0,0.00
+volume,1,1,0,0.00
+vol,1,1,0,0.00
+viii,1,1,0,0.00
+vicious,1,1,0,0.00
+unforgiving,1,1,0,0.00
+unfamiliar,1,1,0,0.00
+undoubtedly,1,1,0,0.00
+streets,2,1,0,0.00
+split,1,1,0,0.00
+saccovanzetti,1,1,0,0.00
+rural,1,1,0,0.00
+reputations,1,1,0,0.00
+quantitative,1,1,0,0.00
+prussia,1,1,0,0.00
+presidents,1,1,0,0.00
+pawn,1,1,0,0.00
+paston,2,1,0,0.00
+passos,2,1,0,0.00
+notable,1,1,0,0.00
+newspaper,1,1,0,0.00
+murray,1,1,0,0.00
+methodology,1,1,0,0.00
+medievaltudor,1,1,0,0.00
+meantime,1,1,0,0.00
+marry,1,1,0,0.00
+marriages,1,1,0,0.00
+marriage,3,1,0,0.00
+kempton,2,1,0,0.00
+judges,1,1,0,0.00
+instruct,1,1,0,0.00
+inherit,1,1,0,0.00
+hire,1,1,0,0.00
+henry,1,1,0,0.00
+hapsburgs,1,1,0,0.00
+generated,1,1,0,0.00
+garbage,1,1,0,0.00
+fire,1,1,0,0.00
+feels,1,1,0,0.00
+families,1,1,0,0.00
+extend,1,1,0,0.00
+elizabeth,1,1,0,0.00
+editors,1,1,0,0.00
+drawn,1,1,0,0.00
+dos,2,1,0,0.00
+disposal,1,1,0,0.00
+discourses,1,1,0,0.00
+counterculture,1,1,0,0.00
+conquer,1,1,0,0.00
+college,1,1,0,0.00
+collections,1,1,0,0.00
+clubbed,2,1,0,0.00
+circle,1,1,0,0.00
+christina,1,1,0,0.00
+bundled,1,1,0,0.00
+bride,1,1,0,0.00
+betterknown,1,1,0,0.00
+apart,1,1,0,0.00
+alluding,1,1,0,0.00
+agree,1,1,0,0.00
+afraid,1,1,0,0.00
+adjustment,1,1,0,0.00
+Word, Frequency, Comment Frequency, Net Score,#VALUE!
+1967,1,1,0,0.00
+1936,1,1,0,0.00
