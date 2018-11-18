@@ -5,9 +5,11 @@ from nltk.corpus import stopwords
 import csv
 import sys
 import os
+import operator
 
 def file_len(fname):
     with open(fname) as f:
+        i=0
         for i, l in enumerate(f):
             pass
     return i + 1
@@ -16,13 +18,13 @@ def file_len(fname):
 stop_words = set(stopwords.words("english"))
 stop_words.add("nt") # redditers do'nt know how to spell or are linking nt.reddit...
 
-files = os.listdir("./NoBlanksNoRepeats/NoBlanksNoRepeats")
+files = os.listdir("./NoBlanksNoRepeats")
 outf = open('words.csv', 'w')
-outf.write("w, sr, f, cf, cs\n")
+outf.write("Word, Frequency, Comment Frequency, Net Score\n")
 
 for file in files:
-    csv_file = open("./NoBlanksNoRepeats/NoBlanksNoRepeats/" + file)
-    flen = file_len("./NoBlanksNoRepeats/NoBlanksNoRepeats/" + file)
+    csv_file = open("./NoBlanksNoRepeats/" + file)
+    flen = file_len("./NoBlanksNoRepeats/" + file)
     csv_reader = csv.reader(csv_file)
     
     # empty dictionaries
@@ -31,6 +33,7 @@ for file in files:
     cmntscr = { }
     
     i = 1
+    subreddit = ""
     for line in csv_reader:
         # print progress
         print "\rFile", file, "line", i, "/", flen,
@@ -74,15 +77,21 @@ for file in files:
     # end of one subreddit
     csv_file.close()
     
-    # write to our output file
+    # write to our output files
+    path = subreddit+".csv"
+    srf = open(path, 'w+')
+    srf.write("Word, Frequency, Comment Frequency, Net Score\n")
     a = len(wordsd)
     i = 1
     for w in wordsd:
-        if w in stop_words:
+        if (w in stop_words) or (len(w) > 20):
             continue
         print "\rWriting to csv for", file, i, "of", a,
         sys.stdout.flush()
-        outf.write(w + ", " + subreddit+ ", " + str(wordsd[w]) + ", " + str(cmntcnt[w]) + ", " + str(cmntscr[w]) + "\n")
+        outf.write(w + ", " + str(wordsd[w]) + ", " + str(cmntcnt[w]) + ", " + str(cmntscr[w]) + "\n")
+        srf.write(w + ", " + str(wordsd[w]) + ", " + str(cmntcnt[w]) + ", " + str(cmntscr[w]) + "\n")
         i += 1
-
+    srf.close()
+    
+    
 outf.close()
