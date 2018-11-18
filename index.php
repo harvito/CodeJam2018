@@ -1,1 +1,0 @@
-<?php header( 'Location: /Website/redditkarmapredictor/Client/index.html/' ) ;  ?>
