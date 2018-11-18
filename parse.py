@@ -3,23 +3,51 @@ from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktLanguageVars
 from nltk.probability import FreqDist
 from nltk.corpus import stopwords
 import csv
+import os
+
+spath = r"/Users/daesun/Documents/GitHub/CodeJam2018/NoBlanksNoRepeats"
+
+filenames = os.listdir(spath)
+
+os.chdir("/Users/daesun/Documents/GitHub/CodeJam2018/NoBlanksNoRepeats")
+
+
+newfiles = {}
+i=0
+
+for filename in filenames:
+	newfiles[i] = "New_"+ str(filename)
+	i = i+1
+
+i=0
+
+number_of_files = len(filenames)
+loop_counter = 0
+
 
 #initialize array of comments and upvotes.
-comments = {}
-upvotes = {}
-commentID = {}
-filtered_comment = []
+for current_file in filenames:
+	print(current_file)
+	comments = {}
+	upvotes = {}
+	commentID = {}
+	filtered_comment = []
 
-#set stopwords
-stop_words = set(stopwords.words("english"))
+	#set stopwords
+	stop_words = set(stopwords.words("english"))
 
-#Open up the csv file and extract the comments and # of upvotes.
-with open('circlejerk.csv') as csv_file:
+	#Open up the csv file and extract the comments and # of upvotes.
+	try:
+		csv_file = open(filenames[loop_counter])
+	except:
+		print(filenames[loop_counter])
+
 	csv_reader = csv.reader(csv_file)
 
 	i=0
-
+	
 	for line in csv_reader:
+		print(i+1)
 		comments[i] = line[0]
 		upvotes[i] = line[6]
 		commentID[i] = line[4]
@@ -30,55 +58,50 @@ with open('circlejerk.csv') as csv_file:
 		for w in words:
 			if w not in stop_words:
 					filtered_comment.append(w)
-
+	
 		i=i+1
+	csv_file.close()
 
+	fdist = FreqDist(filtered_comment)
 
-fdist = FreqDist(filtered_comment)
-print(fdist.most_common(len(fdist)))
-print(len(fdist))
+	cdist = fdist.most_common(len(fdist))
 
-cdist = fdist.most_common(len(fdist))
+	i=0
+	j=0
+	counter=0
 
-for f in fdist:
-	print(f)
+	commentFreq = []
 
-i=0
-j=0
-counter=0
+	with open(newfiles[loop_counter], 'w+', newline='') as file:
+		thewriter = csv.writer(file)
+		for g in fdist:
+			thewriter.writerow(fdist)
+			break
 
-commentFreq = []
+		with open(filenames[loop_counter]) as csv_file:
+			csv_reader = csv.reader(csv_file)
 
-with open('test.csv', 'w+', newline='') as f:
-	thewriter = csv.writer(f)
-	for g in fdist:
-		thewriter.writerow(fdist)
-		break
+			for line in csv_reader:
 
-	with open('circlejerk.csv') as csv_file:
-		csv_reader = csv.reader(csv_file)
+				comments[i] = line[0]
+				upvotes[i] = line[6]
+				commentID[i] = line[4]
 
-		for line in csv_reader:
+				words = word_tokenize(comments[i])
 
-			comments[i] = line[0]
-			upvotes[i] = line[6]
-			commentID[i] = line[4]
+				for f in fdist:
+					for w in words:
+						if(w==f):
+							counter=counter+1
 
-			words = word_tokenize(comments[i])
+					commentFreq.append(counter)
+					counter=0
 
-			print(words)
-			for f in fdist:
-				for w in words:
-					#print(w + " " +f)
-					if(w==f):
-						counter=counter+1
-						#print(counter)
-
-				commentFreq.append(counter)
-				counter=0
-
-			commentFreq.append(upvotes[i])
-			commentFreq.append(commentID[i])
-			print(commentFreq)
-			thewriter.writerow(commentFreq)
-			commentFreq=[]
+				commentFreq.append(upvotes[i])
+				commentFreq.append(commentID[i])
+				#print(commentFreq)
+				thewriter.writerow(commentFreq)
+				commentFreq=[]
+		csv_file.close()
+	file.close()
+	loop_counter = loop_counter+1
