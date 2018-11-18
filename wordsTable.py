@@ -19,7 +19,11 @@ stop_words = set(stopwords.words("english"))
 stop_words.add("nt") # redditers do'nt know how to spell or are linking nt.reddit...
 
 files = os.listdir("./NoBlanksNoRepeats")
+ftrain = open('words_train.csv', 'w')
+ftest = open('words_test.csv', 'w')
 outf = open('words.csv', 'w')
+ftrain.write("Word, Frequency, Comment Frequency, Net Score\n")
+ftest.write("Word, Frequency, Comment Frequency, Net Score\n")
 outf.write("Word, Frequency, Comment Frequency, Net Score\n")
 
 for file in files:
@@ -89,9 +93,17 @@ for file in files:
         print "\rWriting to csv for", file, i, "of", a,
         sys.stdout.flush()
         outf.write(w + ", " + str(wordsd[w]) + ", " + str(cmntcnt[w]) + ", " + str(cmntscr[w]) + "\n")
-        srf.write(w + ", " + str(wordsd[w]) + ", " + str(cmntcnt[w]) + ", " + str(cmntscr[w]) + "\n")
+        
+        # separate into training and testing data
+        if i % 4 == 0:
+            ftest.write(w + ", " + str(wordsd[w]) + ", " + str(cmntcnt[w]) + ", " + str(cmntscr[w]) + "\n")
+        else:
+            ftrain.write(w + ", " + str(wordsd[w]) + ", " + str(cmntcnt[w]) + ", " + str(cmntscr[w]) + "\n")
+        
+        # srf.write(w + ", " + str(wordsd[w]) + ", " + str(cmntcnt[w]) + ", " + str(cmntscr[w]) + "\n")
         i += 1
     srf.close()
     
-    
+ftrain.close()
+ftest.close()
 outf.close()
